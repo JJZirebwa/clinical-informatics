@@ -1,0 +1,7 @@
+site_id,site_name,region,target_enrollment,screened_n,enrolled_n,enrollment_to_target_rate,completed_n,discontinued_n,open_query_n,median_open_query_age_days,visit_window_miss_rate,ae_n,deviation_n,validation_issue_n
+S001,Northgate Research Centre,North England,22,27,23,1.045,11,2,15,21.0,0.245,12,12,92
+S002,Fenland Metabolic Unit,East England,18,21,18,1.0,8,3,6,17.5,0.155,14,5,62
+S003,Severn Clinical Studies,West England,20,20,18,0.9,6,2,5,18.0,0.179,17,5,60
+S004,Southbank Trials Clinic,London,24,28,23,0.958,10,3,9,33.0,0.161,21,5,70
+S005,Clyde Health Research,Scotland,16,21,17,1.062,5,2,6,23.5,0.11,14,5,55
+S006,Vale Primary Care Research,Wales,14,9,8,0.571,1,3,1,29.0,0.163,3,2,22

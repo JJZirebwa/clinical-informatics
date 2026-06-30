@@ -1,0 +1,19 @@
+visit_name,participant_status,scheduled_n,completed_n,outside_window_n
+30-Day Safety Follow-up,Active,51,44,10
+30-Day Safety Follow-up,Completed,41,39,5
+Baseline / Randomisation,Active,51,51,9
+Baseline / Randomisation,Completed,41,40,8
+Baseline / Randomisation,Discontinued,15,15,1
+Screening,Active,51,48,9
+Screening,Completed,41,40,5
+Screening,Discontinued,15,14,5
+Screening,Screen Failed,19,15,5
+Week 12 / End of Treatment,Active,51,46,9
+Week 12 / End of Treatment,Completed,41,36,5
+Week 12 / End of Treatment,Discontinued,2,2,0
+Week 4,Active,51,43,8
+Week 4,Completed,41,38,11
+Week 4,Discontinued,15,11,4
+Week 8,Active,51,45,7
+Week 8,Completed,41,32,7
+Week 8,Discontinued,10,7,1

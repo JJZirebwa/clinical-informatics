@@ -1,0 +1,82 @@
+ae_id,participant_id,site_id,term,onset_date,resolution_date,reported_date,seriousness,severity,relationship,action_taken,outcome,follow_up_required,follow_up_status,source
+AE-0001,P-0002,S005,Dizziness,2026-07-05,2026-07-23,2026-07-10,Non-serious,Moderate,Possible,None,Resolved,False,Not required,synthetic
+AE-0002,P-0003,S004,Elevated ALT,2026-05-11,2026-06-02,2026-05-17,Non-serious,Moderate,Unrelated,Dose interrupted,Recovering,False,Not required,synthetic
+AE-0003,P-0004,S004,Headache,2026-07-01,2026-07-03,2026-07-03,Serious,Mild,Possible,None,Resolved,True,Open,synthetic
+AE-0004,P-0007,S002,Elevated ALT,2026-06-24,2026-06-30,2026-07-04,Non-serious,Moderate,Unrelated,None,Resolved,False,Not required,synthetic
+AE-0005,P-0010,S001,Elevated ALT,2026-07-22,,2026-07-26,Non-serious,Mild,Possible,None,Ongoing,True,Complete,synthetic
+AE-0006,P-0010,S001,Nausea,2026-06-11,2026-06-22,2026-06-18,Non-serious,Mild,Unrelated,Dose interrupted,Resolved,False,Not required,synthetic
+AE-0007,P-0010,S001,Headache,2026-06-27,2026-07-16,2026-07-03,Non-serious,Mild,Possible,None,Resolved,False,Not required,synthetic
+AE-0008,P-0011,S004,Headache,2026-04-15,2026-05-03,2026-04-23,Non-serious,Moderate,Unrelated,None,Resolved,False,Not required,synthetic
+AE-0009,P-0012,S003,Dizziness,2026-03-08,2026-03-17,2026-03-17,Non-serious,Mild,Possible,None,Resolved,False,Not required,synthetic
+AE-0010,P-0013,S004,Hypoglycaemia,2026-04-22,2026-05-16,2026-04-23,Non-serious,Severe,Unrelated,None,Resolved,True,Not required,synthetic
+AE-0011,P-0013,S004,Dizziness,2026-04-16,2026-05-08,2026-04-17,Serious,Mild,Unrelated,Study drug withdrawn,Recovering,True,Open,synthetic
+AE-0012,P-0014,S001,Hypoglycaemia,2026-05-10,2026-05-31,2026-05-12,Non-serious,Mild,Probable,None,Resolved,False,Not required,synthetic
+AE-0013,P-0014,S001,Nausea,2026-05-16,2026-06-09,2026-05-21,Non-serious,Mild,Unrelated,None,Resolved,False,Not required,synthetic
+AE-0014,P-0015,S004,Nausea,2026-06-25,2026-06-28,2026-07-03,Non-serious,Moderate,Probable,None,Resolved,False,Not required,synthetic
+AE-0015,P-0019,S004,Headache,2026-06-03,2026-06-07,2026-06-10,Non-serious,Moderate,Unrelated,Dose interrupted,Recovering,False,Not required,synthetic
+AE-0016,P-0021,S001,Hypoglycaemia,2026-04-21,2026-05-15,2026-04-26,Non-serious,Moderate,Unrelated,Dose interrupted,Resolved,False,Not required,synthetic
+AE-0017,P-0023,S004,Elevated ALT,2026-07-05,2026-08-06,2026-07-10,Non-serious,Moderate,Unrelated,None,Resolved,False,Not required,synthetic
+AE-0018,P-0024,S005,Hypoglycaemia,2026-06-29,2026-07-25,2026-07-09,Non-serious,Mild,Possible,None,Resolved,False,Not required,synthetic
+AE-0019,P-0025,S002,Dizziness,2026-06-06,,2026-06-15,Non-serious,Severe,Unrelated,None,Ongoing,True,Complete,synthetic
+AE-0020,P-0027,S002,Elevated ALT,2026-07-28,2026-08-09,2026-08-02,Non-serious,Moderate,Possible,None,Resolved,False,Not required,synthetic
+AE-0021,P-0027,S002,Headache,2026-06-15,2026-07-17,2026-06-18,Serious,Moderate,Unrelated,None,Recovering,True,Complete,synthetic
+AE-0022,P-0027,S002,Nausea,2026-06-23,2026-06-27,2026-06-25,Serious,Mild,Possible,None,Resolved,True,Open,synthetic
+AE-0023,P-0029,S003,Nausea,2026-07-04,2026-07-09,2026-07-14,Non-serious,Mild,Possible,None,Resolved,False,Not required,synthetic
+AE-0024,P-0029,S003,Elevated ALT,2026-06-13,2026-07-11,2026-06-18,Non-serious,Severe,Possible,None,Recovering,True,Not required,synthetic
+AE-0025,P-0033,S004,Hypoglycaemia,2026-06-24,2026-07-28,2026-06-29,Non-serious,Moderate,Unrelated,None,Resolved,False,Not required,synthetic
+AE-0026,P-0035,S002,Nausea,2026-03-06,2026-03-21,2026-03-16,Non-serious,Moderate,Probable,None,Resolved,False,Not required,synthetic
+AE-0027,P-0039,S003,Headache,2026-07-07,,2026-07-09,Non-serious,Mild,Possible,None,Ongoing,True,Open,synthetic
+AE-0028,P-0040,S002,Injection-site reaction,2026-06-05,2026-06-22,2026-06-09,Non-serious,Mild,Unrelated,None,Resolved,False,Not required,synthetic
+AE-0029,P-0041,S001,Elevated ALT,2026-05-22,2026-06-12,2026-05-23,Non-serious,Mild,Unrelated,None,Resolved,False,Not required,synthetic
+AE-0030,P-0051,S005,Headache,2026-05-19,2026-06-04,2026-05-27,Non-serious,Mild,Unrelated,Study drug withdrawn,Recovering,False,Not required,synthetic
+AE-0031,P-0055,S004,Injection-site reaction,2026-04-22,2026-05-25,2026-04-26,Non-serious,Moderate,Possible,None,Recovering,False,Not required,synthetic
+AE-0032,P-0055,S004,Nausea,2026-04-28,2026-05-30,2026-04-29,Non-serious,Moderate,Possible,None,Resolved,False,Not required,synthetic
+AE-0033,P-0056,S005,Injection-site reaction,2026-05-07,2026-05-12,2026-05-11,Non-serious,Mild,Unrelated,None,Recovering,False,Not required,synthetic
+AE-0034,P-0057,S001,Headache,2026-07-29,2026-08-07,2026-08-01,Non-serious,Mild,Unrelated,None,Resolved,False,Not required,synthetic
+AE-0035,P-0058,S005,Dizziness,2026-07-13,,2026-07-13,Serious,Mild,Unrelated,None,Ongoing,True,Complete,synthetic
+AE-0036,P-0060,S005,Dizziness,2026-06-23,2026-07-22,2026-06-30,Non-serious,Moderate,Unrelated,None,Resolved,False,Not required,synthetic
+AE-0037,P-0061,S005,Headache,2026-05-23,2026-05-29,2026-05-31,Non-serious,Mild,Possible,None,Resolved,False,Not required,synthetic
+AE-0038,P-0062,S003,Injection-site reaction,2026-05-27,2026-06-26,2026-05-29,Non-serious,Mild,Possible,None,Resolved,False,Not required,synthetic
+AE-0039,P-0062,S003,Hypoglycaemia,2026-06-09,2026-06-30,2026-06-11,Non-serious,Moderate,Unrelated,None,Resolved,False,Not required,synthetic
+AE-0040,P-0065,S005,Headache,2026-05-30,2026-06-03,2026-06-05,Non-serious,Mild,Unrelated,None,Resolved,False,Not required,synthetic
+AE-0041,P-0067,S002,Dizziness,2026-04-16,2026-05-09,2026-04-18,Non-serious,Mild,Possible,Dose interrupted,Resolved,False,Not required,synthetic
+AE-0042,P-0067,S002,Headache,2026-05-29,2026-06-08,2026-06-03,Non-serious,Moderate,Unrelated,Dose interrupted,Recovering,False,Not required,synthetic
+AE-0043,P-0068,S004,Injection-site reaction,2026-05-26,2026-05-27,2026-05-27,Non-serious,Mild,Unrelated,Dose interrupted,Resolved,False,Not required,synthetic
+AE-0044,P-0069,S004,Headache,2026-06-04,,2026-06-09,Non-serious,Mild,Unrelated,Dose interrupted,Ongoing,True,Complete,synthetic
+AE-0045,P-0070,S004,Dizziness,2026-05-17,2026-06-17,2026-05-24,Non-serious,Mild,Unrelated,None,Resolved,False,Not required,synthetic
+AE-0046,P-0070,S004,Injection-site reaction,2026-04-09,,2026-04-12,Non-serious,Moderate,Unrelated,None,Ongoing,True,Complete,synthetic
+AE-0047,P-0071,S004,Injection-site reaction,2026-05-28,2026-06-23,2026-06-08,Non-serious,Mild,Possible,None,Resolved,False,Not required,synthetic
+AE-0048,P-0071,S004,Dizziness,2026-04-10,2026-05-07,2026-04-15,Non-serious,Mild,Unrelated,None,Recovering,False,Not required,synthetic
+AE-0049,P-0072,S005,Nausea,2026-04-11,,2026-04-11,Serious,Mild,Possible,None,Ongoing,True,Complete,synthetic
+AE-0050,P-0074,S003,Hypoglycaemia,2026-08-15,2026-09-07,2026-08-16,Non-serious,Moderate,Probable,None,Resolved,False,Not required,synthetic
+AE-0051,P-0074,S003,Injection-site reaction,2026-06-01,2026-06-28,2026-06-01,Non-serious,Moderate,Possible,None,Resolved,False,Not required,synthetic
+AE-0052,P-0075,S004,Dizziness,2026-06-04,2026-06-29,2026-06-15,Non-serious,Moderate,Possible,None,Resolved,False,Not required,synthetic
+AE-0053,P-0076,S002,Dizziness,2026-07-30,2026-08-20,2026-08-07,Non-serious,Moderate,Probable,Dose interrupted,Resolved,False,Not required,synthetic
+AE-0054,P-0076,S002,Dizziness,2026-07-18,2026-08-11,2026-07-25,Non-serious,Severe,Possible,Dose interrupted,Resolved,True,Not required,synthetic
+AE-0055,P-0078,S003,Nausea,2026-06-13,2026-07-02,2026-06-15,Non-serious,Moderate,Unrelated,Dose interrupted,Resolved,False,Not required,synthetic
+AE-0056,P-0078,S003,Elevated ALT,2026-04-17,,2026-04-25,Non-serious,Moderate,Possible,Dose interrupted,Ongoing,True,Open,synthetic
+AE-0057,P-0079,S003,Hypoglycaemia,2026-04-23,2026-05-25,2026-05-01,Non-serious,Moderate,Possible,None,Recovering,False,Not required,synthetic
+AE-0058,P-0079,S003,Elevated ALT,2026-04-28,2026-05-28,2026-05-05,Non-serious,Mild,Unrelated,None,Resolved,False,Not required,synthetic
+AE-0059,P-0080,S001,Dizziness,2026-07-11,2026-07-29,2026-07-14,Non-serious,Mild,Possible,None,Resolved,False,Not required,synthetic
+AE-0060,P-0083,S002,Hypoglycaemia,2026-07-28,,2026-07-31,Non-serious,Mild,Unrelated,Dose interrupted,Ongoing,True,Complete,synthetic
+AE-0061,P-0085,S005,Nausea,2026-07-19,2026-07-28,2026-07-22,Non-serious,Severe,Unrelated,None,Recovering,True,Not required,synthetic
+AE-0062,P-0088,S005,Elevated ALT,2026-04-16,2026-05-05,2026-04-25,Non-serious,Mild,Unrelated,None,Resolved,False,Not required,synthetic
+AE-0063,P-0101,S003,Elevated ALT,2026-04-09,2026-04-30,2026-04-15,Non-serious,Mild,Possible,None,Resolved,False,Not required,synthetic
+AE-0064,P-0101,S003,Dizziness,2026-05-06,2026-05-22,2026-05-14,Non-serious,Mild,Possible,None,Resolved,False,Not required,synthetic
+AE-0065,P-0101,S003,Injection-site reaction,2026-03-26,2026-04-21,2026-04-02,Non-serious,Severe,Unrelated,Dose interrupted,Resolved,True,Not required,synthetic
+AE-0066,P-0106,S006,Hypoglycaemia,2026-06-01,2026-06-02,2026-06-04,Non-serious,Moderate,Probable,None,Resolved,False,Not required,synthetic
+AE-0067,P-0109,S006,Hypoglycaemia,2026-05-22,2026-06-24,2026-05-28,Non-serious,Severe,Unrelated,None,Resolved,True,Not required,synthetic
+AE-0068,P-0109,S006,Hypoglycaemia,2026-05-14,,2026-05-16,Non-serious,Mild,Unrelated,Dose interrupted,Ongoing,True,Complete,synthetic
+AE-0069,P-0111,S005,Nausea,2026-04-20,2026-05-14,2026-04-22,Non-serious,Moderate,Unrelated,None,Recovering,False,Not required,synthetic
+AE-0070,P-0111,S005,Injection-site reaction,2026-05-25,2026-06-25,2026-06-03,Non-serious,Severe,Possible,Dose interrupted,Resolved,True,Not required,synthetic
+AE-0071,P-0114,S003,Injection-site reaction,2026-03-08,2026-04-10,2026-03-19,Non-serious,Moderate,Possible,None,Resolved,False,Not required,synthetic
+AE-0072,P-0114,S003,Injection-site reaction,2026-03-22,2026-03-29,2026-04-01,Non-serious,Moderate,Unrelated,None,Resolved,False,Not required,synthetic
+AE-0073,P-0115,S004,Injection-site reaction,2026-04-12,2026-04-15,2026-04-23,Non-serious,Mild,Unrelated,None,Resolved,False,Not required,synthetic
+AE-0074,P-0115,S004,Dizziness,2026-05-18,2026-05-19,2026-05-23,Non-serious,Moderate,Possible,None,Resolved,False,Not required,synthetic
+AE-0075,P-0117,S005,Headache,2026-06-20,2026-07-08,2026-06-21,Non-serious,Moderate,Unrelated,None,Resolved,False,Not required,synthetic
+AE-0076,P-0118,S004,Hypoglycaemia,2026-03-26,2026-04-20,2026-03-29,Non-serious,Moderate,Probable,None,Resolved,False,Not required,synthetic
+AE-0077,P-0120,S001,Dizziness,2026-04-06,2026-04-27,2026-04-15,Non-serious,Mild,Unrelated,None,Resolved,False,Not required,synthetic
+AE-0078,P-0122,S002,Nausea,2026-06-18,,2026-06-19,Non-serious,Moderate,Unrelated,None,Ongoing,True,Complete,synthetic
+AE-0079,P-0123,S002,Headache,2026-06-17,2026-07-15,2026-06-28,Non-serious,Mild,Possible,None,Recovering,False,Not required,synthetic
+AE-0080,P-0124,S001,Injection-site reaction,2026-07-21,2026-07-27,2026-07-25,Non-serious,Severe,Possible,None,Resolved,True,Not required,synthetic
+AE-0081,P-0124,S001,Hypoglycaemia,2026-05-17,2026-06-18,2026-05-24,Non-serious,Mild,Unrelated,None,Resolved,False,Not required,synthetic

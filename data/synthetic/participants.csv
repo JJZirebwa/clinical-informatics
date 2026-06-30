@@ -1,0 +1,127 @@
+participant_id,site_id,age_years,sex,screening_date,consent_date,randomization_date,participant_status,treatment_arm,baseline_hba1c,discontinuation_reason,source
+P-0001,S005,38,Female,2026-04-04,2026-04-03,,Screen Failed,Not randomized,7.1,Eligibility criteria not met,synthetic
+P-0002,S005,53,Female,2026-04-08,2026-04-06,2026-04-23,Active,Arm B,9.2,,synthetic
+P-0003,S004,38,Female,2026-03-11,2026-03-09,2026-03-21,Completed,Arm A,9.3,,synthetic
+P-0004,S004,74,Male,2026-03-25,2026-03-25,2026-04-08,Active,Arm A,8.0,,synthetic
+P-0005,S002,65,Male,2026-03-07,2026-03-06,2026-03-18,Active,Arm A,8.0,,synthetic
+P-0006,S002,42,Female,2026-04-06,2026-04-04,2026-04-15,Completed,Arm B,7.6,,synthetic
+P-0007,S002,60,Female,2026-03-26,2026-03-24,2026-04-01,Completed,Arm B,7.7,,synthetic
+P-0008,S005,62,Female,2026-04-08,2026-04-06,2026-04-17,Active,Arm A,9.1,,synthetic
+P-0009,S001,46,Female,2026-04-17,2026-04-15,2026-04-27,Completed,Arm B,7.8,,synthetic
+P-0010,S001,54,Male,2026-04-16,2026-04-16,2026-04-21,Completed,Arm B,8.1,,synthetic
+P-0011,S004,59,Female,2026-03-26,2026-03-25,2026-04-10,Completed,Arm A,9.3,,synthetic
+P-0012,S003,37,Female,2026-02-03,2026-02-01,2026-02-18,Active,Arm B,8.5,,synthetic
+P-0013,S004,51,Male,2026-02-12,2026-02-11,2026-03-01,Discontinued,Arm B,7.7,Lost to follow-up,synthetic
+P-0014,S001,41,Male,2026-02-11,2026-02-11,2026-02-24,Discontinued,Arm A,8.9,Adverse event,synthetic
+P-0015,S004,63,Female,2026-03-20,2026-03-19,2026-03-27,Completed,Arm A,7.0,,synthetic
+P-0016,S001,74,Male,2026-04-01,2026-03-31,,Screen Failed,Not randomized,8.0,Eligibility criteria not met,synthetic
+P-0017,S006,46,Female,2026-02-26,2026-02-24,2026-03-13,Discontinued,Arm A,8.1,Adverse event,synthetic
+P-0018,S003,57,Male,2026-04-08,2026-04-08,2026-04-23,Active,Arm B,8.5,,synthetic
+P-0019,S004,58,Male,2026-02-17,2026-02-16,2026-02-27,Completed,Arm A,7.4,,synthetic
+P-0020,S003,62,Female,2026-04-16,2026-04-16,2026-04-22,Completed,Arm A,7.2,,synthetic
+P-0021,S001,49,Male,2026-02-14,2026-02-14,2026-03-02,Completed,Arm A,8.2,,synthetic
+P-0022,S006,54,Male,2026-03-12,2026-03-11,2026-03-16,Discontinued,Arm A,8.8,Lost to follow-up,synthetic
+P-0023,S004,57,Female,2026-03-24,2026-03-23,2026-04-10,Active,Arm A,8.3,,synthetic
+P-0024,S005,57,Female,2026-03-22,2026-03-22,2026-04-07,Active,Arm A,7.9,,synthetic
+P-0025,S002,39,Male,2026-02-24,2026-02-23,2026-03-13,Discontinued,Arm B,7.2,Lost to follow-up,synthetic
+P-0026,S001,53,Female,2026-02-14,2026-02-13,2026-02-22,Completed,Arm B,9.3,,synthetic
+P-0027,S002,73,Female,2026-04-18,2026-04-17,2026-04-29,Active,Arm B,7.9,,synthetic
+P-0028,S003,38,Male,2026-05-04,2026-05-02,,Screen Failed,Not randomized,8.3,Eligibility criteria not met,synthetic
+P-0029,S003,51,Female,2026-04-13,2026-04-12,2026-04-21,Discontinued,Arm A,9.9,Adverse event,synthetic
+P-0030,S002,40,Male,2026-03-08,2026-03-08,2026-03-25,Active,Arm A,8.2,,synthetic
+P-0031,S001,36,Female,2026-03-07,2026-03-06,,Screen Failed,Not randomized,9.0,Eligibility criteria not met,synthetic
+P-0032,S006,35,Female,2026-02-19,2026-02-18,2026-03-02,Active,Arm B,8.5,,synthetic
+P-0033,S004,66,Female,2026-05-04,2026-05-04,2026-05-20,Completed,Arm B,8.1,,synthetic
+P-0034,S004,40,Male,2026-03-28,2026-03-28,2026-04-11,Active,Arm A,7.9,,synthetic
+P-0035,S002,56,Male,2026-02-13,2026-02-12,2026-02-21,Completed,Arm B,8.2,,synthetic
+P-0036,S004,40,Female,2026-02-28,2026-02-28,2026-03-12,Active,Arm B,10.9,,synthetic
+P-0037,S004,67,Female,2026-02-18,2026-02-16,2026-02-28,Discontinued,Arm A,9.6,Adverse event,synthetic
+P-0038,S005,66,Male,2026-02-24,2026-02-22,2026-03-04,Active,Arm B,10.6,,synthetic
+P-0039,S003,61,Male,2026-03-30,2026-03-30,2026-04-08,Completed,Arm A,6.9,,synthetic
+P-0040,S002,39,Female,2026-02-26,2026-02-26,2026-03-13,Discontinued,Arm B,8.0,Protocol decision,synthetic
+P-0041,S001,72,Female,2026-02-19,2026-02-17,2026-03-07,Active,Arm A,8.0,,synthetic
+P-0042,S001,37,Female,2026-04-29,2026-04-28,2026-05-04,Active,Arm B,7.8,,synthetic
+P-0043,S004,75,Male,2026-03-22,2026-03-20,2026-04-06,Completed,Arm A,7.7,,synthetic
+P-0044,S001,45,Male,2026-03-20,2026-03-19,2026-03-26,Active,Arm A,8.8,,synthetic
+P-0045,S001,38,Female,2026-02-01,2026-01-31,2026-02-17,Completed,Arm A,8.9,,synthetic
+P-0046,S001,69,Male,2026-04-21,2026-04-19,,Screen Failed,Not randomized,7.9,Eligibility criteria not met,synthetic
+P-0047,S005,56,Male,2026-04-01,2026-03-31,2026-04-15,Discontinued,Arm A,9.9,Protocol decision,synthetic
+P-0048,S003,37,Male,2026-04-16,2026-04-15,2026-04-23,Completed,Arm A,8.7,,synthetic
+P-0049,S002,48,Female,2026-02-14,2026-02-13,2026-02-23,Active,Arm B,7.3,,synthetic
+P-0050,S002,70,Female,2026-04-17,2026-04-15,,Screen Failed,Not randomized,8.8,Eligibility criteria not met,synthetic
+P-0051,S005,66,Female,2026-03-18,2026-03-17,2026-03-31,Discontinued,Arm B,9.4,Adverse event,synthetic
+P-0052,S002,63,Female,2026-04-02,2026-04-01,,Screen Failed,Not randomized,9.6,Eligibility criteria not met,synthetic
+P-0053,S001,64,Male,2026-04-01,2026-03-30,2026-04-12,Active,Arm B,7.9,,synthetic
+P-0054,S004,38,Male,2026-02-14,2026-02-13,2026-02-28,Discontinued,Arm B,7.7,Protocol decision,synthetic
+P-0055,S004,58,Male,2026-02-25,2026-02-25,2026-03-03,Completed,Arm A,8.7,,synthetic
+P-0056,S005,40,Female,2026-04-29,2026-04-27,2026-05-06,Completed,Arm B,6.8,,synthetic
+P-0057,S001,66,Male,2026-04-30,2026-04-29,2026-05-13,Completed,Arm B,9.5,,synthetic
+P-0058,S005,56,Female,2026-04-19,2026-04-17,2026-05-04,Active,Arm A,8.8,,synthetic
+P-0059,S006,64,Male,2026-03-02,2026-03-01,2026-03-12,Completed,Arm A,7.6,,synthetic
+P-0060,S005,35,Male,2026-03-31,2026-03-30,2026-04-13,Completed,Arm B,9.0,,synthetic
+P-0061,S005,59,Male,2026-04-10,2026-04-08,2026-04-22,Active,Arm A,8.5,,synthetic
+P-0062,S003,47,Female,2026-04-10,2026-04-08,2026-04-27,Active,Arm A,8.9,,synthetic
+P-0063,S005,39,Male,2026-03-15,2026-03-14,,Screen Failed,Not randomized,7.9,Eligibility criteria not met,synthetic
+P-0064,S005,35,Male,2026-02-05,2026-02-05,,Screen Failed,Not randomized,9.2,Eligibility criteria not met,synthetic
+P-0065,S005,40,Male,2026-04-05,2026-04-03,2026-04-09,Active,Arm A,9.2,,synthetic
+P-0066,S006,41,Male,2026-02-28,2026-02-27,2026-03-04,Active,Arm A,7.1,,synthetic
+P-0067,S002,67,Male,2026-02-05,2026-02-05,2026-02-20,Active,Arm B,8.6,,synthetic
+P-0068,S004,39,Male,2026-04-19,2026-04-17,2026-04-29,Active,Arm A,9.8,,synthetic
+P-0069,S004,65,Female,2026-02-12,2026-02-12,2026-02-27,Active,Arm B,8.0,,synthetic
+P-0070,S004,37,Female,2026-03-22,2026-03-20,2026-04-02,Completed,Arm A,8.3,,synthetic
+P-0071,S004,42,Male,2026-03-31,2026-03-30,2026-04-06,Active,Arm B,7.7,,synthetic
+P-0072,S005,45,Female,2026-02-25,2026-02-24,2026-03-07,Completed,Arm A,6.9,,synthetic
+P-0073,S004,61,Female,2026-05-01,2026-05-01,,Screen Failed,Not randomized,8.3,Eligibility criteria not met,synthetic
+P-0074,S003,73,Female,2026-04-28,2026-04-27,2026-05-15,Active,Arm A,7.6,,synthetic
+P-0075,S004,51,Female,2026-02-27,2026-02-26,2026-03-11,Completed,Arm A,6.3,,synthetic
+P-0076,S002,41,Male,2026-04-29,2026-04-29,2026-05-09,Completed,Arm A,8.7,,synthetic
+P-0077,S004,47,Male,2026-02-22,2026-02-21,2026-03-07,Completed,Arm B,9.5,,synthetic
+P-0078,S003,68,Male,2026-03-23,2026-03-22,2026-04-09,Active,Arm B,9.0,,synthetic
+P-0079,S003,56,Male,2026-04-11,2026-04-09,2026-04-22,Discontinued,Arm A,9.0,Lost to follow-up,synthetic
+P-0080,S001,46,Female,2026-04-21,2026-04-19,2026-05-06,Active,Arm A,8.1,,synthetic
+P-0081,S002,63,Female,2026-02-07,2026-02-05,2026-02-17,Active,Arm B,9.3,,synthetic
+P-0082,S004,74,Male,2026-04-23,2026-04-21,2026-04-28,Active,Arm B,8.8,,synthetic
+P-0083,S002,72,Female,2026-04-15,2026-04-13,2026-04-29,Completed,Arm A,9.2,,synthetic
+P-0084,S003,69,Male,2026-04-02,2026-04-01,2026-04-08,Active,Arm A,7.4,,synthetic
+P-0085,S005,69,Female,2026-04-18,2026-04-16,2026-04-29,Active,Arm A,8.5,,synthetic
+P-0086,S003,42,Male,2026-03-10,2026-03-09,2026-03-20,Active,Arm A,8.9,,synthetic
+P-0087,S002,64,Female,2026-02-19,2026-02-19,2026-03-08,Completed,Arm B,6.7,,synthetic
+P-0088,S005,62,Male,2026-03-19,2026-03-17,2026-03-31,Completed,Arm A,8.6,,synthetic
+P-0089,S003,48,Male,2026-04-12,2026-04-11,2026-04-29,Active,Arm B,10.4,,synthetic
+P-0090,S003,69,Female,2026-03-18,2026-03-17,2026-04-03,Completed,Arm A,7.5,,synthetic
+P-0091,S003,35,Female,2026-05-06,2026-05-04,2026-05-15,Completed,Arm A,8.2,,synthetic
+P-0092,S006,59,Female,2026-03-05,2026-03-03,2026-03-15,Active,Arm A,8.7,,synthetic
+P-0093,S004,67,Male,2026-03-22,2026-03-21,,Screen Failed,Not randomized,8.1,Eligibility criteria not met,synthetic
+P-0094,S006,64,Male,2026-03-31,2026-03-30,,Screen Failed,Not randomized,7.3,Eligibility criteria not met,synthetic
+P-0095,S001,74,Male,2026-03-21,2026-03-19,2026-04-03,Completed,Arm B,7.2,,synthetic
+P-0096,S002,35,Female,2026-04-04,2026-04-02,2026-04-18,Discontinued,Arm B,8.0,Lost to follow-up,synthetic
+P-0097,S003,75,Female,2026-02-12,2026-02-10,2026-03-01,Completed,Arm A,7.8,,synthetic
+P-0098,S001,68,Female,2026-02-22,2026-02-21,2026-03-01,Discontinued,Arm B,6.7,Lost to follow-up,synthetic
+P-0099,S001,61,Male,2026-03-08,2026-03-08,2026-03-22,Completed,Arm B,7.1,,synthetic
+P-0100,S005,60,Male,2026-04-15,2026-04-14,2026-04-19,Active,Arm A,8.4,,synthetic
+P-0101,S003,63,Male,2026-02-25,2026-02-23,2026-03-11,Active,Arm A,7.4,,synthetic
+P-0102,S005,49,Female,2026-04-27,2026-04-26,,Screen Failed,Not randomized,6.5,Eligibility criteria not met,synthetic
+P-0103,S003,70,Female,2026-02-11,2026-02-11,,Screen Failed,Not randomized,8.9,Eligibility criteria not met,synthetic
+P-0104,S004,68,Female,2026-02-18,2026-02-17,,Screen Failed,Not randomized,8.1,Eligibility criteria not met,synthetic
+P-0105,S001,70,Male,2026-02-12,2026-02-11,,Screen Failed,Not randomized,8.6,Eligibility criteria not met,synthetic
+P-0106,S006,49,Female,2026-04-08,2026-04-08,2026-04-18,Active,Arm A,9.0,,synthetic
+P-0107,S001,53,Male,2026-03-01,2026-02-28,2026-03-17,Completed,Arm A,8.4,,synthetic
+P-0108,S004,46,Female,2026-03-12,2026-03-10,,Screen Failed,Not randomized,6.8,Eligibility criteria not met,synthetic
+P-0109,S006,61,Female,2026-03-02,2026-03-01,2026-03-09,Discontinued,Arm B,7.1,Adverse event,synthetic
+P-0110,S002,35,Male,2026-02-17,2026-02-17,,Screen Failed,Not randomized,8.8,Eligibility criteria not met,synthetic
+P-0111,S005,75,Male,2026-02-27,2026-02-26,2026-03-09,Completed,Arm B,8.0,,synthetic
+P-0112,S002,48,Male,2026-02-17,2026-02-16,2026-02-26,Active,Arm B,8.2,,synthetic
+P-0113,S001,36,Female,2026-05-02,2026-04-30,2026-05-19,Active,Arm A,7.4,,synthetic
+P-0114,S003,69,Female,2026-02-26,2026-02-25,2026-03-02,Active,Arm A,9.4,,synthetic
+P-0115,S004,51,Female,2026-02-11,2026-02-10,2026-02-17,Active,Arm A,8.4,,synthetic
+P-0116,S001,46,Female,2026-03-12,2026-03-10,2026-03-17,Active,Arm B,9.1,,synthetic
+P-0117,S005,48,Female,2026-03-19,2026-03-18,2026-04-03,Active,Arm A,6.9,,synthetic
+P-0118,S004,54,Male,2026-03-04,2026-03-04,2026-03-11,Active,Arm B,8.8,,synthetic
+P-0119,S001,72,Female,2026-02-05,2026-02-04,2026-02-09,Active,Arm A,9.2,,synthetic
+P-0120,S001,38,Male,2026-02-15,2026-02-15,2026-02-25,Completed,Arm A,6.5,,synthetic
+P-0121,S001,41,Male,2026-03-27,2026-03-27,2026-04-11,Completed,Arm A,7.5,,synthetic
+P-0122,S002,72,Female,2026-02-24,2026-02-22,2026-03-13,Completed,Arm B,7.5,,synthetic
+P-0123,S002,43,Female,2026-05-05,2026-05-04,2026-05-20,Completed,Arm A,9.1,,synthetic
+P-0124,S001,63,Male,2026-04-23,2026-04-23,2026-05-02,Active,Arm A,10.1,,synthetic
+P-0125,S004,48,Male,2026-02-16,2026-02-14,,Screen Failed,Not randomized,8.4,Eligibility criteria not met,synthetic
+P-0126,S001,39,Female,2026-04-05,2026-04-03,2026-04-20,Active,Arm B,8.3,,synthetic

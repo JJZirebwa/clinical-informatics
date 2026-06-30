@@ -1,0 +1,2 @@
+participant_n,randomized_n,site_n,active_n,completed_n,screen_failed_n,visit_completion_rate,visit_window_miss_rate,open_query_n,median_query_age_days,ae_n,sae_n,validation_issue_n,high_severity_issue_n
+126,107,6,51,41,19,0.901,0.174,42,19.0,81,6,361,98

@@ -1,0 +1,13 @@
+check_id,description,severity,issue_count,status,dashboard_priority
+participant_site_integrity,Every participant references an existing site.,None,0,Pass,Pass
+visit_participant_integrity,Every visit references an existing participant.,None,0,Pass,Pass
+lab_visit_integrity,Every lab references an existing visit.,None,0,Pass,Pass
+duplicate_participants,Participant identifiers are unique.,None,0,Pass,Pass
+duplicate_visits,Participant and visit name combinations are unique.,None,0,Pass,Pass
+randomization_after_screening,Randomisation occurs after screening for randomized participants.,None,0,Pass,Pass
+critical_field_completeness,"Critical fields are populated in participant, visit, and lab tables.",None,0,Pass,Pass
+visit_window_adherence,Actual visit dates are inside the protocol visit window.,High; Medium,109,Review,Review
+lab_plausibility,Lab values are present and inside broad plausible limits.,High; Medium,218,Review,Review
+query_ageing,Open or answered queries older than 14 days are visible.,High; Medium,27,Review,Review
+ae_follow_up,Serious or ongoing AEs have follow-up status visibility.,High; Medium,5,Review,Review
+milestone_timeliness,Site milestones are not delayed beyond planned dates.,Medium,2,Review,Review

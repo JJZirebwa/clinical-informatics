@@ -1,0 +1,25 @@
+milestone_id,site_id,milestone_type,planned_date,actual_date,status,source
+M-0001,S001,Site Activation,2026-01-05,2026-01-08,Met,synthetic
+M-0002,S001,First Participant In,2026-01-29,2026-02-09,Delayed,synthetic
+M-0003,S001,Enrollment Target,2026-06-07,2026-06-27,Met,synthetic
+M-0004,S001,Database Snapshot,2026-06-30,2026-06-30,Met,synthetic
+M-0005,S002,Site Activation,2026-01-12,2026-01-15,Met,synthetic
+M-0006,S002,First Participant In,2026-02-05,2026-02-17,Delayed,synthetic
+M-0007,S002,Enrollment Target,2026-06-14,2026-06-22,Met,synthetic
+M-0008,S002,Database Snapshot,2026-06-30,2026-06-30,Met,synthetic
+M-0009,S003,Site Activation,2026-01-26,2026-01-29,Met,synthetic
+M-0010,S003,First Participant In,2026-02-19,2026-02-18,Met,synthetic
+M-0011,S003,Enrollment Target,2026-06-28,,Pending,synthetic
+M-0012,S003,Database Snapshot,2026-06-30,2026-06-30,Met,synthetic
+M-0013,S004,Site Activation,2026-02-02,2026-02-05,Met,synthetic
+M-0014,S004,First Participant In,2026-02-26,2026-02-17,Met,synthetic
+M-0015,S004,Enrollment Target,2026-07-05,,Pending,synthetic
+M-0016,S004,Database Snapshot,2026-06-30,2026-06-30,Met,synthetic
+M-0017,S005,Site Activation,2026-02-08,2026-02-11,Met,synthetic
+M-0018,S005,First Participant In,2026-03-04,2026-03-04,Met,synthetic
+M-0019,S005,Enrollment Target,2026-07-11,2026-06-20,Met,synthetic
+M-0020,S005,Database Snapshot,2026-06-30,2026-06-30,Met,synthetic
+M-0021,S006,Site Activation,2026-02-17,2026-02-20,Met,synthetic
+M-0022,S006,First Participant In,2026-03-13,2026-03-02,Met,synthetic
+M-0023,S006,Enrollment Target,2026-07-20,,Pending,synthetic
+M-0024,S006,Database Snapshot,2026-06-30,2026-06-30,Met,synthetic

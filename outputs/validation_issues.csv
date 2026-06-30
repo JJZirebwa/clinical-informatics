@@ -1,0 +1,362 @@
+check_id,severity,table_name,record_id,site_id,participant_id,message
+visit_window_adherence,High,visits,V-00001,S005,P-0001,Screening is 3 day(s) outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00005,S005,P-0002,Week 8 is 7 day(s) outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00010,S004,P-0003,Week 4 is 6 day(s) outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00011,S004,P-0003,Week 8 is 1 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00014,S004,P-0004,Screening is 18 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00015,S004,P-0004,Baseline / Randomisation is 3 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00020,S002,P-0005,Screening is 9 day(s) outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00022,S002,P-0005,Week 4 is 16 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00043,S005,P-0008,30-Day Safety Follow-up is 10 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00045,S001,P-0009,Baseline / Randomisation is 9 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00048,S001,P-0009,Week 12 / End of Treatment is 5 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00051,S001,P-0010,Baseline / Randomisation is 3 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00054,S001,P-0010,Week 12 / End of Treatment is 9 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00055,S001,P-0010,30-Day Safety Follow-up is 3 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00068,S004,P-0013,Screening is 8 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00072,S001,P-0014,Screening is 8 day(s) outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00074,S001,P-0014,Week 4 is 10 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00092,S003,P-0018,30-Day Safety Follow-up is 4 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00111,S006,P-0022,Screening is 3 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00125,S005,P-0024,Week 12 / End of Treatment is 10 day(s) outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00129,S002,P-0025,Week 4 is 1 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00132,S001,P-0026,Baseline / Randomisation is 1 day(s) outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00134,S001,P-0026,Week 8 is 2 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00136,S001,P-0026,30-Day Safety Follow-up is 7 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00152,S002,P-0030,30-Day Safety Follow-up is 2 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00160,S004,P-0033,Screening is 7 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00166,S004,P-0034,Screening is 8 day(s) outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00174,S002,P-0035,Week 4 is 10 day(s) outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00181,S004,P-0036,Week 8 is 1 day(s) outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00187,S004,P-0037,Week 8 is 2 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00194,S003,P-0039,Screening is 4 day(s) outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00197,S003,P-0039,Week 8 is 5 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00203,S001,P-0041,Screening is 5 day(s) outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00205,S001,P-0041,Week 4 is 7 day(s) outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00211,S001,P-0042,Week 4 is 10 day(s) outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00217,S004,P-0043,Week 4 is 20 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00222,S001,P-0044,Baseline / Randomisation is 1 day(s) outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00224,S001,P-0044,Week 8 is 1 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00225,S001,P-0044,Week 12 / End of Treatment is 2 day(s) outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00229,S001,P-0045,Week 4 is 3 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00233,S001,P-0046,Screening is 2 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00238,S003,P-0048,Baseline / Randomisation is 1 day(s) outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00239,S003,P-0048,Week 4 is 1 day(s) outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00246,S002,P-0049,Week 8 is 2 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00253,S002,P-0052,Screening is 1 day(s) outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00256,S001,P-0053,Week 4 is 3 day(s) outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00257,S001,P-0053,Week 8 is 2 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00260,S004,P-0054,Screening is 17 day(s) outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00262,S004,P-0054,Week 4 is 2 day(s) outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00278,S001,P-0057,Week 4 is 9 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00289,S006,P-0059,Baseline / Randomisation is 3 day(s) outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00297,S005,P-0060,Week 8 is 1 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00311,S003,P-0062,30-Day Safety Follow-up is 1 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00320,S006,P-0066,Screening is 7 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00321,S006,P-0066,Baseline / Randomisation is 2 day(s) outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00328,S002,P-0067,Week 4 is 14 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00336,S004,P-0068,Week 12 / End of Treatment is 3 day(s) outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00358,S005,P-0072,Week 4 is 10 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00362,S004,P-0073,Screening is 2 day(s) outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00365,S003,P-0074,Week 4 is 10 day(s) outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00371,S004,P-0075,Week 4 is 6 day(s) outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00372,S004,P-0075,Week 8 is 6 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00374,S004,P-0075,30-Day Safety Follow-up is 2 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00382,S004,P-0077,Baseline / Randomisation is 7 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00386,S004,P-0077,30-Day Safety Follow-up is 5 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00394,S003,P-0079,Baseline / Randomisation is 9 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00399,S001,P-0080,Baseline / Randomisation is 9 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00403,S001,P-0080,30-Day Safety Follow-up is 1 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00408,S002,P-0081,Week 12 / End of Treatment is 4 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00409,S002,P-0081,30-Day Safety Follow-up is 8 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00414,S004,P-0082,Week 12 / End of Treatment is 6 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00427,S003,P-0084,30-Day Safety Follow-up is 3 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00432,S005,P-0085,Week 12 / End of Treatment is 3 day(s) outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00437,S003,P-0086,Week 8 is 9 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00439,S003,P-0086,30-Day Safety Follow-up is 6 day(s) outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00443,S002,P-0087,Week 8 is 2 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00453,S003,P-0089,Baseline / Randomisation is 3 day(s) outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00455,S003,P-0089,Week 8 is 8 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00456,S003,P-0089,Week 12 / End of Treatment is 1 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00459,S003,P-0090,Baseline / Randomisation is 6 day(s) outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00466,S003,P-0091,Week 4 is 2 day(s) outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00472,S006,P-0092,Week 4 is 2 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00476,S004,P-0093,Screening is 4 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00478,S001,P-0095,Screening is 10 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00479,S001,P-0095,Baseline / Randomisation is 1 day(s) outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00481,S001,P-0095,Week 8 is 6 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00482,S001,P-0095,Week 12 / End of Treatment is 10 day(s) outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00486,S002,P-0096,Week 4 is 7 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00491,S003,P-0097,Week 12 / End of Treatment is 7 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00492,S003,P-0097,30-Day Safety Follow-up is 12 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00493,S001,P-0098,Screening is 1 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00504,S005,P-0100,Screening is 6 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00505,S005,P-0100,Baseline / Randomisation is 4 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00520,S006,P-0106,Screening is 4 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00524,S006,P-0106,Week 12 / End of Treatment is 2 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00538,S005,P-0111,Screening is 25 day(s) outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00540,S005,P-0111,Week 4 is 7 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00545,S002,P-0112,Baseline / Randomisation is 1 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00549,S002,P-0112,30-Day Safety Follow-up is 8 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00551,S001,P-0113,Baseline / Randomisation is 2 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00556,S003,P-0114,Screening is 5 day(s) outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00570,S001,P-0116,Week 4 is 2 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00573,S001,P-0116,30-Day Safety Follow-up is 3 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00580,S004,P-0118,Screening is 9 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00592,S001,P-0120,Screening is 4 day(s) outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00606,S002,P-0122,Week 4 is 3 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00608,S002,P-0122,Week 12 / End of Treatment is 5 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00617,S001,P-0124,Baseline / Randomisation is 11 day(s) outside the protocol visit window.
+visit_window_adherence,High,visits,V-00620,S001,P-0124,Week 12 / End of Treatment is 17 day(s) outside the protocol visit window.
+lab_plausibility,Medium,labs,L-00006,S005,P-0002,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-00043,S004,P-0004,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-00044,S004,P-0004,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-00045,S004,P-0004,Creatinine result flagged as missing.
+lab_plausibility,High,labs,L-00058,S002,P-0005,HbA1c result flagged as implausible.
+lab_plausibility,High,labs,L-00084,S002,P-0007,Creatinine result flagged as implausible.
+lab_plausibility,Medium,labs,L-00166,S003,P-0012,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-00173,S004,P-0013,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-00190,S001,P-0014,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-00191,S001,P-0014,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-00192,S001,P-0014,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-00202,S004,P-0015,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-00203,S004,P-0015,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-00204,S004,P-0015,Creatinine result flagged as missing.
+lab_plausibility,High,labs,L-00206,S004,P-0015,ALT result flagged as implausible.
+lab_plausibility,High,labs,L-00224,S003,P-0018,ALT result flagged as implausible.
+lab_plausibility,Medium,labs,L-00240,S004,P-0019,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-00256,S003,P-0020,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-00257,S003,P-0020,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-00258,S003,P-0020,Creatinine result flagged as missing.
+lab_plausibility,High,labs,L-00261,S003,P-0020,Creatinine result flagged as implausible.
+lab_plausibility,High,labs,L-00269,S001,P-0021,ALT result flagged as implausible.
+lab_plausibility,Medium,labs,L-00280,S001,P-0021,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-00281,S001,P-0021,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-00282,S001,P-0021,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-00289,S006,P-0022,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-00290,S006,P-0022,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-00291,S006,P-0022,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-00301,S004,P-0023,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-00302,S004,P-0023,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-00303,S004,P-0023,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-00308,S004,P-0023,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-00316,S005,P-0024,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-00317,S005,P-0024,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-00318,S005,P-0024,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-00319,S005,P-0024,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-00343,S001,P-0026,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-00344,S001,P-0026,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-00345,S001,P-0026,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-00349,S001,P-0026,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-00361,S002,P-0027,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-00362,S002,P-0027,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-00363,S002,P-0027,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-00364,S002,P-0027,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-00365,S002,P-0027,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-00366,S002,P-0027,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-00369,S003,P-0028,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-00370,S003,P-0029,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-00371,S003,P-0029,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-00372,S003,P-0029,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-00381,S002,P-0030,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-00385,S002,P-0030,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-00386,S002,P-0030,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-00387,S002,P-0030,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-00388,S002,P-0030,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-00389,S002,P-0030,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-00390,S002,P-0030,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-00394,S001,P-0031,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-00395,S001,P-0031,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-00396,S001,P-0031,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-00400,S006,P-0032,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-00406,S006,P-0032,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-00409,S006,P-0032,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-00443,S002,P-0035,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-00478,S004,P-0037,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-00479,S004,P-0037,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-00480,S004,P-0037,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-00486,S005,P-0038,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-00490,S005,P-0038,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-00491,S005,P-0038,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-00492,S005,P-0038,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-00526,S001,P-0041,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-00562,S004,P-0043,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-00563,S004,P-0043,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-00564,S004,P-0043,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-00596,S001,P-0045,ALT result flagged as missing.
+lab_plausibility,High,labs,L-00597,S001,P-0045,Creatinine result flagged as implausible.
+lab_plausibility,Medium,labs,L-00607,S005,P-0047,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-00608,S005,P-0047,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-00609,S005,P-0047,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-00622,S003,P-0048,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-00623,S003,P-0048,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-00624,S003,P-0048,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-00625,S002,P-0049,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-00626,S002,P-0049,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-00627,S002,P-0049,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-00646,S005,P-0051,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-00667,S001,P-0053,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-00684,S004,P-0055,Creatinine result flagged as missing.
+lab_plausibility,High,labs,L-00697,S005,P-0056,HbA1c result flagged as implausible.
+lab_plausibility,Medium,labs,L-00703,S005,P-0056,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-00704,S005,P-0056,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-00705,S005,P-0056,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-00721,S001,P-0057,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-00722,S001,P-0057,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-00723,S001,P-0057,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-00724,S001,P-0057,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-00725,S001,P-0057,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-00726,S001,P-0057,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-00763,S005,P-0060,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-00764,S005,P-0060,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-00765,S005,P-0060,Creatinine result flagged as missing.
+lab_plausibility,High,labs,L-00785,S005,P-0061,ALT result flagged as implausible.
+lab_plausibility,Medium,labs,L-00793,S003,P-0062,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-00799,S003,P-0062,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-00800,S003,P-0062,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-00801,S003,P-0062,Creatinine result flagged as missing.
+lab_plausibility,High,labs,L-00804,S005,P-0063,Creatinine result flagged as implausible.
+lab_plausibility,Medium,labs,L-00805,S005,P-0064,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-00806,S005,P-0064,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-00807,S005,P-0064,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-00832,S006,P-0066,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-00833,S006,P-0066,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-00834,S006,P-0066,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-00849,S002,P-0067,Creatinine result flagged as missing.
+lab_plausibility,High,labs,L-00876,S004,P-0069,Creatinine result flagged as implausible.
+lab_plausibility,Medium,labs,L-00894,S004,P-0070,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-00919,S005,P-0072,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-00970,S002,P-0076,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-00971,S002,P-0076,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-00972,S002,P-0076,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-00975,S002,P-0076,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-00985,S004,P-0077,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-00986,S004,P-0077,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-00987,S004,P-0077,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-01000,S003,P-0078,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-01001,S003,P-0078,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-01002,S003,P-0078,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-01003,S003,P-0078,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-01004,S003,P-0078,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-01005,S003,P-0078,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-01027,S001,P-0080,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-01028,S001,P-0080,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-01029,S001,P-0080,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-01030,S001,P-0080,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-01031,S001,P-0080,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-01032,S001,P-0080,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-01057,S004,P-0082,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-01058,S004,P-0082,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-01059,S004,P-0082,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-01062,S004,P-0082,Creatinine result flagged as missing.
+lab_plausibility,High,labs,L-01072,S002,P-0083,HbA1c result flagged as implausible.
+lab_plausibility,Medium,labs,L-01075,S002,P-0083,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-01076,S002,P-0083,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-01077,S002,P-0083,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-01085,S003,P-0084,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-01087,S003,P-0084,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-01088,S003,P-0084,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-01089,S003,P-0084,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-01096,S005,P-0085,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-01097,S005,P-0085,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-01098,S005,P-0085,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-01126,S002,P-0087,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-01127,S002,P-0087,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-01128,S002,P-0087,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-01129,S002,P-0087,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-01142,S005,P-0088,ALT result flagged as missing.
+lab_plausibility,High,labs,L-01143,S005,P-0088,Creatinine result flagged as implausible.
+lab_plausibility,Medium,labs,L-01145,S005,P-0088,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-01156,S003,P-0089,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-01157,S003,P-0089,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-01158,S003,P-0089,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-01190,S003,P-0091,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-01202,S006,P-0092,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-01267,S001,P-0098,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-01268,S001,P-0098,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-01269,S001,P-0098,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-01270,S001,P-0098,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-01271,S001,P-0098,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-01272,S001,P-0098,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-01296,S005,P-0100,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-01314,S003,P-0101,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-01318,S003,P-0101,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-01319,S003,P-0101,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-01320,S003,P-0101,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-01357,S001,P-0107,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-01358,S001,P-0107,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-01359,S001,P-0107,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-01363,S004,P-0108,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-01364,S004,P-0108,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-01365,S004,P-0108,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-01370,S006,P-0109,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-01375,S006,P-0109,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-01376,S006,P-0109,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-01377,S006,P-0109,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-01390,S005,P-0111,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-01391,S005,P-0111,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-01392,S005,P-0111,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-01421,S001,P-0113,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-01442,S004,P-0115,ALT result flagged as missing.
+lab_plausibility,High,labs,L-01451,S004,P-0115,ALT result flagged as implausible.
+lab_plausibility,Medium,labs,L-01453,S004,P-0115,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-01454,S004,P-0115,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-01455,S004,P-0115,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-01465,S001,P-0116,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-01468,S001,P-0116,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-01469,S001,P-0116,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-01470,S001,P-0116,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-01477,S005,P-0117,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-01478,S005,P-0117,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-01479,S005,P-0117,Creatinine result flagged as missing.
+lab_plausibility,High,labs,L-01489,S004,P-0118,HbA1c result flagged as implausible.
+lab_plausibility,Medium,labs,L-01509,S001,P-0119,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-01527,S001,P-0120,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-01543,S001,P-0121,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-01544,S001,P-0121,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-01545,S001,P-0121,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-01555,S002,P-0122,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-01556,S002,P-0122,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-01557,S002,P-0122,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-01567,S002,P-0123,HbA1c result flagged as missing.
+lab_plausibility,High,labs,L-01570,S002,P-0123,HbA1c result flagged as implausible.
+lab_plausibility,Medium,labs,L-01573,S002,P-0123,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-01574,S002,P-0123,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-01575,S002,P-0123,Creatinine result flagged as missing.
+lab_plausibility,Medium,labs,L-01591,S004,P-0125,HbA1c result flagged as missing.
+lab_plausibility,Medium,labs,L-01592,S004,P-0125,ALT result flagged as missing.
+lab_plausibility,Medium,labs,L-01593,S004,P-0125,Creatinine result flagged as missing.
+query_ageing,High,queries,Q-0002,S001,P-0080,Open query aged 21 days.
+query_ageing,Medium,queries,Q-0003,S005,P-0056,Open query aged 22 days.
+query_ageing,Medium,queries,Q-0013,S005,P-0038,Open query aged 34 days.
+query_ageing,High,queries,Q-0017,S003,P-0097,Open query aged 18 days.
+query_ageing,High,queries,Q-0018,S001,P-0057,Answered query aged 34 days.
+query_ageing,Medium,queries,Q-0019,S005,P-0047,Open query aged 38 days.
+query_ageing,High,queries,Q-0026,S001,P-0121,Answered query aged 23 days.
+query_ageing,Medium,queries,Q-0027,S004,P-0075,Open query aged 40 days.
+query_ageing,Medium,queries,Q-0029,S005,P-0058,Answered query aged 25 days.
+query_ageing,Medium,queries,Q-0033,S001,P-0010,Open query aged 40 days.
+query_ageing,Medium,queries,Q-0040,S002,P-0076,Answered query aged 18 days.
+query_ageing,Medium,queries,Q-0042,S002,P-0122,Open query aged 20 days.
+query_ageing,Medium,queries,Q-0044,S003,P-0078,Open query aged 15 days.
+query_ageing,Medium,queries,Q-0045,S003,P-0020,Open query aged 18 days.
+query_ageing,Medium,queries,Q-0046,S004,P-0054,Open query aged 40 days.
+query_ageing,Medium,queries,Q-0049,S006,P-0032,Open query aged 29 days.
+query_ageing,Medium,queries,Q-0051,S002,P-0087,Open query aged 43 days.
+query_ageing,Medium,queries,Q-0052,S001,P-0026,Open query aged 24 days.
+query_ageing,Medium,queries,Q-0054,S003,P-0039,Open query aged 30 days.
+query_ageing,Medium,queries,Q-0055,S001,P-0026,Answered query aged 30 days.
+query_ageing,High,queries,Q-0056,S005,P-0002,Open query aged 18 days.
+query_ageing,Medium,queries,Q-0058,S004,P-0004,Answered query aged 36 days.
+query_ageing,Medium,queries,Q-0061,S001,P-0026,Open query aged 27 days.
+query_ageing,Medium,queries,Q-0063,S002,P-0030,Answered query aged 17 days.
+query_ageing,High,queries,Q-0064,S004,P-0118,Answered query aged 33 days.
+query_ageing,High,queries,Q-0067,S004,P-0004,Open query aged 39 days.
+query_ageing,High,queries,Q-0069,S001,P-0095,Open query aged 26 days.
+ae_follow_up,High,adverse_events,AE-0003,S004,P-0004,AE follow-up remains open for a serious or ongoing event.
+ae_follow_up,High,adverse_events,AE-0011,S004,P-0013,AE follow-up remains open for a serious or ongoing event.
+ae_follow_up,High,adverse_events,AE-0022,S002,P-0027,AE follow-up remains open for a serious or ongoing event.
+ae_follow_up,Medium,adverse_events,AE-0027,S003,P-0039,AE follow-up remains open for a serious or ongoing event.
+ae_follow_up,Medium,adverse_events,AE-0056,S003,P-0078,AE follow-up remains open for a serious or ongoing event.
+milestone_timeliness,Medium,milestones,M-0002,S001,,First Participant In milestone is delayed.
+milestone_timeliness,Medium,milestones,M-0006,S002,,First Participant In milestone is delayed.

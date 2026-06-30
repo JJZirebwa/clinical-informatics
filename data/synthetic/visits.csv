@@ -1,0 +1,629 @@
+visit_id,participant_id,site_id,visit_name,scheduled_date,actual_date,window_days,visit_status,signed_delta_days,days_from_window,critical_visit,assessments_expected,source
+V-00001,P-0001,S005,Screening,2026-04-04,2026-03-18,14,Early,-17,3,True,eligibility; consent; labs,synthetic
+V-00002,P-0002,S005,Screening,2026-04-08,2026-04-17,14,Completed,9,0,True,eligibility; consent; labs,synthetic
+V-00003,P-0002,S005,Baseline / Randomisation,2026-04-23,2026-04-22,3,Completed,-1,0,True,randomization; vitals; labs,synthetic
+V-00004,P-0002,S005,Week 4,2026-05-21,2026-05-21,7,Completed,0,0,False,safety; adherence; labs,synthetic
+V-00005,P-0002,S005,Week 8,2026-06-18,2026-06-04,7,Early,-14,7,False,safety; adherence; labs,synthetic
+V-00006,P-0002,S005,Week 12 / End of Treatment,2026-07-16,2026-07-15,7,Completed,-1,0,True,endpoint; safety; labs,synthetic
+V-00007,P-0002,S005,30-Day Safety Follow-up,2026-08-15,2026-08-10,10,Completed,-5,0,True,safety_follow_up; ae_review,synthetic
+V-00008,P-0003,S004,Screening,2026-03-11,2026-03-07,14,Completed,-4,0,True,eligibility; consent; labs,synthetic
+V-00009,P-0003,S004,Baseline / Randomisation,2026-03-21,2026-03-21,3,Completed,0,0,True,randomization; vitals; labs,synthetic
+V-00010,P-0003,S004,Week 4,2026-04-18,2026-05-01,7,Late,13,6,False,safety; adherence; labs,synthetic
+V-00011,P-0003,S004,Week 8,2026-05-16,2026-05-08,7,Early,-8,1,False,safety; adherence; labs,synthetic
+V-00012,P-0003,S004,Week 12 / End of Treatment,2026-06-13,2026-06-14,7,Completed,1,0,True,endpoint; safety; labs,synthetic
+V-00013,P-0003,S004,30-Day Safety Follow-up,2026-07-13,2026-07-08,10,Completed,-5,0,True,safety_follow_up; ae_review,synthetic
+V-00014,P-0004,S004,Screening,2026-03-25,2026-02-21,14,Early,-32,18,True,eligibility; consent; labs,synthetic
+V-00015,P-0004,S004,Baseline / Randomisation,2026-04-08,2026-04-02,3,Early,-6,3,True,randomization; vitals; labs,synthetic
+V-00016,P-0004,S004,Week 4,2026-05-06,2026-05-03,7,Completed,-3,0,False,safety; adherence; labs,synthetic
+V-00017,P-0004,S004,Week 8,2026-06-03,,7,Missed,,,False,safety; adherence; labs,synthetic
+V-00018,P-0004,S004,Week 12 / End of Treatment,2026-07-01,2026-07-05,7,Completed,4,0,True,endpoint; safety; labs,synthetic
+V-00019,P-0004,S004,30-Day Safety Follow-up,2026-07-31,2026-07-31,10,Completed,0,0,True,safety_follow_up; ae_review,synthetic
+V-00020,P-0005,S002,Screening,2026-03-07,2026-02-12,14,Early,-23,9,True,eligibility; consent; labs,synthetic
+V-00021,P-0005,S002,Baseline / Randomisation,2026-03-18,2026-03-18,3,Completed,0,0,True,randomization; vitals; labs,synthetic
+V-00022,P-0005,S002,Week 4,2026-04-15,2026-05-08,7,Late,23,16,False,safety; adherence; labs,synthetic
+V-00023,P-0005,S002,Week 8,2026-05-13,2026-05-13,7,Completed,0,0,False,safety; adherence; labs,synthetic
+V-00024,P-0005,S002,Week 12 / End of Treatment,2026-06-10,2026-06-05,7,Completed,-5,0,True,endpoint; safety; labs,synthetic
+V-00025,P-0005,S002,30-Day Safety Follow-up,2026-07-10,2026-07-11,10,Completed,1,0,True,safety_follow_up; ae_review,synthetic
+V-00026,P-0006,S002,Screening,2026-04-06,2026-04-06,14,Completed,0,0,True,eligibility; consent; labs,synthetic
+V-00027,P-0006,S002,Baseline / Randomisation,2026-04-15,2026-04-15,3,Completed,0,0,True,randomization; vitals; labs,synthetic
+V-00028,P-0006,S002,Week 4,2026-05-13,2026-05-08,7,Completed,-5,0,False,safety; adherence; labs,synthetic
+V-00029,P-0006,S002,Week 8,2026-06-10,2026-06-17,7,Completed,7,0,False,safety; adherence; labs,synthetic
+V-00030,P-0006,S002,Week 12 / End of Treatment,2026-07-08,2026-07-03,7,Completed,-5,0,True,endpoint; safety; labs,synthetic
+V-00031,P-0006,S002,30-Day Safety Follow-up,2026-08-07,2026-08-07,10,Completed,0,0,True,safety_follow_up; ae_review,synthetic
+V-00032,P-0007,S002,Screening,2026-03-26,2026-04-02,14,Completed,7,0,True,eligibility; consent; labs,synthetic
+V-00033,P-0007,S002,Baseline / Randomisation,2026-04-01,2026-04-03,3,Completed,2,0,True,randomization; vitals; labs,synthetic
+V-00034,P-0007,S002,Week 4,2026-04-29,2026-04-26,7,Completed,-3,0,False,safety; adherence; labs,synthetic
+V-00035,P-0007,S002,Week 8,2026-05-27,2026-05-27,7,Completed,0,0,False,safety; adherence; labs,synthetic
+V-00036,P-0007,S002,Week 12 / End of Treatment,2026-06-24,2026-06-22,7,Completed,-2,0,True,endpoint; safety; labs,synthetic
+V-00037,P-0007,S002,30-Day Safety Follow-up,2026-07-24,2026-07-24,10,Completed,0,0,True,safety_follow_up; ae_review,synthetic
+V-00038,P-0008,S005,Screening,2026-04-08,2026-03-27,14,Completed,-12,0,True,eligibility; consent; labs,synthetic
+V-00039,P-0008,S005,Baseline / Randomisation,2026-04-17,2026-04-17,3,Completed,0,0,True,randomization; vitals; labs,synthetic
+V-00040,P-0008,S005,Week 4,2026-05-15,2026-05-11,7,Completed,-4,0,False,safety; adherence; labs,synthetic
+V-00041,P-0008,S005,Week 8,2026-06-12,2026-06-16,7,Completed,4,0,False,safety; adherence; labs,synthetic
+V-00042,P-0008,S005,Week 12 / End of Treatment,2026-07-10,2026-07-07,7,Completed,-3,0,True,endpoint; safety; labs,synthetic
+V-00043,P-0008,S005,30-Day Safety Follow-up,2026-08-09,2026-07-20,10,Early,-20,10,True,safety_follow_up; ae_review,synthetic
+V-00044,P-0009,S001,Screening,2026-04-17,2026-04-22,14,Completed,5,0,True,eligibility; consent; labs,synthetic
+V-00045,P-0009,S001,Baseline / Randomisation,2026-04-27,2026-04-15,3,Early,-12,9,True,randomization; vitals; labs,synthetic
+V-00046,P-0009,S001,Week 4,2026-05-25,2026-05-29,7,Completed,4,0,False,safety; adherence; labs,synthetic
+V-00047,P-0009,S001,Week 8,2026-06-22,2026-06-23,7,Completed,1,0,False,safety; adherence; labs,synthetic
+V-00048,P-0009,S001,Week 12 / End of Treatment,2026-07-20,2026-08-01,7,Late,12,5,True,endpoint; safety; labs,synthetic
+V-00049,P-0009,S001,30-Day Safety Follow-up,2026-08-19,2026-08-22,10,Completed,3,0,True,safety_follow_up; ae_review,synthetic
+V-00050,P-0010,S001,Screening,2026-04-16,2026-04-17,14,Completed,1,0,True,eligibility; consent; labs,synthetic
+V-00051,P-0010,S001,Baseline / Randomisation,2026-04-21,2026-04-27,3,Late,6,3,True,randomization; vitals; labs,synthetic
+V-00052,P-0010,S001,Week 4,2026-05-19,2026-05-14,7,Completed,-5,0,False,safety; adherence; labs,synthetic
+V-00053,P-0010,S001,Week 8,2026-06-16,2026-06-19,7,Completed,3,0,False,safety; adherence; labs,synthetic
+V-00054,P-0010,S001,Week 12 / End of Treatment,2026-07-14,2026-07-30,7,Late,16,9,True,endpoint; safety; labs,synthetic
+V-00055,P-0010,S001,30-Day Safety Follow-up,2026-08-13,2026-07-31,10,Early,-13,3,True,safety_follow_up; ae_review,synthetic
+V-00056,P-0011,S004,Screening,2026-03-26,2026-03-14,14,Completed,-12,0,True,eligibility; consent; labs,synthetic
+V-00057,P-0011,S004,Baseline / Randomisation,2026-04-10,2026-04-10,3,Completed,0,0,True,randomization; vitals; labs,synthetic
+V-00058,P-0011,S004,Week 4,2026-05-08,2026-05-08,7,Completed,0,0,False,safety; adherence; labs,synthetic
+V-00059,P-0011,S004,Week 8,2026-06-05,2026-06-06,7,Completed,1,0,False,safety; adherence; labs,synthetic
+V-00060,P-0011,S004,Week 12 / End of Treatment,2026-07-03,2026-07-06,7,Completed,3,0,True,endpoint; safety; labs,synthetic
+V-00061,P-0011,S004,30-Day Safety Follow-up,2026-08-02,2026-08-12,10,Completed,10,0,True,safety_follow_up; ae_review,synthetic
+V-00062,P-0012,S003,Screening,2026-02-03,2026-02-16,14,Completed,13,0,True,eligibility; consent; labs,synthetic
+V-00063,P-0012,S003,Baseline / Randomisation,2026-02-18,2026-02-18,3,Completed,0,0,True,randomization; vitals; labs,synthetic
+V-00064,P-0012,S003,Week 4,2026-03-18,2026-03-18,7,Completed,0,0,False,safety; adherence; labs,synthetic
+V-00065,P-0012,S003,Week 8,2026-04-15,2026-04-14,7,Completed,-1,0,False,safety; adherence; labs,synthetic
+V-00066,P-0012,S003,Week 12 / End of Treatment,2026-05-13,2026-05-17,7,Completed,4,0,True,endpoint; safety; labs,synthetic
+V-00067,P-0012,S003,30-Day Safety Follow-up,2026-06-12,,10,Missed,,,True,safety_follow_up; ae_review,synthetic
+V-00068,P-0013,S004,Screening,2026-02-12,2026-01-21,14,Early,-22,8,True,eligibility; consent; labs,synthetic
+V-00069,P-0013,S004,Baseline / Randomisation,2026-03-01,2026-03-02,3,Completed,1,0,True,randomization; vitals; labs,synthetic
+V-00070,P-0013,S004,Week 4,2026-03-29,2026-03-26,7,Completed,-3,0,False,safety; adherence; labs,synthetic
+V-00071,P-0013,S004,Week 8,2026-04-26,2026-04-19,7,Completed,-7,0,False,safety; adherence; labs,synthetic
+V-00072,P-0014,S001,Screening,2026-02-11,2026-03-05,14,Late,22,8,True,eligibility; consent; labs,synthetic
+V-00073,P-0014,S001,Baseline / Randomisation,2026-02-24,2026-02-26,3,Completed,2,0,True,randomization; vitals; labs,synthetic
+V-00074,P-0014,S001,Week 4,2026-03-24,2026-04-10,7,Late,17,10,False,safety; adherence; labs,synthetic
+V-00075,P-0014,S001,Week 8,2026-04-21,,7,Missed,,,False,safety; adherence; labs,synthetic
+V-00076,P-0015,S004,Screening,2026-03-20,2026-03-23,14,Completed,3,0,True,eligibility; consent; labs,synthetic
+V-00077,P-0015,S004,Baseline / Randomisation,2026-03-27,2026-03-24,3,Completed,-3,0,True,randomization; vitals; labs,synthetic
+V-00078,P-0015,S004,Week 4,2026-04-24,2026-04-23,7,Completed,-1,0,False,safety; adherence; labs,synthetic
+V-00079,P-0015,S004,Week 8,2026-05-22,,7,Missed,,,False,safety; adherence; labs,synthetic
+V-00080,P-0015,S004,Week 12 / End of Treatment,2026-06-19,2026-06-17,7,Completed,-2,0,True,endpoint; safety; labs,synthetic
+V-00081,P-0015,S004,30-Day Safety Follow-up,2026-07-19,2026-07-19,10,Completed,0,0,True,safety_follow_up; ae_review,synthetic
+V-00082,P-0016,S001,Screening,2026-04-01,2026-04-06,14,Completed,5,0,True,eligibility; consent; labs,synthetic
+V-00083,P-0017,S006,Screening,2026-02-26,2026-03-11,14,Completed,13,0,True,eligibility; consent; labs,synthetic
+V-00084,P-0017,S006,Baseline / Randomisation,2026-03-13,2026-03-14,3,Completed,1,0,True,randomization; vitals; labs,synthetic
+V-00085,P-0017,S006,Week 4,2026-04-10,2026-04-10,7,Completed,0,0,False,safety; adherence; labs,synthetic
+V-00086,P-0017,S006,Week 8,2026-05-08,2026-05-03,7,Completed,-5,0,False,safety; adherence; labs,synthetic
+V-00087,P-0018,S003,Screening,2026-04-08,2026-03-30,14,Completed,-9,0,True,eligibility; consent; labs,synthetic
+V-00088,P-0018,S003,Baseline / Randomisation,2026-04-23,2026-04-22,3,Completed,-1,0,True,randomization; vitals; labs,synthetic
+V-00089,P-0018,S003,Week 4,2026-05-21,2026-05-23,7,Completed,2,0,False,safety; adherence; labs,synthetic
+V-00090,P-0018,S003,Week 8,2026-06-18,2026-06-17,7,Completed,-1,0,False,safety; adherence; labs,synthetic
+V-00091,P-0018,S003,Week 12 / End of Treatment,2026-07-16,2026-07-09,7,Completed,-7,0,True,endpoint; safety; labs,synthetic
+V-00092,P-0018,S003,30-Day Safety Follow-up,2026-08-15,2026-08-29,10,Late,14,4,True,safety_follow_up; ae_review,synthetic
+V-00093,P-0019,S004,Screening,2026-02-17,2026-02-26,14,Completed,9,0,True,eligibility; consent; labs,synthetic
+V-00094,P-0019,S004,Baseline / Randomisation,2026-02-27,2026-02-28,3,Completed,1,0,True,randomization; vitals; labs,synthetic
+V-00095,P-0019,S004,Week 4,2026-03-27,2026-03-24,7,Completed,-3,0,False,safety; adherence; labs,synthetic
+V-00096,P-0019,S004,Week 8,2026-04-24,2026-04-21,7,Completed,-3,0,False,safety; adherence; labs,synthetic
+V-00097,P-0019,S004,Week 12 / End of Treatment,2026-05-22,2026-05-22,7,Completed,0,0,True,endpoint; safety; labs,synthetic
+V-00098,P-0019,S004,30-Day Safety Follow-up,2026-06-21,2026-06-13,10,Completed,-8,0,True,safety_follow_up; ae_review,synthetic
+V-00099,P-0020,S003,Screening,2026-04-16,2026-04-09,14,Completed,-7,0,True,eligibility; consent; labs,synthetic
+V-00100,P-0020,S003,Baseline / Randomisation,2026-04-22,,3,Missed,,,True,randomization; vitals; labs,synthetic
+V-00101,P-0020,S003,Week 4,2026-05-20,2026-05-27,7,Completed,7,0,False,safety; adherence; labs,synthetic
+V-00102,P-0020,S003,Week 8,2026-06-17,2026-06-19,7,Completed,2,0,False,safety; adherence; labs,synthetic
+V-00103,P-0020,S003,Week 12 / End of Treatment,2026-07-15,2026-07-18,7,Completed,3,0,True,endpoint; safety; labs,synthetic
+V-00104,P-0020,S003,30-Day Safety Follow-up,2026-08-14,2026-08-11,10,Completed,-3,0,True,safety_follow_up; ae_review,synthetic
+V-00105,P-0021,S001,Screening,2026-02-14,2026-02-24,14,Completed,10,0,True,eligibility; consent; labs,synthetic
+V-00106,P-0021,S001,Baseline / Randomisation,2026-03-02,2026-03-04,3,Completed,2,0,True,randomization; vitals; labs,synthetic
+V-00107,P-0021,S001,Week 4,2026-03-30,2026-04-05,7,Completed,6,0,False,safety; adherence; labs,synthetic
+V-00108,P-0021,S001,Week 8,2026-04-27,2026-04-28,7,Completed,1,0,False,safety; adherence; labs,synthetic
+V-00109,P-0021,S001,Week 12 / End of Treatment,2026-05-25,,7,Pending,,,True,endpoint; safety; labs,synthetic
+V-00110,P-0021,S001,30-Day Safety Follow-up,2026-06-24,2026-07-01,10,Completed,7,0,True,safety_follow_up; ae_review,synthetic
+V-00111,P-0022,S006,Screening,2026-03-12,2026-03-29,14,Late,17,3,True,eligibility; consent; labs,synthetic
+V-00112,P-0022,S006,Baseline / Randomisation,2026-03-16,2026-03-17,3,Completed,1,0,True,randomization; vitals; labs,synthetic
+V-00113,P-0022,S006,Week 4,2026-04-13,,7,Missed,,,False,safety; adherence; labs,synthetic
+V-00114,P-0022,S006,Week 8,2026-05-11,2026-05-16,7,Completed,5,0,False,safety; adherence; labs,synthetic
+V-00115,P-0023,S004,Screening,2026-03-24,2026-03-21,14,Completed,-3,0,True,eligibility; consent; labs,synthetic
+V-00116,P-0023,S004,Baseline / Randomisation,2026-04-10,2026-04-09,3,Completed,-1,0,True,randomization; vitals; labs,synthetic
+V-00117,P-0023,S004,Week 4,2026-05-08,,7,Pending,,,False,safety; adherence; labs,synthetic
+V-00118,P-0023,S004,Week 8,2026-06-05,2026-06-05,7,Completed,0,0,False,safety; adherence; labs,synthetic
+V-00119,P-0023,S004,Week 12 / End of Treatment,2026-07-03,2026-07-03,7,Completed,0,0,True,endpoint; safety; labs,synthetic
+V-00120,P-0023,S004,30-Day Safety Follow-up,2026-08-02,2026-08-06,10,Completed,4,0,True,safety_follow_up; ae_review,synthetic
+V-00121,P-0024,S005,Screening,2026-03-22,2026-04-02,14,Completed,11,0,True,eligibility; consent; labs,synthetic
+V-00122,P-0024,S005,Baseline / Randomisation,2026-04-07,2026-04-06,3,Completed,-1,0,True,randomization; vitals; labs,synthetic
+V-00123,P-0024,S005,Week 4,2026-05-05,,7,Missed,,,False,safety; adherence; labs,synthetic
+V-00124,P-0024,S005,Week 8,2026-06-02,2026-06-07,7,Completed,5,0,False,safety; adherence; labs,synthetic
+V-00125,P-0024,S005,Week 12 / End of Treatment,2026-06-30,2026-06-13,7,Early,-17,10,True,endpoint; safety; labs,synthetic
+V-00126,P-0024,S005,30-Day Safety Follow-up,2026-07-30,2026-07-21,10,Completed,-9,0,True,safety_follow_up; ae_review,synthetic
+V-00127,P-0025,S002,Screening,2026-02-24,2026-02-28,14,Completed,4,0,True,eligibility; consent; labs,synthetic
+V-00128,P-0025,S002,Baseline / Randomisation,2026-03-13,2026-03-16,3,Completed,3,0,True,randomization; vitals; labs,synthetic
+V-00129,P-0025,S002,Week 4,2026-04-10,2026-04-02,7,Early,-8,1,False,safety; adherence; labs,synthetic
+V-00130,P-0025,S002,Week 8,2026-05-08,2026-05-09,7,Completed,1,0,False,safety; adherence; labs,synthetic
+V-00131,P-0026,S001,Screening,2026-02-14,2026-02-20,14,Completed,6,0,True,eligibility; consent; labs,synthetic
+V-00132,P-0026,S001,Baseline / Randomisation,2026-02-22,2026-02-18,3,Early,-4,1,True,randomization; vitals; labs,synthetic
+V-00133,P-0026,S001,Week 4,2026-03-22,,7,Missed,,,False,safety; adherence; labs,synthetic
+V-00134,P-0026,S001,Week 8,2026-04-19,2026-04-28,7,Late,9,2,False,safety; adherence; labs,synthetic
+V-00135,P-0026,S001,Week 12 / End of Treatment,2026-05-17,2026-05-17,7,Completed,0,0,True,endpoint; safety; labs,synthetic
+V-00136,P-0026,S001,30-Day Safety Follow-up,2026-06-16,2026-07-03,10,Late,17,7,True,safety_follow_up; ae_review,synthetic
+V-00137,P-0027,S002,Screening,2026-04-18,2026-04-23,14,Completed,5,0,True,eligibility; consent; labs,synthetic
+V-00138,P-0027,S002,Baseline / Randomisation,2026-04-29,2026-04-29,3,Completed,0,0,True,randomization; vitals; labs,synthetic
+V-00139,P-0027,S002,Week 4,2026-05-27,2026-06-01,7,Completed,5,0,False,safety; adherence; labs,synthetic
+V-00140,P-0027,S002,Week 8,2026-06-24,,7,Pending,,,False,safety; adherence; labs,synthetic
+V-00141,P-0027,S002,Week 12 / End of Treatment,2026-07-22,,7,Pending,,,True,endpoint; safety; labs,synthetic
+V-00142,P-0027,S002,30-Day Safety Follow-up,2026-08-21,2026-08-17,10,Completed,-4,0,True,safety_follow_up; ae_review,synthetic
+V-00143,P-0028,S003,Screening,2026-05-04,2026-04-22,14,Completed,-12,0,True,eligibility; consent; labs,synthetic
+V-00144,P-0029,S003,Screening,2026-04-13,,14,Missed,,,True,eligibility; consent; labs,synthetic
+V-00145,P-0029,S003,Baseline / Randomisation,2026-04-21,2026-04-22,3,Completed,1,0,True,randomization; vitals; labs,synthetic
+V-00146,P-0029,S003,Week 4,2026-05-19,2026-05-17,7,Completed,-2,0,False,safety; adherence; labs,synthetic
+V-00147,P-0030,S002,Screening,2026-03-08,2026-02-23,14,Completed,-13,0,True,eligibility; consent; labs,synthetic
+V-00148,P-0030,S002,Baseline / Randomisation,2026-03-25,2026-03-27,3,Completed,2,0,True,randomization; vitals; labs,synthetic
+V-00149,P-0030,S002,Week 4,2026-04-22,,7,Pending,,,False,safety; adherence; labs,synthetic
+V-00150,P-0030,S002,Week 8,2026-05-20,,7,Missed,,,False,safety; adherence; labs,synthetic
+V-00151,P-0030,S002,Week 12 / End of Treatment,2026-06-17,2026-06-12,7,Completed,-5,0,True,endpoint; safety; labs,synthetic
+V-00152,P-0030,S002,30-Day Safety Follow-up,2026-07-17,2026-07-05,10,Early,-12,2,True,safety_follow_up; ae_review,synthetic
+V-00153,P-0031,S001,Screening,2026-03-07,,14,Missed,,,True,eligibility; consent; labs,synthetic
+V-00154,P-0032,S006,Screening,2026-02-19,2026-03-01,14,Completed,10,0,True,eligibility; consent; labs,synthetic
+V-00155,P-0032,S006,Baseline / Randomisation,2026-03-02,2026-03-02,3,Completed,0,0,True,randomization; vitals; labs,synthetic
+V-00156,P-0032,S006,Week 4,2026-03-30,2026-03-25,7,Completed,-5,0,False,safety; adherence; labs,synthetic
+V-00157,P-0032,S006,Week 8,2026-04-27,2026-04-23,7,Completed,-4,0,False,safety; adherence; labs,synthetic
+V-00158,P-0032,S006,Week 12 / End of Treatment,2026-05-25,2026-05-30,7,Completed,5,0,True,endpoint; safety; labs,synthetic
+V-00159,P-0032,S006,30-Day Safety Follow-up,2026-06-24,2026-06-18,10,Completed,-6,0,True,safety_follow_up; ae_review,synthetic
+V-00160,P-0033,S004,Screening,2026-05-04,2026-04-13,14,Early,-21,7,True,eligibility; consent; labs,synthetic
+V-00161,P-0033,S004,Baseline / Randomisation,2026-05-20,2026-05-23,3,Completed,3,0,True,randomization; vitals; labs,synthetic
+V-00162,P-0033,S004,Week 4,2026-06-17,2026-06-23,7,Completed,6,0,False,safety; adherence; labs,synthetic
+V-00163,P-0033,S004,Week 8,2026-07-15,2026-07-15,7,Completed,0,0,False,safety; adherence; labs,synthetic
+V-00164,P-0033,S004,Week 12 / End of Treatment,2026-08-12,2026-08-09,7,Completed,-3,0,True,endpoint; safety; labs,synthetic
+V-00165,P-0033,S004,30-Day Safety Follow-up,2026-09-11,,10,Missed,,,True,safety_follow_up; ae_review,synthetic
+V-00166,P-0034,S004,Screening,2026-03-28,2026-04-19,14,Late,22,8,True,eligibility; consent; labs,synthetic
+V-00167,P-0034,S004,Baseline / Randomisation,2026-04-11,2026-04-12,3,Completed,1,0,True,randomization; vitals; labs,synthetic
+V-00168,P-0034,S004,Week 4,2026-05-09,2026-05-08,7,Completed,-1,0,False,safety; adherence; labs,synthetic
+V-00169,P-0034,S004,Week 8,2026-06-06,2026-06-03,7,Completed,-3,0,False,safety; adherence; labs,synthetic
+V-00170,P-0034,S004,Week 12 / End of Treatment,2026-07-04,2026-07-08,7,Completed,4,0,True,endpoint; safety; labs,synthetic
+V-00171,P-0034,S004,30-Day Safety Follow-up,2026-08-03,2026-08-06,10,Completed,3,0,True,safety_follow_up; ae_review,synthetic
+V-00172,P-0035,S002,Screening,2026-02-13,2026-02-03,14,Completed,-10,0,True,eligibility; consent; labs,synthetic
+V-00173,P-0035,S002,Baseline / Randomisation,2026-02-21,2026-02-21,3,Completed,0,0,True,randomization; vitals; labs,synthetic
+V-00174,P-0035,S002,Week 4,2026-03-21,2026-03-04,7,Early,-17,10,False,safety; adherence; labs,synthetic
+V-00175,P-0035,S002,Week 8,2026-04-18,2026-04-23,7,Completed,5,0,False,safety; adherence; labs,synthetic
+V-00176,P-0035,S002,Week 12 / End of Treatment,2026-05-16,2026-05-14,7,Completed,-2,0,True,endpoint; safety; labs,synthetic
+V-00177,P-0035,S002,30-Day Safety Follow-up,2026-06-15,2026-06-21,10,Completed,6,0,True,safety_follow_up; ae_review,synthetic
+V-00178,P-0036,S004,Screening,2026-02-28,2026-02-20,14,Completed,-8,0,True,eligibility; consent; labs,synthetic
+V-00179,P-0036,S004,Baseline / Randomisation,2026-03-12,2026-03-12,3,Completed,0,0,True,randomization; vitals; labs,synthetic
+V-00180,P-0036,S004,Week 4,2026-04-09,2026-04-10,7,Completed,1,0,False,safety; adherence; labs,synthetic
+V-00181,P-0036,S004,Week 8,2026-05-07,2026-04-29,7,Early,-8,1,False,safety; adherence; labs,synthetic
+V-00182,P-0036,S004,Week 12 / End of Treatment,2026-06-04,2026-06-11,7,Completed,7,0,True,endpoint; safety; labs,synthetic
+V-00183,P-0036,S004,30-Day Safety Follow-up,2026-07-04,2026-06-30,10,Completed,-4,0,True,safety_follow_up; ae_review,synthetic
+V-00184,P-0037,S004,Screening,2026-02-18,2026-02-27,14,Completed,9,0,True,eligibility; consent; labs,synthetic
+V-00185,P-0037,S004,Baseline / Randomisation,2026-02-28,2026-02-28,3,Completed,0,0,True,randomization; vitals; labs,synthetic
+V-00186,P-0037,S004,Week 4,2026-03-28,,7,Missed,,,False,safety; adherence; labs,synthetic
+V-00187,P-0037,S004,Week 8,2026-04-25,2026-04-16,7,Early,-9,2,False,safety; adherence; labs,synthetic
+V-00188,P-0038,S005,Screening,2026-02-24,2026-02-27,14,Completed,3,0,True,eligibility; consent; labs,synthetic
+V-00189,P-0038,S005,Baseline / Randomisation,2026-03-04,2026-03-06,3,Completed,2,0,True,randomization; vitals; labs,synthetic
+V-00190,P-0038,S005,Week 4,2026-04-01,,7,Missed,,,False,safety; adherence; labs,synthetic
+V-00191,P-0038,S005,Week 8,2026-04-29,2026-05-02,7,Completed,3,0,False,safety; adherence; labs,synthetic
+V-00192,P-0038,S005,Week 12 / End of Treatment,2026-05-27,2026-05-24,7,Completed,-3,0,True,endpoint; safety; labs,synthetic
+V-00193,P-0038,S005,30-Day Safety Follow-up,2026-06-26,2026-06-23,10,Completed,-3,0,True,safety_follow_up; ae_review,synthetic
+V-00194,P-0039,S003,Screening,2026-03-30,2026-03-12,14,Early,-18,4,True,eligibility; consent; labs,synthetic
+V-00195,P-0039,S003,Baseline / Randomisation,2026-04-08,2026-04-08,3,Completed,0,0,True,randomization; vitals; labs,synthetic
+V-00196,P-0039,S003,Week 4,2026-05-06,2026-05-06,7,Completed,0,0,False,safety; adherence; labs,synthetic
+V-00197,P-0039,S003,Week 8,2026-06-03,2026-05-22,7,Early,-12,5,False,safety; adherence; labs,synthetic
+V-00198,P-0039,S003,Week 12 / End of Treatment,2026-07-01,2026-07-01,7,Completed,0,0,True,endpoint; safety; labs,synthetic
+V-00199,P-0039,S003,30-Day Safety Follow-up,2026-07-31,2026-08-07,10,Completed,7,0,True,safety_follow_up; ae_review,synthetic
+V-00200,P-0040,S002,Screening,2026-02-26,2026-02-18,14,Completed,-8,0,True,eligibility; consent; labs,synthetic
+V-00201,P-0040,S002,Baseline / Randomisation,2026-03-13,2026-03-13,3,Completed,0,0,True,randomization; vitals; labs,synthetic
+V-00202,P-0040,S002,Week 4,2026-04-10,2026-04-13,7,Completed,3,0,False,safety; adherence; labs,synthetic
+V-00203,P-0041,S001,Screening,2026-02-19,2026-03-10,14,Late,19,5,True,eligibility; consent; labs,synthetic
+V-00204,P-0041,S001,Baseline / Randomisation,2026-03-07,2026-03-05,3,Completed,-2,0,True,randomization; vitals; labs,synthetic
+V-00205,P-0041,S001,Week 4,2026-04-04,2026-04-18,7,Late,14,7,False,safety; adherence; labs,synthetic
+V-00206,P-0041,S001,Week 8,2026-05-02,2026-04-26,7,Completed,-6,0,False,safety; adherence; labs,synthetic
+V-00207,P-0041,S001,Week 12 / End of Treatment,2026-05-30,2026-05-26,7,Completed,-4,0,True,endpoint; safety; labs,synthetic
+V-00208,P-0041,S001,30-Day Safety Follow-up,2026-06-29,2026-06-22,10,Completed,-7,0,True,safety_follow_up; ae_review,synthetic
+V-00209,P-0042,S001,Screening,2026-04-29,2026-04-28,14,Completed,-1,0,True,eligibility; consent; labs,synthetic
+V-00210,P-0042,S001,Baseline / Randomisation,2026-05-04,2026-05-04,3,Completed,0,0,True,randomization; vitals; labs,synthetic
+V-00211,P-0042,S001,Week 4,2026-06-01,2026-05-15,7,Early,-17,10,False,safety; adherence; labs,synthetic
+V-00212,P-0042,S001,Week 8,2026-06-29,2026-06-27,7,Completed,-2,0,False,safety; adherence; labs,synthetic
+V-00213,P-0042,S001,Week 12 / End of Treatment,2026-07-27,2026-07-24,7,Completed,-3,0,True,endpoint; safety; labs,synthetic
+V-00214,P-0042,S001,30-Day Safety Follow-up,2026-08-26,2026-08-29,10,Completed,3,0,True,safety_follow_up; ae_review,synthetic
+V-00215,P-0043,S004,Screening,2026-03-22,2026-03-25,14,Completed,3,0,True,eligibility; consent; labs,synthetic
+V-00216,P-0043,S004,Baseline / Randomisation,2026-04-06,2026-04-08,3,Completed,2,0,True,randomization; vitals; labs,synthetic
+V-00217,P-0043,S004,Week 4,2026-05-04,2026-05-31,7,Late,27,20,False,safety; adherence; labs,synthetic
+V-00218,P-0043,S004,Week 8,2026-06-01,,7,Missed,,,False,safety; adherence; labs,synthetic
+V-00219,P-0043,S004,Week 12 / End of Treatment,2026-06-29,2026-06-29,7,Completed,0,0,True,endpoint; safety; labs,synthetic
+V-00220,P-0043,S004,30-Day Safety Follow-up,2026-07-29,2026-08-07,10,Completed,9,0,True,safety_follow_up; ae_review,synthetic
+V-00221,P-0044,S001,Screening,2026-03-20,2026-03-06,14,Completed,-14,0,True,eligibility; consent; labs,synthetic
+V-00222,P-0044,S001,Baseline / Randomisation,2026-03-26,2026-03-30,3,Late,4,1,True,randomization; vitals; labs,synthetic
+V-00223,P-0044,S001,Week 4,2026-04-23,2026-04-25,7,Completed,2,0,False,safety; adherence; labs,synthetic
+V-00224,P-0044,S001,Week 8,2026-05-21,2026-05-13,7,Early,-8,1,False,safety; adherence; labs,synthetic
+V-00225,P-0044,S001,Week 12 / End of Treatment,2026-06-18,2026-06-27,7,Late,9,2,True,endpoint; safety; labs,synthetic
+V-00226,P-0044,S001,30-Day Safety Follow-up,2026-07-18,2026-07-18,10,Completed,0,0,True,safety_follow_up; ae_review,synthetic
+V-00227,P-0045,S001,Screening,2026-02-01,2026-02-09,14,Completed,8,0,True,eligibility; consent; labs,synthetic
+V-00228,P-0045,S001,Baseline / Randomisation,2026-02-17,2026-02-17,3,Completed,0,0,True,randomization; vitals; labs,synthetic
+V-00229,P-0045,S001,Week 4,2026-03-17,2026-03-27,7,Late,10,3,False,safety; adherence; labs,synthetic
+V-00230,P-0045,S001,Week 8,2026-04-14,2026-04-10,7,Completed,-4,0,False,safety; adherence; labs,synthetic
+V-00231,P-0045,S001,Week 12 / End of Treatment,2026-05-12,2026-05-10,7,Completed,-2,0,True,endpoint; safety; labs,synthetic
+V-00232,P-0045,S001,30-Day Safety Follow-up,2026-06-11,2026-06-13,10,Completed,2,0,True,safety_follow_up; ae_review,synthetic
+V-00233,P-0046,S001,Screening,2026-04-21,2026-04-05,14,Early,-16,2,True,eligibility; consent; labs,synthetic
+V-00234,P-0047,S005,Screening,2026-04-01,2026-03-26,14,Completed,-6,0,True,eligibility; consent; labs,synthetic
+V-00235,P-0047,S005,Baseline / Randomisation,2026-04-15,2026-04-16,3,Completed,1,0,True,randomization; vitals; labs,synthetic
+V-00236,P-0047,S005,Week 4,2026-05-13,,7,Missed,,,False,safety; adherence; labs,synthetic
+V-00237,P-0048,S003,Screening,2026-04-16,2026-04-12,14,Completed,-4,0,True,eligibility; consent; labs,synthetic
+V-00238,P-0048,S003,Baseline / Randomisation,2026-04-23,2026-04-19,3,Early,-4,1,True,randomization; vitals; labs,synthetic
+V-00239,P-0048,S003,Week 4,2026-05-21,2026-05-13,7,Early,-8,1,False,safety; adherence; labs,synthetic
+V-00240,P-0048,S003,Week 8,2026-06-18,2026-06-19,7,Completed,1,0,False,safety; adherence; labs,synthetic
+V-00241,P-0048,S003,Week 12 / End of Treatment,2026-07-16,,7,Pending,,,True,endpoint; safety; labs,synthetic
+V-00242,P-0048,S003,30-Day Safety Follow-up,2026-08-15,2026-08-06,10,Completed,-9,0,True,safety_follow_up; ae_review,synthetic
+V-00243,P-0049,S002,Screening,2026-02-14,,14,Pending,,,True,eligibility; consent; labs,synthetic
+V-00244,P-0049,S002,Baseline / Randomisation,2026-02-23,2026-02-23,3,Completed,0,0,True,randomization; vitals; labs,synthetic
+V-00245,P-0049,S002,Week 4,2026-03-23,2026-03-26,7,Completed,3,0,False,safety; adherence; labs,synthetic
+V-00246,P-0049,S002,Week 8,2026-04-20,2026-04-11,7,Early,-9,2,False,safety; adherence; labs,synthetic
+V-00247,P-0049,S002,Week 12 / End of Treatment,2026-05-18,2026-05-14,7,Completed,-4,0,True,endpoint; safety; labs,synthetic
+V-00248,P-0049,S002,30-Day Safety Follow-up,2026-06-17,2026-06-21,10,Completed,4,0,True,safety_follow_up; ae_review,synthetic
+V-00249,P-0050,S002,Screening,2026-04-17,2026-04-12,14,Completed,-5,0,True,eligibility; consent; labs,synthetic
+V-00250,P-0051,S005,Screening,2026-03-18,2026-03-20,14,Completed,2,0,True,eligibility; consent; labs,synthetic
+V-00251,P-0051,S005,Baseline / Randomisation,2026-03-31,2026-03-30,3,Completed,-1,0,True,randomization; vitals; labs,synthetic
+V-00252,P-0051,S005,Week 4,2026-04-28,2026-04-25,7,Completed,-3,0,False,safety; adherence; labs,synthetic
+V-00253,P-0052,S002,Screening,2026-04-02,2026-03-18,14,Early,-15,1,True,eligibility; consent; labs,synthetic
+V-00254,P-0053,S001,Screening,2026-04-01,2026-04-05,14,Completed,4,0,True,eligibility; consent; labs,synthetic
+V-00255,P-0053,S001,Baseline / Randomisation,2026-04-12,2026-04-12,3,Completed,0,0,True,randomization; vitals; labs,synthetic
+V-00256,P-0053,S001,Week 4,2026-05-10,2026-05-20,7,Late,10,3,False,safety; adherence; labs,synthetic
+V-00257,P-0053,S001,Week 8,2026-06-07,2026-05-29,7,Early,-9,2,False,safety; adherence; labs,synthetic
+V-00258,P-0053,S001,Week 12 / End of Treatment,2026-07-05,2026-07-07,7,Completed,2,0,True,endpoint; safety; labs,synthetic
+V-00259,P-0053,S001,30-Day Safety Follow-up,2026-08-04,,10,Pending,,,True,safety_follow_up; ae_review,synthetic
+V-00260,P-0054,S004,Screening,2026-02-14,2026-03-17,14,Late,31,17,True,eligibility; consent; labs,synthetic
+V-00261,P-0054,S004,Baseline / Randomisation,2026-02-28,2026-02-28,3,Completed,0,0,True,randomization; vitals; labs,synthetic
+V-00262,P-0054,S004,Week 4,2026-03-28,2026-04-06,7,Late,9,2,False,safety; adherence; labs,synthetic
+V-00263,P-0054,S004,Week 8,2026-04-25,2026-05-02,7,Completed,7,0,False,safety; adherence; labs,synthetic
+V-00264,P-0055,S004,Screening,2026-02-25,2026-02-20,14,Completed,-5,0,True,eligibility; consent; labs,synthetic
+V-00265,P-0055,S004,Baseline / Randomisation,2026-03-03,2026-03-03,3,Completed,0,0,True,randomization; vitals; labs,synthetic
+V-00266,P-0055,S004,Week 4,2026-03-31,2026-04-03,7,Completed,3,0,False,safety; adherence; labs,synthetic
+V-00267,P-0055,S004,Week 8,2026-04-28,2026-05-05,7,Completed,7,0,False,safety; adherence; labs,synthetic
+V-00268,P-0055,S004,Week 12 / End of Treatment,2026-05-26,2026-05-24,7,Completed,-2,0,True,endpoint; safety; labs,synthetic
+V-00269,P-0055,S004,30-Day Safety Follow-up,2026-06-25,2026-06-25,10,Completed,0,0,True,safety_follow_up; ae_review,synthetic
+V-00270,P-0056,S005,Screening,2026-04-29,2026-04-30,14,Completed,1,0,True,eligibility; consent; labs,synthetic
+V-00271,P-0056,S005,Baseline / Randomisation,2026-05-06,2026-05-06,3,Completed,0,0,True,randomization; vitals; labs,synthetic
+V-00272,P-0056,S005,Week 4,2026-06-03,,7,Missed,,,False,safety; adherence; labs,synthetic
+V-00273,P-0056,S005,Week 8,2026-07-01,2026-06-27,7,Completed,-4,0,False,safety; adherence; labs,synthetic
+V-00274,P-0056,S005,Week 12 / End of Treatment,2026-07-29,2026-07-30,7,Completed,1,0,True,endpoint; safety; labs,synthetic
+V-00275,P-0056,S005,30-Day Safety Follow-up,2026-08-28,2026-08-24,10,Completed,-4,0,True,safety_follow_up; ae_review,synthetic
+V-00276,P-0057,S001,Screening,2026-04-30,2026-04-27,14,Completed,-3,0,True,eligibility; consent; labs,synthetic
+V-00277,P-0057,S001,Baseline / Randomisation,2026-05-13,2026-05-12,3,Completed,-1,0,True,randomization; vitals; labs,synthetic
+V-00278,P-0057,S001,Week 4,2026-06-10,2026-05-25,7,Early,-16,9,False,safety; adherence; labs,synthetic
+V-00279,P-0057,S001,Week 8,2026-07-08,,7,Pending,,,False,safety; adherence; labs,synthetic
+V-00280,P-0057,S001,Week 12 / End of Treatment,2026-08-05,,7,Missed,,,True,endpoint; safety; labs,synthetic
+V-00281,P-0057,S001,30-Day Safety Follow-up,2026-09-04,2026-09-06,10,Completed,2,0,True,safety_follow_up; ae_review,synthetic
+V-00282,P-0058,S005,Screening,2026-04-19,2026-04-27,14,Completed,8,0,True,eligibility; consent; labs,synthetic
+V-00283,P-0058,S005,Baseline / Randomisation,2026-05-04,2026-05-04,3,Completed,0,0,True,randomization; vitals; labs,synthetic
+V-00284,P-0058,S005,Week 4,2026-06-01,2026-05-31,7,Completed,-1,0,False,safety; adherence; labs,synthetic
+V-00285,P-0058,S005,Week 8,2026-06-29,2026-07-01,7,Completed,2,0,False,safety; adherence; labs,synthetic
+V-00286,P-0058,S005,Week 12 / End of Treatment,2026-07-27,2026-08-01,7,Completed,5,0,True,endpoint; safety; labs,synthetic
+V-00287,P-0058,S005,30-Day Safety Follow-up,2026-08-26,2026-08-31,10,Completed,5,0,True,safety_follow_up; ae_review,synthetic
+V-00288,P-0059,S006,Screening,2026-03-02,2026-02-28,14,Completed,-2,0,True,eligibility; consent; labs,synthetic
+V-00289,P-0059,S006,Baseline / Randomisation,2026-03-12,2026-03-06,3,Early,-6,3,True,randomization; vitals; labs,synthetic
+V-00290,P-0059,S006,Week 4,2026-04-09,2026-04-16,7,Completed,7,0,False,safety; adherence; labs,synthetic
+V-00291,P-0059,S006,Week 8,2026-05-07,2026-05-06,7,Completed,-1,0,False,safety; adherence; labs,synthetic
+V-00292,P-0059,S006,Week 12 / End of Treatment,2026-06-04,2026-06-11,7,Completed,7,0,True,endpoint; safety; labs,synthetic
+V-00293,P-0059,S006,30-Day Safety Follow-up,2026-07-04,2026-07-03,10,Completed,-1,0,True,safety_follow_up; ae_review,synthetic
+V-00294,P-0060,S005,Screening,2026-03-31,2026-03-23,14,Completed,-8,0,True,eligibility; consent; labs,synthetic
+V-00295,P-0060,S005,Baseline / Randomisation,2026-04-13,2026-04-16,3,Completed,3,0,True,randomization; vitals; labs,synthetic
+V-00296,P-0060,S005,Week 4,2026-05-11,,7,Missed,,,False,safety; adherence; labs,synthetic
+V-00297,P-0060,S005,Week 8,2026-06-08,2026-06-16,7,Late,8,1,False,safety; adherence; labs,synthetic
+V-00298,P-0060,S005,Week 12 / End of Treatment,2026-07-06,2026-07-04,7,Completed,-2,0,True,endpoint; safety; labs,synthetic
+V-00299,P-0060,S005,30-Day Safety Follow-up,2026-08-05,2026-08-07,10,Completed,2,0,True,safety_follow_up; ae_review,synthetic
+V-00300,P-0061,S005,Screening,2026-04-10,2026-04-11,14,Completed,1,0,True,eligibility; consent; labs,synthetic
+V-00301,P-0061,S005,Baseline / Randomisation,2026-04-22,2026-04-23,3,Completed,1,0,True,randomization; vitals; labs,synthetic
+V-00302,P-0061,S005,Week 4,2026-05-20,2026-05-20,7,Completed,0,0,False,safety; adherence; labs,synthetic
+V-00303,P-0061,S005,Week 8,2026-06-17,2026-06-18,7,Completed,1,0,False,safety; adherence; labs,synthetic
+V-00304,P-0061,S005,Week 12 / End of Treatment,2026-07-15,2026-07-22,7,Completed,7,0,True,endpoint; safety; labs,synthetic
+V-00305,P-0061,S005,30-Day Safety Follow-up,2026-08-14,2026-08-10,10,Completed,-4,0,True,safety_follow_up; ae_review,synthetic
+V-00306,P-0062,S003,Screening,2026-04-10,2026-04-09,14,Completed,-1,0,True,eligibility; consent; labs,synthetic
+V-00307,P-0062,S003,Baseline / Randomisation,2026-04-27,2026-04-27,3,Completed,0,0,True,randomization; vitals; labs,synthetic
+V-00308,P-0062,S003,Week 4,2026-05-25,2026-05-24,7,Completed,-1,0,False,safety; adherence; labs,synthetic
+V-00309,P-0062,S003,Week 8,2026-06-22,2026-06-21,7,Completed,-1,0,False,safety; adherence; labs,synthetic
+V-00310,P-0062,S003,Week 12 / End of Treatment,2026-07-20,,7,Pending,,,True,endpoint; safety; labs,synthetic
+V-00311,P-0062,S003,30-Day Safety Follow-up,2026-08-19,2026-08-08,10,Early,-11,1,True,safety_follow_up; ae_review,synthetic
+V-00312,P-0063,S005,Screening,2026-03-15,2026-03-15,14,Completed,0,0,True,eligibility; consent; labs,synthetic
+V-00313,P-0064,S005,Screening,2026-02-05,,14,Missed,,,True,eligibility; consent; labs,synthetic
+V-00314,P-0065,S005,Screening,2026-04-05,2026-04-07,14,Completed,2,0,True,eligibility; consent; labs,synthetic
+V-00315,P-0065,S005,Baseline / Randomisation,2026-04-09,2026-04-10,3,Completed,1,0,True,randomization; vitals; labs,synthetic
+V-00316,P-0065,S005,Week 4,2026-05-07,2026-05-06,7,Completed,-1,0,False,safety; adherence; labs,synthetic
+V-00317,P-0065,S005,Week 8,2026-06-04,2026-06-04,7,Completed,0,0,False,safety; adherence; labs,synthetic
+V-00318,P-0065,S005,Week 12 / End of Treatment,2026-07-02,2026-07-06,7,Completed,4,0,True,endpoint; safety; labs,synthetic
+V-00319,P-0065,S005,30-Day Safety Follow-up,2026-08-01,2026-07-24,10,Completed,-8,0,True,safety_follow_up; ae_review,synthetic
+V-00320,P-0066,S006,Screening,2026-02-28,2026-03-21,14,Late,21,7,True,eligibility; consent; labs,synthetic
+V-00321,P-0066,S006,Baseline / Randomisation,2026-03-04,2026-02-27,3,Early,-5,2,True,randomization; vitals; labs,synthetic
+V-00322,P-0066,S006,Week 4,2026-04-01,2026-04-03,7,Completed,2,0,False,safety; adherence; labs,synthetic
+V-00323,P-0066,S006,Week 8,2026-04-29,,7,Missed,,,False,safety; adherence; labs,synthetic
+V-00324,P-0066,S006,Week 12 / End of Treatment,2026-05-27,2026-05-24,7,Completed,-3,0,True,endpoint; safety; labs,synthetic
+V-00325,P-0066,S006,30-Day Safety Follow-up,2026-06-26,,10,Pending,,,True,safety_follow_up; ae_review,synthetic
+V-00326,P-0067,S002,Screening,2026-02-05,2026-01-26,14,Completed,-10,0,True,eligibility; consent; labs,synthetic
+V-00327,P-0067,S002,Baseline / Randomisation,2026-02-20,2026-02-21,3,Completed,1,0,True,randomization; vitals; labs,synthetic
+V-00328,P-0067,S002,Week 4,2026-03-20,2026-04-10,7,Late,21,14,False,safety; adherence; labs,synthetic
+V-00329,P-0067,S002,Week 8,2026-04-17,2026-04-10,7,Completed,-7,0,False,safety; adherence; labs,synthetic
+V-00330,P-0067,S002,Week 12 / End of Treatment,2026-05-15,2026-05-21,7,Completed,6,0,True,endpoint; safety; labs,synthetic
+V-00331,P-0067,S002,30-Day Safety Follow-up,2026-06-14,2026-06-14,10,Completed,0,0,True,safety_follow_up; ae_review,synthetic
+V-00332,P-0068,S004,Screening,2026-04-19,2026-04-05,14,Completed,-14,0,True,eligibility; consent; labs,synthetic
+V-00333,P-0068,S004,Baseline / Randomisation,2026-04-29,2026-04-27,3,Completed,-2,0,True,randomization; vitals; labs,synthetic
+V-00334,P-0068,S004,Week 4,2026-05-27,2026-05-28,7,Completed,1,0,False,safety; adherence; labs,synthetic
+V-00335,P-0068,S004,Week 8,2026-06-24,2026-06-21,7,Completed,-3,0,False,safety; adherence; labs,synthetic
+V-00336,P-0068,S004,Week 12 / End of Treatment,2026-07-22,2026-07-12,7,Early,-10,3,True,endpoint; safety; labs,synthetic
+V-00337,P-0068,S004,30-Day Safety Follow-up,2026-08-21,2026-08-23,10,Completed,2,0,True,safety_follow_up; ae_review,synthetic
+V-00338,P-0069,S004,Screening,2026-02-12,2026-02-10,14,Completed,-2,0,True,eligibility; consent; labs,synthetic
+V-00339,P-0069,S004,Baseline / Randomisation,2026-02-27,2026-02-28,3,Completed,1,0,True,randomization; vitals; labs,synthetic
+V-00340,P-0069,S004,Week 4,2026-03-27,2026-03-29,7,Completed,2,0,False,safety; adherence; labs,synthetic
+V-00341,P-0069,S004,Week 8,2026-04-24,2026-04-28,7,Completed,4,0,False,safety; adherence; labs,synthetic
+V-00342,P-0069,S004,Week 12 / End of Treatment,2026-05-22,2026-05-28,7,Completed,6,0,True,endpoint; safety; labs,synthetic
+V-00343,P-0069,S004,30-Day Safety Follow-up,2026-06-21,,10,Missed,,,True,safety_follow_up; ae_review,synthetic
+V-00344,P-0070,S004,Screening,2026-03-22,2026-03-19,14,Completed,-3,0,True,eligibility; consent; labs,synthetic
+V-00345,P-0070,S004,Baseline / Randomisation,2026-04-02,2026-04-02,3,Completed,0,0,True,randomization; vitals; labs,synthetic
+V-00346,P-0070,S004,Week 4,2026-04-30,2026-04-30,7,Completed,0,0,False,safety; adherence; labs,synthetic
+V-00347,P-0070,S004,Week 8,2026-05-28,2026-05-29,7,Completed,1,0,False,safety; adherence; labs,synthetic
+V-00348,P-0070,S004,Week 12 / End of Treatment,2026-06-25,2026-06-26,7,Completed,1,0,True,endpoint; safety; labs,synthetic
+V-00349,P-0070,S004,30-Day Safety Follow-up,2026-07-25,2026-07-16,10,Completed,-9,0,True,safety_follow_up; ae_review,synthetic
+V-00350,P-0071,S004,Screening,2026-03-31,2026-04-02,14,Completed,2,0,True,eligibility; consent; labs,synthetic
+V-00351,P-0071,S004,Baseline / Randomisation,2026-04-06,2026-04-06,3,Completed,0,0,True,randomization; vitals; labs,synthetic
+V-00352,P-0071,S004,Week 4,2026-05-04,2026-05-03,7,Completed,-1,0,False,safety; adherence; labs,synthetic
+V-00353,P-0071,S004,Week 8,2026-06-01,2026-06-06,7,Completed,5,0,False,safety; adherence; labs,synthetic
+V-00354,P-0071,S004,Week 12 / End of Treatment,2026-06-29,2026-07-01,7,Completed,2,0,True,endpoint; safety; labs,synthetic
+V-00355,P-0071,S004,30-Day Safety Follow-up,2026-07-29,2026-07-20,10,Completed,-9,0,True,safety_follow_up; ae_review,synthetic
+V-00356,P-0072,S005,Screening,2026-02-25,2026-03-05,14,Completed,8,0,True,eligibility; consent; labs,synthetic
+V-00357,P-0072,S005,Baseline / Randomisation,2026-03-07,2026-03-07,3,Completed,0,0,True,randomization; vitals; labs,synthetic
+V-00358,P-0072,S005,Week 4,2026-04-04,2026-04-21,7,Late,17,10,False,safety; adherence; labs,synthetic
+V-00359,P-0072,S005,Week 8,2026-05-02,2026-04-27,7,Completed,-5,0,False,safety; adherence; labs,synthetic
+V-00360,P-0072,S005,Week 12 / End of Treatment,2026-05-30,2026-05-24,7,Completed,-6,0,True,endpoint; safety; labs,synthetic
+V-00361,P-0072,S005,30-Day Safety Follow-up,2026-06-29,2026-06-30,10,Completed,1,0,True,safety_follow_up; ae_review,synthetic
+V-00362,P-0073,S004,Screening,2026-05-01,2026-05-17,14,Late,16,2,True,eligibility; consent; labs,synthetic
+V-00363,P-0074,S003,Screening,2026-04-28,2026-04-16,14,Completed,-12,0,True,eligibility; consent; labs,synthetic
+V-00364,P-0074,S003,Baseline / Randomisation,2026-05-15,2026-05-15,3,Completed,0,0,True,randomization; vitals; labs,synthetic
+V-00365,P-0074,S003,Week 4,2026-06-12,2026-06-29,7,Late,17,10,False,safety; adherence; labs,synthetic
+V-00366,P-0074,S003,Week 8,2026-07-10,2026-07-09,7,Completed,-1,0,False,safety; adherence; labs,synthetic
+V-00367,P-0074,S003,Week 12 / End of Treatment,2026-08-07,2026-08-04,7,Completed,-3,0,True,endpoint; safety; labs,synthetic
+V-00368,P-0074,S003,30-Day Safety Follow-up,2026-09-06,,10,Pending,,,True,safety_follow_up; ae_review,synthetic
+V-00369,P-0075,S004,Screening,2026-02-27,2026-02-20,14,Completed,-7,0,True,eligibility; consent; labs,synthetic
+V-00370,P-0075,S004,Baseline / Randomisation,2026-03-11,2026-03-13,3,Completed,2,0,True,randomization; vitals; labs,synthetic
+V-00371,P-0075,S004,Week 4,2026-04-08,2026-04-21,7,Late,13,6,False,safety; adherence; labs,synthetic
+V-00372,P-0075,S004,Week 8,2026-05-06,2026-04-23,7,Early,-13,6,False,safety; adherence; labs,synthetic
+V-00373,P-0075,S004,Week 12 / End of Treatment,2026-06-03,2026-05-29,7,Completed,-5,0,True,endpoint; safety; labs,synthetic
+V-00374,P-0075,S004,30-Day Safety Follow-up,2026-07-03,2026-06-21,10,Early,-12,2,True,safety_follow_up; ae_review,synthetic
+V-00375,P-0076,S002,Screening,2026-04-29,2026-04-30,14,Completed,1,0,True,eligibility; consent; labs,synthetic
+V-00376,P-0076,S002,Baseline / Randomisation,2026-05-09,2026-05-09,3,Completed,0,0,True,randomization; vitals; labs,synthetic
+V-00377,P-0076,S002,Week 4,2026-06-06,2026-06-02,7,Completed,-4,0,False,safety; adherence; labs,synthetic
+V-00378,P-0076,S002,Week 8,2026-07-04,,7,Pending,,,False,safety; adherence; labs,synthetic
+V-00379,P-0076,S002,Week 12 / End of Treatment,2026-08-01,2026-08-07,7,Completed,6,0,True,endpoint; safety; labs,synthetic
+V-00380,P-0076,S002,30-Day Safety Follow-up,2026-08-31,2026-09-07,10,Completed,7,0,True,safety_follow_up; ae_review,synthetic
+V-00381,P-0077,S004,Screening,2026-02-22,2026-02-21,14,Completed,-1,0,True,eligibility; consent; labs,synthetic
+V-00382,P-0077,S004,Baseline / Randomisation,2026-03-07,2026-02-25,3,Early,-10,7,True,randomization; vitals; labs,synthetic
+V-00383,P-0077,S004,Week 4,2026-04-04,2026-04-09,7,Completed,5,0,False,safety; adherence; labs,synthetic
+V-00384,P-0077,S004,Week 8,2026-05-02,,7,Missed,,,False,safety; adherence; labs,synthetic
+V-00385,P-0077,S004,Week 12 / End of Treatment,2026-05-30,2026-05-31,7,Completed,1,0,True,endpoint; safety; labs,synthetic
+V-00386,P-0077,S004,30-Day Safety Follow-up,2026-06-29,2026-06-14,10,Early,-15,5,True,safety_follow_up; ae_review,synthetic
+V-00387,P-0078,S003,Screening,2026-03-23,2026-03-23,14,Completed,0,0,True,eligibility; consent; labs,synthetic
+V-00388,P-0078,S003,Baseline / Randomisation,2026-04-09,2026-04-08,3,Completed,-1,0,True,randomization; vitals; labs,synthetic
+V-00389,P-0078,S003,Week 4,2026-05-07,2026-05-03,7,Completed,-4,0,False,safety; adherence; labs,synthetic
+V-00390,P-0078,S003,Week 8,2026-06-04,,7,Missed,,,False,safety; adherence; labs,synthetic
+V-00391,P-0078,S003,Week 12 / End of Treatment,2026-07-02,,7,Pending,,,True,endpoint; safety; labs,synthetic
+V-00392,P-0078,S003,30-Day Safety Follow-up,2026-08-01,2026-07-24,10,Completed,-8,0,True,safety_follow_up; ae_review,synthetic
+V-00393,P-0079,S003,Screening,2026-04-11,2026-04-12,14,Completed,1,0,True,eligibility; consent; labs,synthetic
+V-00394,P-0079,S003,Baseline / Randomisation,2026-04-22,2026-05-04,3,Late,12,9,True,randomization; vitals; labs,synthetic
+V-00395,P-0079,S003,Week 4,2026-05-20,2026-05-21,7,Completed,1,0,False,safety; adherence; labs,synthetic
+V-00396,P-0079,S003,Week 8,2026-06-17,2026-06-15,7,Completed,-2,0,False,safety; adherence; labs,synthetic
+V-00397,P-0079,S003,Week 12 / End of Treatment,2026-07-15,2026-07-16,7,Completed,1,0,True,endpoint; safety; labs,synthetic
+V-00398,P-0080,S001,Screening,2026-04-21,2026-04-11,14,Completed,-10,0,True,eligibility; consent; labs,synthetic
+V-00399,P-0080,S001,Baseline / Randomisation,2026-05-06,2026-04-24,3,Early,-12,9,True,randomization; vitals; labs,synthetic
+V-00400,P-0080,S001,Week 4,2026-06-03,,7,Missed,,,False,safety; adherence; labs,synthetic
+V-00401,P-0080,S001,Week 8,2026-07-01,,7,Pending,,,False,safety; adherence; labs,synthetic
+V-00402,P-0080,S001,Week 12 / End of Treatment,2026-07-29,2026-08-05,7,Completed,7,0,True,endpoint; safety; labs,synthetic
+V-00403,P-0080,S001,30-Day Safety Follow-up,2026-08-28,2026-08-17,10,Early,-11,1,True,safety_follow_up; ae_review,synthetic
+V-00404,P-0081,S002,Screening,2026-02-07,2026-02-13,14,Completed,6,0,True,eligibility; consent; labs,synthetic
+V-00405,P-0081,S002,Baseline / Randomisation,2026-02-17,2026-02-19,3,Completed,2,0,True,randomization; vitals; labs,synthetic
+V-00406,P-0081,S002,Week 4,2026-03-17,2026-03-15,7,Completed,-2,0,False,safety; adherence; labs,synthetic
+V-00407,P-0081,S002,Week 8,2026-04-14,2026-04-18,7,Completed,4,0,False,safety; adherence; labs,synthetic
+V-00408,P-0081,S002,Week 12 / End of Treatment,2026-05-12,2026-05-23,7,Late,11,4,True,endpoint; safety; labs,synthetic
+V-00409,P-0081,S002,30-Day Safety Follow-up,2026-06-11,2026-05-24,10,Early,-18,8,True,safety_follow_up; ae_review,synthetic
+V-00410,P-0082,S004,Screening,2026-04-23,2026-04-14,14,Completed,-9,0,True,eligibility; consent; labs,synthetic
+V-00411,P-0082,S004,Baseline / Randomisation,2026-04-28,2026-04-27,3,Completed,-1,0,True,randomization; vitals; labs,synthetic
+V-00412,P-0082,S004,Week 4,2026-05-26,,7,Missed,,,False,safety; adherence; labs,synthetic
+V-00413,P-0082,S004,Week 8,2026-06-23,2026-06-26,7,Completed,3,0,False,safety; adherence; labs,synthetic
+V-00414,P-0082,S004,Week 12 / End of Treatment,2026-07-21,2026-07-08,7,Early,-13,6,True,endpoint; safety; labs,synthetic
+V-00415,P-0082,S004,30-Day Safety Follow-up,2026-08-20,,10,Pending,,,True,safety_follow_up; ae_review,synthetic
+V-00416,P-0083,S002,Screening,2026-04-15,2026-04-10,14,Completed,-5,0,True,eligibility; consent; labs,synthetic
+V-00417,P-0083,S002,Baseline / Randomisation,2026-04-29,2026-05-01,3,Completed,2,0,True,randomization; vitals; labs,synthetic
+V-00418,P-0083,S002,Week 4,2026-05-27,2026-05-20,7,Completed,-7,0,False,safety; adherence; labs,synthetic
+V-00419,P-0083,S002,Week 8,2026-06-24,,7,Pending,,,False,safety; adherence; labs,synthetic
+V-00420,P-0083,S002,Week 12 / End of Treatment,2026-07-22,2026-07-22,7,Completed,0,0,True,endpoint; safety; labs,synthetic
+V-00421,P-0083,S002,30-Day Safety Follow-up,2026-08-21,2026-08-20,10,Completed,-1,0,True,safety_follow_up; ae_review,synthetic
+V-00422,P-0084,S003,Screening,2026-04-02,2026-04-14,14,Completed,12,0,True,eligibility; consent; labs,synthetic
+V-00423,P-0084,S003,Baseline / Randomisation,2026-04-08,2026-04-08,3,Completed,0,0,True,randomization; vitals; labs,synthetic
+V-00424,P-0084,S003,Week 4,2026-05-06,,7,Missed,,,False,safety; adherence; labs,synthetic
+V-00425,P-0084,S003,Week 8,2026-06-03,2026-06-10,7,Completed,7,0,False,safety; adherence; labs,synthetic
+V-00426,P-0084,S003,Week 12 / End of Treatment,2026-07-01,2026-07-03,7,Completed,2,0,True,endpoint; safety; labs,synthetic
+V-00427,P-0084,S003,30-Day Safety Follow-up,2026-07-31,2026-08-13,10,Late,13,3,True,safety_follow_up; ae_review,synthetic
+V-00428,P-0085,S005,Screening,2026-04-18,,14,Missed,,,True,eligibility; consent; labs,synthetic
+V-00429,P-0085,S005,Baseline / Randomisation,2026-04-29,2026-05-01,3,Completed,2,0,True,randomization; vitals; labs,synthetic
+V-00430,P-0085,S005,Week 4,2026-05-27,2026-05-28,7,Completed,1,0,False,safety; adherence; labs,synthetic
+V-00431,P-0085,S005,Week 8,2026-06-24,2026-06-30,7,Completed,6,0,False,safety; adherence; labs,synthetic
+V-00432,P-0085,S005,Week 12 / End of Treatment,2026-07-22,2026-08-01,7,Late,10,3,True,endpoint; safety; labs,synthetic
+V-00433,P-0085,S005,30-Day Safety Follow-up,2026-08-21,2026-08-22,10,Completed,1,0,True,safety_follow_up; ae_review,synthetic
+V-00434,P-0086,S003,Screening,2026-03-10,2026-03-04,14,Completed,-6,0,True,eligibility; consent; labs,synthetic
+V-00435,P-0086,S003,Baseline / Randomisation,2026-03-20,2026-03-18,3,Completed,-2,0,True,randomization; vitals; labs,synthetic
+V-00436,P-0086,S003,Week 4,2026-04-17,2026-04-17,7,Completed,0,0,False,safety; adherence; labs,synthetic
+V-00437,P-0086,S003,Week 8,2026-05-15,2026-04-29,7,Early,-16,9,False,safety; adherence; labs,synthetic
+V-00438,P-0086,S003,Week 12 / End of Treatment,2026-06-12,2026-06-12,7,Completed,0,0,True,endpoint; safety; labs,synthetic
+V-00439,P-0086,S003,30-Day Safety Follow-up,2026-07-12,2026-07-28,10,Late,16,6,True,safety_follow_up; ae_review,synthetic
+V-00440,P-0087,S002,Screening,2026-02-19,,14,Missed,,,True,eligibility; consent; labs,synthetic
+V-00441,P-0087,S002,Baseline / Randomisation,2026-03-08,2026-03-08,3,Completed,0,0,True,randomization; vitals; labs,synthetic
+V-00442,P-0087,S002,Week 4,2026-04-05,2026-04-05,7,Completed,0,0,False,safety; adherence; labs,synthetic
+V-00443,P-0087,S002,Week 8,2026-05-03,2026-05-12,7,Late,9,2,False,safety; adherence; labs,synthetic
+V-00444,P-0087,S002,Week 12 / End of Treatment,2026-05-31,2026-05-31,7,Completed,0,0,True,endpoint; safety; labs,synthetic
+V-00445,P-0087,S002,30-Day Safety Follow-up,2026-06-30,2026-06-30,10,Completed,0,0,True,safety_follow_up; ae_review,synthetic
+V-00446,P-0088,S005,Screening,2026-03-19,2026-03-17,14,Completed,-2,0,True,eligibility; consent; labs,synthetic
+V-00447,P-0088,S005,Baseline / Randomisation,2026-03-31,2026-03-30,3,Completed,-1,0,True,randomization; vitals; labs,synthetic
+V-00448,P-0088,S005,Week 4,2026-04-28,2026-04-22,7,Completed,-6,0,False,safety; adherence; labs,synthetic
+V-00449,P-0088,S005,Week 8,2026-05-26,2026-05-29,7,Completed,3,0,False,safety; adherence; labs,synthetic
+V-00450,P-0088,S005,Week 12 / End of Treatment,2026-06-23,2026-06-19,7,Completed,-4,0,True,endpoint; safety; labs,synthetic
+V-00451,P-0088,S005,30-Day Safety Follow-up,2026-07-23,2026-07-28,10,Completed,5,0,True,safety_follow_up; ae_review,synthetic
+V-00452,P-0089,S003,Screening,2026-04-12,,14,Pending,,,True,eligibility; consent; labs,synthetic
+V-00453,P-0089,S003,Baseline / Randomisation,2026-04-29,2026-05-05,3,Late,6,3,True,randomization; vitals; labs,synthetic
+V-00454,P-0089,S003,Week 4,2026-05-27,2026-05-28,7,Completed,1,0,False,safety; adherence; labs,synthetic
+V-00455,P-0089,S003,Week 8,2026-06-24,2026-07-09,7,Late,15,8,False,safety; adherence; labs,synthetic
+V-00456,P-0089,S003,Week 12 / End of Treatment,2026-07-22,2026-07-30,7,Late,8,1,True,endpoint; safety; labs,synthetic
+V-00457,P-0089,S003,30-Day Safety Follow-up,2026-08-21,2026-08-14,10,Completed,-7,0,True,safety_follow_up; ae_review,synthetic
+V-00458,P-0090,S003,Screening,2026-03-18,2026-03-18,14,Completed,0,0,True,eligibility; consent; labs,synthetic
+V-00459,P-0090,S003,Baseline / Randomisation,2026-04-03,2026-03-25,3,Early,-9,6,True,randomization; vitals; labs,synthetic
+V-00460,P-0090,S003,Week 4,2026-05-01,2026-05-05,7,Completed,4,0,False,safety; adherence; labs,synthetic
+V-00461,P-0090,S003,Week 8,2026-05-29,2026-06-01,7,Completed,3,0,False,safety; adherence; labs,synthetic
+V-00462,P-0090,S003,Week 12 / End of Treatment,2026-06-26,2026-06-27,7,Completed,1,0,True,endpoint; safety; labs,synthetic
+V-00463,P-0090,S003,30-Day Safety Follow-up,2026-07-26,2026-07-27,10,Completed,1,0,True,safety_follow_up; ae_review,synthetic
+V-00464,P-0091,S003,Screening,2026-05-06,2026-05-16,14,Completed,10,0,True,eligibility; consent; labs,synthetic
+V-00465,P-0091,S003,Baseline / Randomisation,2026-05-15,2026-05-16,3,Completed,1,0,True,randomization; vitals; labs,synthetic
+V-00466,P-0091,S003,Week 4,2026-06-12,2026-06-21,7,Late,9,2,False,safety; adherence; labs,synthetic
+V-00467,P-0091,S003,Week 8,2026-07-10,2026-07-13,7,Completed,3,0,False,safety; adherence; labs,synthetic
+V-00468,P-0091,S003,Week 12 / End of Treatment,2026-08-07,2026-08-10,7,Completed,3,0,True,endpoint; safety; labs,synthetic
+V-00469,P-0091,S003,30-Day Safety Follow-up,2026-09-06,2026-09-02,10,Completed,-4,0,True,safety_follow_up; ae_review,synthetic
+V-00470,P-0092,S006,Screening,2026-03-05,2026-03-13,14,Completed,8,0,True,eligibility; consent; labs,synthetic
+V-00471,P-0092,S006,Baseline / Randomisation,2026-03-15,2026-03-15,3,Completed,0,0,True,randomization; vitals; labs,synthetic
+V-00472,P-0092,S006,Week 4,2026-04-12,2026-04-03,7,Early,-9,2,False,safety; adherence; labs,synthetic
+V-00473,P-0092,S006,Week 8,2026-05-10,2026-05-14,7,Completed,4,0,False,safety; adherence; labs,synthetic
+V-00474,P-0092,S006,Week 12 / End of Treatment,2026-06-07,2026-06-07,7,Completed,0,0,True,endpoint; safety; labs,synthetic
+V-00475,P-0092,S006,30-Day Safety Follow-up,2026-07-07,2026-07-02,10,Completed,-5,0,True,safety_follow_up; ae_review,synthetic
+V-00476,P-0093,S004,Screening,2026-03-22,2026-03-04,14,Early,-18,4,True,eligibility; consent; labs,synthetic
+V-00477,P-0094,S006,Screening,2026-03-31,2026-03-27,14,Completed,-4,0,True,eligibility; consent; labs,synthetic
+V-00478,P-0095,S001,Screening,2026-03-21,2026-02-25,14,Early,-24,10,True,eligibility; consent; labs,synthetic
+V-00479,P-0095,S001,Baseline / Randomisation,2026-04-03,2026-04-07,3,Late,4,1,True,randomization; vitals; labs,synthetic
+V-00480,P-0095,S001,Week 4,2026-05-01,2026-05-04,7,Completed,3,0,False,safety; adherence; labs,synthetic
+V-00481,P-0095,S001,Week 8,2026-05-29,2026-05-16,7,Early,-13,6,False,safety; adherence; labs,synthetic
+V-00482,P-0095,S001,Week 12 / End of Treatment,2026-06-26,2026-07-13,7,Late,17,10,True,endpoint; safety; labs,synthetic
+V-00483,P-0095,S001,30-Day Safety Follow-up,2026-07-26,2026-07-17,10,Completed,-9,0,True,safety_follow_up; ae_review,synthetic
+V-00484,P-0096,S002,Screening,2026-04-04,2026-03-24,14,Completed,-11,0,True,eligibility; consent; labs,synthetic
+V-00485,P-0096,S002,Baseline / Randomisation,2026-04-18,2026-04-16,3,Completed,-2,0,True,randomization; vitals; labs,synthetic
+V-00486,P-0096,S002,Week 4,2026-05-16,2026-05-30,7,Late,14,7,False,safety; adherence; labs,synthetic
+V-00487,P-0097,S003,Screening,2026-02-12,2026-02-07,14,Completed,-5,0,True,eligibility; consent; labs,synthetic
+V-00488,P-0097,S003,Baseline / Randomisation,2026-03-01,2026-03-01,3,Completed,0,0,True,randomization; vitals; labs,synthetic
+V-00489,P-0097,S003,Week 4,2026-03-29,2026-03-26,7,Completed,-3,0,False,safety; adherence; labs,synthetic
+V-00490,P-0097,S003,Week 8,2026-04-26,2026-04-26,7,Completed,0,0,False,safety; adherence; labs,synthetic
+V-00491,P-0097,S003,Week 12 / End of Treatment,2026-05-24,2026-06-07,7,Late,14,7,True,endpoint; safety; labs,synthetic
+V-00492,P-0097,S003,30-Day Safety Follow-up,2026-06-23,2026-07-15,10,Late,22,12,True,safety_follow_up; ae_review,synthetic
+V-00493,P-0098,S001,Screening,2026-02-22,2026-02-07,14,Early,-15,1,True,eligibility; consent; labs,synthetic
+V-00494,P-0098,S001,Baseline / Randomisation,2026-03-01,2026-03-03,3,Completed,2,0,True,randomization; vitals; labs,synthetic
+V-00495,P-0098,S001,Week 4,2026-03-29,,7,Missed,,,False,safety; adherence; labs,synthetic
+V-00496,P-0098,S001,Week 8,2026-04-26,,7,Missed,,,False,safety; adherence; labs,synthetic
+V-00497,P-0098,S001,Week 12 / End of Treatment,2026-05-24,2026-05-20,7,Completed,-4,0,True,endpoint; safety; labs,synthetic
+V-00498,P-0099,S001,Screening,2026-03-08,2026-03-16,14,Completed,8,0,True,eligibility; consent; labs,synthetic
+V-00499,P-0099,S001,Baseline / Randomisation,2026-03-22,2026-03-21,3,Completed,-1,0,True,randomization; vitals; labs,synthetic
+V-00500,P-0099,S001,Week 4,2026-04-19,2026-04-15,7,Completed,-4,0,False,safety; adherence; labs,synthetic
+V-00501,P-0099,S001,Week 8,2026-05-17,2026-05-23,7,Completed,6,0,False,safety; adherence; labs,synthetic
+V-00502,P-0099,S001,Week 12 / End of Treatment,2026-06-14,2026-06-14,7,Completed,0,0,True,endpoint; safety; labs,synthetic
+V-00503,P-0099,S001,30-Day Safety Follow-up,2026-07-14,2026-07-14,10,Completed,0,0,True,safety_follow_up; ae_review,synthetic
+V-00504,P-0100,S005,Screening,2026-04-15,2026-03-26,14,Early,-20,6,True,eligibility; consent; labs,synthetic
+V-00505,P-0100,S005,Baseline / Randomisation,2026-04-19,2026-04-26,3,Late,7,4,True,randomization; vitals; labs,synthetic
+V-00506,P-0100,S005,Week 4,2026-05-17,2026-05-17,7,Completed,0,0,False,safety; adherence; labs,synthetic
+V-00507,P-0100,S005,Week 8,2026-06-14,2026-06-17,7,Completed,3,0,False,safety; adherence; labs,synthetic
+V-00508,P-0100,S005,Week 12 / End of Treatment,2026-07-12,2026-07-08,7,Completed,-4,0,True,endpoint; safety; labs,synthetic
+V-00509,P-0100,S005,30-Day Safety Follow-up,2026-08-11,2026-08-10,10,Completed,-1,0,True,safety_follow_up; ae_review,synthetic
+V-00510,P-0101,S003,Screening,2026-02-25,2026-02-19,14,Completed,-6,0,True,eligibility; consent; labs,synthetic
+V-00511,P-0101,S003,Baseline / Randomisation,2026-03-11,2026-03-11,3,Completed,0,0,True,randomization; vitals; labs,synthetic
+V-00512,P-0101,S003,Week 4,2026-04-08,2026-04-06,7,Completed,-2,0,False,safety; adherence; labs,synthetic
+V-00513,P-0101,S003,Week 8,2026-05-06,2026-05-07,7,Completed,1,0,False,safety; adherence; labs,synthetic
+V-00514,P-0101,S003,Week 12 / End of Treatment,2026-06-03,,7,Pending,,,True,endpoint; safety; labs,synthetic
+V-00515,P-0101,S003,30-Day Safety Follow-up,2026-07-03,,10,Missed,,,True,safety_follow_up; ae_review,synthetic
+V-00516,P-0102,S005,Screening,2026-04-27,2026-04-25,14,Completed,-2,0,True,eligibility; consent; labs,synthetic
+V-00517,P-0103,S003,Screening,2026-02-11,2026-01-28,14,Completed,-14,0,True,eligibility; consent; labs,synthetic
+V-00518,P-0104,S004,Screening,2026-02-18,2026-02-16,14,Completed,-2,0,True,eligibility; consent; labs,synthetic
+V-00519,P-0105,S001,Screening,2026-02-12,2026-02-19,14,Completed,7,0,True,eligibility; consent; labs,synthetic
+V-00520,P-0106,S006,Screening,2026-04-08,2026-04-26,14,Late,18,4,True,eligibility; consent; labs,synthetic
+V-00521,P-0106,S006,Baseline / Randomisation,2026-04-18,2026-04-16,3,Completed,-2,0,True,randomization; vitals; labs,synthetic
+V-00522,P-0106,S006,Week 4,2026-05-16,2026-05-12,7,Completed,-4,0,False,safety; adherence; labs,synthetic
+V-00523,P-0106,S006,Week 8,2026-06-13,2026-06-13,7,Completed,0,0,False,safety; adherence; labs,synthetic
+V-00524,P-0106,S006,Week 12 / End of Treatment,2026-07-11,2026-07-20,7,Late,9,2,True,endpoint; safety; labs,synthetic
+V-00525,P-0106,S006,30-Day Safety Follow-up,2026-08-10,2026-08-08,10,Completed,-2,0,True,safety_follow_up; ae_review,synthetic
+V-00526,P-0107,S001,Screening,2026-03-01,2026-03-06,14,Completed,5,0,True,eligibility; consent; labs,synthetic
+V-00527,P-0107,S001,Baseline / Randomisation,2026-03-17,2026-03-16,3,Completed,-1,0,True,randomization; vitals; labs,synthetic
+V-00528,P-0107,S001,Week 4,2026-04-14,2026-04-14,7,Completed,0,0,False,safety; adherence; labs,synthetic
+V-00529,P-0107,S001,Week 8,2026-05-12,,7,Missed,,,False,safety; adherence; labs,synthetic
+V-00530,P-0107,S001,Week 12 / End of Treatment,2026-06-09,2026-06-07,7,Completed,-2,0,True,endpoint; safety; labs,synthetic
+V-00531,P-0107,S001,30-Day Safety Follow-up,2026-07-09,,10,Pending,,,True,safety_follow_up; ae_review,synthetic
+V-00532,P-0108,S004,Screening,2026-03-12,,14,Pending,,,True,eligibility; consent; labs,synthetic
+V-00533,P-0109,S006,Screening,2026-03-02,2026-03-01,14,Completed,-1,0,True,eligibility; consent; labs,synthetic
+V-00534,P-0109,S006,Baseline / Randomisation,2026-03-09,2026-03-07,3,Completed,-2,0,True,randomization; vitals; labs,synthetic
+V-00535,P-0109,S006,Week 4,2026-04-06,2026-04-03,7,Completed,-3,0,False,safety; adherence; labs,synthetic
+V-00536,P-0109,S006,Week 8,2026-05-04,,7,Missed,,,False,safety; adherence; labs,synthetic
+V-00537,P-0110,S002,Screening,2026-02-17,2026-02-17,14,Completed,0,0,True,eligibility; consent; labs,synthetic
+V-00538,P-0111,S005,Screening,2026-02-27,2026-04-07,14,Late,39,25,True,eligibility; consent; labs,synthetic
+V-00539,P-0111,S005,Baseline / Randomisation,2026-03-09,2026-03-11,3,Completed,2,0,True,randomization; vitals; labs,synthetic
+V-00540,P-0111,S005,Week 4,2026-04-06,2026-04-20,7,Late,14,7,False,safety; adherence; labs,synthetic
+V-00541,P-0111,S005,Week 8,2026-05-04,,7,Pending,,,False,safety; adherence; labs,synthetic
+V-00542,P-0111,S005,Week 12 / End of Treatment,2026-06-01,2026-05-31,7,Completed,-1,0,True,endpoint; safety; labs,synthetic
+V-00543,P-0111,S005,30-Day Safety Follow-up,2026-07-01,2026-07-03,10,Completed,2,0,True,safety_follow_up; ae_review,synthetic
+V-00544,P-0112,S002,Screening,2026-02-17,2026-02-09,14,Completed,-8,0,True,eligibility; consent; labs,synthetic
+V-00545,P-0112,S002,Baseline / Randomisation,2026-02-26,2026-02-22,3,Early,-4,1,True,randomization; vitals; labs,synthetic
+V-00546,P-0112,S002,Week 4,2026-03-26,2026-03-24,7,Completed,-2,0,False,safety; adherence; labs,synthetic
+V-00547,P-0112,S002,Week 8,2026-04-23,2026-04-26,7,Completed,3,0,False,safety; adherence; labs,synthetic
+V-00548,P-0112,S002,Week 12 / End of Treatment,2026-05-21,2026-05-20,7,Completed,-1,0,True,endpoint; safety; labs,synthetic
+V-00549,P-0112,S002,30-Day Safety Follow-up,2026-06-20,2026-06-02,10,Early,-18,8,True,safety_follow_up; ae_review,synthetic
+V-00550,P-0113,S001,Screening,2026-05-02,2026-04-25,14,Completed,-7,0,True,eligibility; consent; labs,synthetic
+V-00551,P-0113,S001,Baseline / Randomisation,2026-05-19,2026-05-14,3,Early,-5,2,True,randomization; vitals; labs,synthetic
+V-00552,P-0113,S001,Week 4,2026-06-16,2026-06-19,7,Completed,3,0,False,safety; adherence; labs,synthetic
+V-00553,P-0113,S001,Week 8,2026-07-14,2026-07-07,7,Completed,-7,0,False,safety; adherence; labs,synthetic
+V-00554,P-0113,S001,Week 12 / End of Treatment,2026-08-11,2026-08-06,7,Completed,-5,0,True,endpoint; safety; labs,synthetic
+V-00555,P-0113,S001,30-Day Safety Follow-up,2026-09-10,2026-09-11,10,Completed,1,0,True,safety_follow_up; ae_review,synthetic
+V-00556,P-0114,S003,Screening,2026-02-26,2026-02-07,14,Early,-19,5,True,eligibility; consent; labs,synthetic
+V-00557,P-0114,S003,Baseline / Randomisation,2026-03-02,2026-02-28,3,Completed,-2,0,True,randomization; vitals; labs,synthetic
+V-00558,P-0114,S003,Week 4,2026-03-30,2026-03-31,7,Completed,1,0,False,safety; adherence; labs,synthetic
+V-00559,P-0114,S003,Week 8,2026-04-27,2026-04-25,7,Completed,-2,0,False,safety; adherence; labs,synthetic
+V-00560,P-0114,S003,Week 12 / End of Treatment,2026-05-25,2026-05-26,7,Completed,1,0,True,endpoint; safety; labs,synthetic
+V-00561,P-0114,S003,30-Day Safety Follow-up,2026-06-24,2026-06-18,10,Completed,-6,0,True,safety_follow_up; ae_review,synthetic
+V-00562,P-0115,S004,Screening,2026-02-11,2026-02-11,14,Completed,0,0,True,eligibility; consent; labs,synthetic
+V-00563,P-0115,S004,Baseline / Randomisation,2026-02-17,2026-02-14,3,Completed,-3,0,True,randomization; vitals; labs,synthetic
+V-00564,P-0115,S004,Week 4,2026-03-17,2026-03-23,7,Completed,6,0,False,safety; adherence; labs,synthetic
+V-00565,P-0115,S004,Week 8,2026-04-14,2026-04-14,7,Completed,0,0,False,safety; adherence; labs,synthetic
+V-00566,P-0115,S004,Week 12 / End of Treatment,2026-05-12,2026-05-12,7,Completed,0,0,True,endpoint; safety; labs,synthetic
+V-00567,P-0115,S004,30-Day Safety Follow-up,2026-06-11,2026-06-12,10,Completed,1,0,True,safety_follow_up; ae_review,synthetic
+V-00568,P-0116,S001,Screening,2026-03-12,2026-03-04,14,Completed,-8,0,True,eligibility; consent; labs,synthetic
+V-00569,P-0116,S001,Baseline / Randomisation,2026-03-17,2026-03-17,3,Completed,0,0,True,randomization; vitals; labs,synthetic
+V-00570,P-0116,S001,Week 4,2026-04-14,2026-04-23,7,Late,9,2,False,safety; adherence; labs,synthetic
+V-00571,P-0116,S001,Week 8,2026-05-12,2026-05-15,7,Completed,3,0,False,safety; adherence; labs,synthetic
+V-00572,P-0116,S001,Week 12 / End of Treatment,2026-06-09,,7,Missed,,,True,endpoint; safety; labs,synthetic
+V-00573,P-0116,S001,30-Day Safety Follow-up,2026-07-09,2026-07-22,10,Late,13,3,True,safety_follow_up; ae_review,synthetic
+V-00574,P-0117,S005,Screening,2026-03-19,2026-03-08,14,Completed,-11,0,True,eligibility; consent; labs,synthetic
+V-00575,P-0117,S005,Baseline / Randomisation,2026-04-03,2026-04-02,3,Completed,-1,0,True,randomization; vitals; labs,synthetic
+V-00576,P-0117,S005,Week 4,2026-05-01,,7,Missed,,,False,safety; adherence; labs,synthetic
+V-00577,P-0117,S005,Week 8,2026-05-29,2026-05-24,7,Completed,-5,0,False,safety; adherence; labs,synthetic
+V-00578,P-0117,S005,Week 12 / End of Treatment,2026-06-26,2026-06-29,7,Completed,3,0,True,endpoint; safety; labs,synthetic
+V-00579,P-0117,S005,30-Day Safety Follow-up,2026-07-26,2026-07-26,10,Completed,0,0,True,safety_follow_up; ae_review,synthetic
+V-00580,P-0118,S004,Screening,2026-03-04,2026-03-27,14,Late,23,9,True,eligibility; consent; labs,synthetic
+V-00581,P-0118,S004,Baseline / Randomisation,2026-03-11,2026-03-14,3,Completed,3,0,True,randomization; vitals; labs,synthetic
+V-00582,P-0118,S004,Week 4,2026-04-08,2026-04-13,7,Completed,5,0,False,safety; adherence; labs,synthetic
+V-00583,P-0118,S004,Week 8,2026-05-06,2026-05-03,7,Completed,-3,0,False,safety; adherence; labs,synthetic
+V-00584,P-0118,S004,Week 12 / End of Treatment,2026-06-03,2026-06-08,7,Completed,5,0,True,endpoint; safety; labs,synthetic
+V-00585,P-0118,S004,30-Day Safety Follow-up,2026-07-03,2026-06-28,10,Completed,-5,0,True,safety_follow_up; ae_review,synthetic
+V-00586,P-0119,S001,Screening,2026-02-05,2026-02-10,14,Completed,5,0,True,eligibility; consent; labs,synthetic
+V-00587,P-0119,S001,Baseline / Randomisation,2026-02-09,2026-02-09,3,Completed,0,0,True,randomization; vitals; labs,synthetic
+V-00588,P-0119,S001,Week 4,2026-03-09,2026-03-10,7,Completed,1,0,False,safety; adherence; labs,synthetic
+V-00589,P-0119,S001,Week 8,2026-04-06,2026-04-10,7,Completed,4,0,False,safety; adherence; labs,synthetic
+V-00590,P-0119,S001,Week 12 / End of Treatment,2026-05-04,2026-05-01,7,Completed,-3,0,True,endpoint; safety; labs,synthetic
+V-00591,P-0119,S001,30-Day Safety Follow-up,2026-06-03,2026-06-12,10,Completed,9,0,True,safety_follow_up; ae_review,synthetic
+V-00592,P-0120,S001,Screening,2026-02-15,2026-01-28,14,Early,-18,4,True,eligibility; consent; labs,synthetic
+V-00593,P-0120,S001,Baseline / Randomisation,2026-02-25,2026-02-24,3,Completed,-1,0,True,randomization; vitals; labs,synthetic
+V-00594,P-0120,S001,Week 4,2026-03-25,2026-03-30,7,Completed,5,0,False,safety; adherence; labs,synthetic
+V-00595,P-0120,S001,Week 8,2026-04-22,2026-04-24,7,Completed,2,0,False,safety; adherence; labs,synthetic
+V-00596,P-0120,S001,Week 12 / End of Treatment,2026-05-20,2026-05-20,7,Completed,0,0,True,endpoint; safety; labs,synthetic
+V-00597,P-0120,S001,30-Day Safety Follow-up,2026-06-19,2026-06-19,10,Completed,0,0,True,safety_follow_up; ae_review,synthetic
+V-00598,P-0121,S001,Screening,2026-03-27,2026-04-01,14,Completed,5,0,True,eligibility; consent; labs,synthetic
+V-00599,P-0121,S001,Baseline / Randomisation,2026-04-11,2026-04-12,3,Completed,1,0,True,randomization; vitals; labs,synthetic
+V-00600,P-0121,S001,Week 4,2026-05-09,2026-05-09,7,Completed,0,0,False,safety; adherence; labs,synthetic
+V-00601,P-0121,S001,Week 8,2026-06-06,2026-06-08,7,Completed,2,0,False,safety; adherence; labs,synthetic
+V-00602,P-0121,S001,Week 12 / End of Treatment,2026-07-04,,7,Missed,,,True,endpoint; safety; labs,synthetic
+V-00603,P-0121,S001,30-Day Safety Follow-up,2026-08-03,2026-08-09,10,Completed,6,0,True,safety_follow_up; ae_review,synthetic
+V-00604,P-0122,S002,Screening,2026-02-24,2026-03-04,14,Completed,8,0,True,eligibility; consent; labs,synthetic
+V-00605,P-0122,S002,Baseline / Randomisation,2026-03-13,2026-03-12,3,Completed,-1,0,True,randomization; vitals; labs,synthetic
+V-00606,P-0122,S002,Week 4,2026-04-10,2026-03-31,7,Early,-10,3,False,safety; adherence; labs,synthetic
+V-00607,P-0122,S002,Week 8,2026-05-08,,7,Missed,,,False,safety; adherence; labs,synthetic
+V-00608,P-0122,S002,Week 12 / End of Treatment,2026-06-05,2026-06-17,7,Late,12,5,True,endpoint; safety; labs,synthetic
+V-00609,P-0122,S002,30-Day Safety Follow-up,2026-07-05,2026-06-29,10,Completed,-6,0,True,safety_follow_up; ae_review,synthetic
+V-00610,P-0123,S002,Screening,2026-05-05,2026-05-06,14,Completed,1,0,True,eligibility; consent; labs,synthetic
+V-00611,P-0123,S002,Baseline / Randomisation,2026-05-20,2026-05-20,3,Completed,0,0,True,randomization; vitals; labs,synthetic
+V-00612,P-0123,S002,Week 4,2026-06-17,2026-06-20,7,Completed,3,0,False,safety; adherence; labs,synthetic
+V-00613,P-0123,S002,Week 8,2026-07-15,2026-07-19,7,Completed,4,0,False,safety; adherence; labs,synthetic
+V-00614,P-0123,S002,Week 12 / End of Treatment,2026-08-12,,7,Missed,,,True,endpoint; safety; labs,synthetic
+V-00615,P-0123,S002,30-Day Safety Follow-up,2026-09-11,2026-09-16,10,Completed,5,0,True,safety_follow_up; ae_review,synthetic
+V-00616,P-0124,S001,Screening,2026-04-23,2026-04-29,14,Completed,6,0,True,eligibility; consent; labs,synthetic
+V-00617,P-0124,S001,Baseline / Randomisation,2026-05-02,2026-04-18,3,Early,-14,11,True,randomization; vitals; labs,synthetic
+V-00618,P-0124,S001,Week 4,2026-05-30,2026-06-01,7,Completed,2,0,False,safety; adherence; labs,synthetic
+V-00619,P-0124,S001,Week 8,2026-06-27,2026-06-28,7,Completed,1,0,False,safety; adherence; labs,synthetic
+V-00620,P-0124,S001,Week 12 / End of Treatment,2026-07-25,2026-07-01,7,Early,-24,17,True,endpoint; safety; labs,synthetic
+V-00621,P-0124,S001,30-Day Safety Follow-up,2026-08-24,2026-08-23,10,Completed,-1,0,True,safety_follow_up; ae_review,synthetic
+V-00622,P-0125,S004,Screening,2026-02-16,,14,Pending,,,True,eligibility; consent; labs,synthetic
+V-00623,P-0126,S001,Screening,2026-04-05,2026-03-24,14,Completed,-12,0,True,eligibility; consent; labs,synthetic
+V-00624,P-0126,S001,Baseline / Randomisation,2026-04-20,2026-04-22,3,Completed,2,0,True,randomization; vitals; labs,synthetic
+V-00625,P-0126,S001,Week 4,2026-05-18,2026-05-14,7,Completed,-4,0,False,safety; adherence; labs,synthetic
+V-00626,P-0126,S001,Week 8,2026-06-15,2026-06-11,7,Completed,-4,0,False,safety; adherence; labs,synthetic
+V-00627,P-0126,S001,Week 12 / End of Treatment,2026-07-13,2026-07-08,7,Completed,-5,0,True,endpoint; safety; labs,synthetic
+V-00628,P-0126,S001,30-Day Safety Follow-up,2026-08-12,2026-08-03,10,Completed,-9,0,True,safety_follow_up; ae_review,synthetic
