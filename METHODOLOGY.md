@@ -2,7 +2,7 @@
 
 ## Scenario Selection
 
-The project uses a synthetic multicentre Phase II metabolic outcomes study. This scenario is clinically familiar, operationally rich, and public-safe. It supports eligibility review, visit scheduling, labs, adverse events, protocol deviations, EDC-style queries, and site milestones without relying on any real protocol, sponsor document, or patient data.
+The project uses a synthetic multicentre Phase II metabolic outcomes study. It supports eligibility review, visit scheduling, labs, adverse events, protocol deviations, EDC-style queries, and site milestones without relying on any real protocol, sponsor document or patient data.
 
 ## Protocol-to-Data Logic
 
@@ -31,7 +31,7 @@ The generator creates deterministic synthetic data using a fixed seed. Tables ar
 - `protocol_deviations.deviation_id`
 - `milestones.milestone_id`
 
-The data intentionally include a realistic number of missing fields, visit-window misses, open queries, delayed milestones, abnormal labs, and open adverse-event follow-up items. These are not mistakes in the project; they exist so validation and dashboard logic have meaningful records to inspect.
+The data include a realistic number of missing fields, visit-window misses, open queries, delayed milestones, abnormal labs, and open adverse-event follow-up items.
 
 ## Validation Checks
 
@@ -49,7 +49,7 @@ Validation checks cover:
 - serious or ongoing AE follow-up visibility
 - milestone timeliness
 
-The checks are awareness-level demonstrations of data-quality thinking. They are not sponsor SOPs and do not replace clinical data management review.
+The checks are demonstrations of data-quality thinking. They are not sponsor SOPs and do not replace clinical data management review.
 
 ## Metrics
 
@@ -63,9 +63,5 @@ Metrics are chosen for clinical operations visibility:
 - missingness by table and field
 - validation issues by check and severity
 
-The dashboard intentionally keeps interpretation close to the data. It avoids clinical efficacy claims.
-
-## FYP-Informed Patterns
-
-The private final-year project informed structural choices only: documentation layering, data dictionaries, audit-style reports, explicit assumptions, split-first thinking, and cautious interpretation. No restricted exports, row-level data, rare-disease cohort details, direct identifiers, or private metrics were copied.
+The dashboard keeps interpretation close to the data.
 

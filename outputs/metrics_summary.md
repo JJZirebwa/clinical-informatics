@@ -19,4 +19,4 @@
 
 ## Interpretation
 
-The synthetic dashboard emphasizes site-level progress, data-cleaning workload, visit-window adherence, adverse-event visibility, and validation flags. These are operational prompts for analyst review rather than clinical judgments.
+The synthetic dashboard emphasises site-level progress, data-cleaning workload, visit-window adherence, adverse-event visibility and validation flags.

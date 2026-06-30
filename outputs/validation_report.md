@@ -1,6 +1,6 @@
 # Validation Report
 
-This report demonstrates awareness-level clinical data validation checks on synthetic data. It is not a validated clinical data-management system and is not suitable for regulated operational use.
+This report demonstrates clinical data validation checks on synthetic data. It is not a validated clinical data-management system and is not suitable for regulated operational use.
 
 ## Summary
 
@@ -54,4 +54,4 @@ This report demonstrates awareness-level clinical data validation checks on synt
 
 ## ALCOA+ Awareness Note
 
-The checks are designed to make records attributable to a table and record identifier, readable in tabular form, time-aware through date fields, original to the generated synthetic record, and accurate enough for demonstration. The reports also emphasize completeness, consistency, durable CSV/Markdown outputs, and availability for review.
+The checks are designed to make records attributable to a table and record identifier, readable in tabular form, time-aware through date fields, original to the generated synthetic record and accurate enough for demonstration. The reports also emphasise completeness, consistency, durable CSV/Markdown outputs and availability for review.

@@ -36,7 +36,3 @@ erDiagram
 - aggregating AEs by site, seriousness, and severity
 - summarising validation issues by check and severity
 - building dashboard-ready outputs from linked tables
-
-## Design Boundary
-
-The tables are intentionally CSV-based for portfolio readability and GitHub portability. A next extension could load the same tables into SQLite and add SQL examples, but the project already demonstrates relational reasoning through joins and groupby operations.

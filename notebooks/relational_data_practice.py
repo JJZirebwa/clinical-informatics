@@ -93,7 +93,7 @@ def main() -> None:
         "",
         "## Why These Checks Matter",
         "",
-        "Clinical operations dashboards need traceable data products: a high-level metric should be explainable by record-level tables. These joins show how analyst logic moves from linked source-like tables to operational summaries without hiding missingness, late visits, or unresolved data-cleaning work.",
+        "Clinical operations dashboards need traceable data products: a high-level metric should be explainable by record-level tables.",
     ]
     (OUT / "relational_data_practice_interpretation.md").write_text("\n".join(interpretation), encoding="utf-8")
     print("Relational practice outputs written to outputs/.")

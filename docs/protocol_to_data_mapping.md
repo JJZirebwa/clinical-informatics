@@ -4,11 +4,11 @@
 
 Demonstrate how a clinical operations team might monitor a synthetic multicentre Phase II study evaluating whether an investigational metabolic therapy improves glycaemic control over 12 weeks in adults with type 2 diabetes inadequately controlled on metformin.
 
-This scenario is synthetic and inspired by public protocol structures, not copied from a sponsor protocol.
+This scenario is synthetic and inspired by public protocol structures.
 
 ## Population
 
-Adults aged 35 to 75 with type 2 diabetes, background metformin therapy, and elevated baseline HbA1c.
+Adults aged 35 to 75 with type 2 diabetes, background metformin therapy and elevated baseline HbA1c.
 
 ## Inclusion Criteria
 
@@ -63,7 +63,7 @@ Adults aged 35 to 75 with type 2 diabetes, background metformin therapy, and ele
 
 ## Data-Quality Risks
 
-- randomized participant missing a randomization date
+- randomized participant missing a randomisation date
 - visit completed outside the protocol window
 - lab result missing at a critical visit
 - implausible lab value requiring review

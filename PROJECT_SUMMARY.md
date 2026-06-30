@@ -2,16 +2,16 @@
 
 ## One-Line Description
 
-Synthetic clinical informatics project showing how a study-style protocol can be translated into relational trial operations data, validation checks, operational metrics, and a Streamlit dashboard.
+Synthetic clinical informatics project showing how a study-style protocol can be translated into relational trial operations data, validation checks, operational metrics and a Streamlit dashboard.
 
-## Analyst Workflow
+## Workflow
 
 1. Define a protocol-style question and schedule of assessments.
 2. Map each protocol element to expected data fields and quality risks.
 3. Generate linked synthetic tables for sites, participants, visits, labs, adverse events, queries, deviations, and milestones.
 4. Run reproducible validation checks.
 5. Produce dashboard-ready metrics and short reports.
-6. Present results with visible assumptions, limitations, and governance boundaries.
+6. Present results with visible assumptions, limitations and governance boundaries.
 
 ## Main Outputs
 
@@ -21,12 +21,4 @@ Synthetic clinical informatics project showing how a study-style protocol can be
 - `outputs/metrics_summary.md`: top operational metrics.
 - `outputs/figures/*.png`: static example figures.
 - `app/streamlit_app.py`: interactive dashboard.
-
-## What Recruiters or Reviewers Should Notice
-
-- The project starts from protocol logic, not from chart decoration.
-- Tables are relational and reusable.
-- Validation output is record-level enough to support review.
-- The dashboard exposes limitations and validation notes alongside metrics.
-- Claims are deliberately bounded: this is synthetic, awareness-level, and non-production.
 

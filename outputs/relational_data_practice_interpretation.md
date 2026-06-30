@@ -12,4 +12,4 @@ This script demonstrates joins and aggregations across synthetic study tables.
 
 ## Why These Checks Matter
 
-Clinical operations dashboards need traceable data products: a high-level metric should be explainable by record-level tables. These joins show how analyst logic moves from linked source-like tables to operational summaries without hiding missingness, late visits, or unresolved data-cleaning work.
+Clinical operations dashboards need traceable data products: a high-level metric should be explainable by record-level tables.

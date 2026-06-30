@@ -2,20 +2,20 @@
 
 ## Positioning
 
-This document records awareness-level concepts that shaped the synthetic workflow. It does not claim GCP certification, production clinical data management experience, system validation, or regulatory readiness.
+This document records concepts that shaped the synthetic workflow.
 
 ## Concepts Used
 
 | Concept | How it appears in this project |
 |---|---|
-| Protocol-driven data collection | The synthetic schedule of assessments drives visits, labs, AEs, queries, and dashboard questions. |
-| Source-to-eCRF traceability | Each query points to a table, field, and record identifier. |
-| Data-quality checks | Completeness, referential integrity, dates, duplicates, outliers, query ageing, and AE follow-up are checked. |
-| EDC query thinking | Queries are generated for missing, inconsistent, or review-needed records and include status plus age. |
-| Audit trail awareness | The project uses generated record IDs, build manifests, issue logs, and reproducible scripts. |
-| Risk-based focus | The dashboard prioritizes critical visits, open SAE follow-up, high-severity queries, and site-level patterns. |
+| Protocol-driven data collection | The synthetic schedule of assessments drives visits, labs, AEs, queries and dashboard questions. |
+| Source-to-eCRF traceability | Each query points to a table, field and record identifier. |
+| Data-quality checks | Completeness, referential integrity, dates, duplicates, outliers, query ageing and AE follow-up are checked. |
+| EDC query thinking | Queries are generated for missing, inconsistent or review-needed records and include status plus age. |
+| Audit trail awareness | The project uses generated record IDs, build manifests, issue logs and reproducible scripts. |
+| Risk-based focus | The dashboard prioritises critical visits, open SAE follow-up, high-severity queries and site-level patterns. |
 | ALCOA+ awareness | See `LIMITATIONS_AND_GOVERNANCE.md` for how the project maps ALCOA+ to synthetic outputs. |
-| Standards awareness | CDASH and SDTM are treated as vocabulary/context, not as a submission-conformance claim. |
+| Standards awareness | CDASH and SDTM are treated as vocabulary/context. |
 
 ## Practical Checks
 
@@ -37,9 +37,3 @@ This document records awareness-level concepts that shaped the synthetic workflo
 - [MHRA GxP Data Integrity Guidance](https://assets.publishing.service.gov.uk/media/5aa2b9ede5274a3e391e37f3/MHRA_GxP_data_integrity_guide_March_edited_Final.pdf)
 - [CDISC CDASH](https://www.cdisc.org/standards/foundational/cdash)
 - [CDISC SDTM](https://www.cdisc.org/standards/foundational/sdtm)
-
-## Claim Boundary
-
-Acceptable wording: "GCP-aware", "ALCOA+-aware", "standards-aware", "synthetic validation workflow", and "portfolio demonstration".
-
-Avoided wording: claims of GCP compliance, regulatory inspection readiness, Part 11 compliance, validated EDC ownership, computer-system validation, CDISC submission conformance, or regulatory submission readiness.
