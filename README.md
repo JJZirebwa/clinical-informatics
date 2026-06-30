@@ -2,6 +2,9 @@
 
 A clinical informatics demonstration project translating a study-style protocol into data requirements, relational data checks, operational metrics and a Streamlit dashboard using synthetic trial-operations data.
 
+# Live Dashboard:
+https://clinical-informatics.streamlit.app
+
 ## What This Shows
 
 This project is built as a compact analyst workflow:
