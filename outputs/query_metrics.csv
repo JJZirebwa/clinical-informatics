@@ -1,0 +1,7 @@
+site_id,query_n,open_query_n,median_open_query_age_days,high_severity_open_query_n
+S001,15,7,125.0,1
+S002,6,3,63.0,0
+S003,16,9,53.0,3
+S004,17,12,54.5,3
+S005,13,11,33.0,4
+S006,5,3,75.0,1

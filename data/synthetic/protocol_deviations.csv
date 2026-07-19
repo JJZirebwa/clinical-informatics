@@ -1,0 +1,35 @@
+deviation_id,participant_id,site_id,related_visit_id,deviation_date,category,impact,description,action_taken,source
+PD-0001,P-0088,S005,V-00447,2026-05-23,Visit Window,Major,Week 4 recorded as late.,Site retraining,synthetic
+PD-0002,P-0012,S003,V-00062,2026-01-31,Visit Window,Minor,Screening recorded as early.,Site retraining,synthetic
+PD-0003,P-0004,S004,V-00017,2026-06-12,Visit Window,Minor,Week 8 recorded as late.,Site retraining,synthetic
+PD-0004,P-0095,S001,V-00480,2026-05-15,Visit Window,Minor,Week 8 recorded as late.,Documented rationale,synthetic
+PD-0005,P-0071,S004,V-00355,2026-06-16,Visit Window,Minor,Week 12 / End of Treatment recorded as early.,Documented rationale,synthetic
+PD-0006,P-0077,S004,V-00384,2026-03-15,Visit Window,Minor,Week 4 recorded as early.,Documented rationale,synthetic
+PD-0007,P-0038,S005,V-00193,2026-05-25,Visit Window,Major,Week 12 / End of Treatment recorded as early.,Documented rationale,synthetic
+PD-0008,P-0058,S005,V-00285,2026-06-11,Visit Window,Minor,Week 4 recorded as late.,Documented rationale,synthetic
+PD-0009,P-0116,S001,V-00571,2026-06-22,Visit Window,Major,30-Day Safety Follow-up recorded as late.,Documented rationale,synthetic
+PD-0010,P-0012,S003,V-00066,2026-04-24,Visit Window,Major,Week 12 / End of Treatment recorded as early.,Site retraining,synthetic
+PD-0011,P-0089,S003,V-00451,2026-03-30,Visit Window,Major,Screening recorded as early.,Documented rationale,synthetic
+PD-0012,P-0089,S003,V-00453,2026-04-28,Visit Window,Minor,Week 4 recorded as early.,Site retraining,synthetic
+PD-0013,P-0002,S005,V-00002,2026-04-08,Visit Window,Minor,Screening recorded as early.,Site retraining,synthetic
+PD-0014,P-0090,S003,V-00457,2026-03-09,Visit Window,Minor,Screening recorded as early.,Site retraining,synthetic
+PD-0015,P-0020,S003,V-00100,2026-04-26,Visit Window,Major,Week 4 recorded as early.,Documented rationale,synthetic
+PD-0016,P-0078,S003,V-00388,2026-03-12,Visit Window,Minor,Screening recorded as early.,Site retraining,synthetic
+PD-0017,P-0067,S002,V-00329,2026-03-03,Procedure,Minor,Week 4 recorded as missed.,Monitor follow-up,synthetic
+PD-0018,P-0080,S001,V-00397,2026-03-16,Visit Window,Minor,Screening recorded as early.,Monitor follow-up,synthetic
+PD-0019,P-0126,S001,V-00621,2026-03-03,Visit Window,Minor,Screening recorded as early.,Site retraining,synthetic
+PD-0020,P-0055,S004,V-00267,2026-03-19,Visit Window,Major,Week 4 recorded as early.,Site retraining,synthetic
+PD-0021,P-0013,S004,V-00068,2026-02-15,Visit Window,Minor,Screening recorded as early.,Documented rationale,synthetic
+PD-0022,P-0043,S004,V-00216,2026-03-18,Visit Window,Minor,Screening recorded as early.,Documented rationale,synthetic
+PD-0023,P-0072,S005,V-00360,2026-04-29,Visit Window,Major,Week 8 recorded as early.,Documented rationale,synthetic
+PD-0024,P-0027,S002,V-00138,2026-05-09,Visit Window,Major,Week 4 recorded as late.,Monitor follow-up,synthetic
+PD-0025,P-0023,S004,V-00114,2026-03-20,Visit Window,Minor,Screening recorded as early.,Monitor follow-up,synthetic
+PD-0026,P-0039,S003,V-00199,2026-06-20,Procedure,Minor,Week 12 / End of Treatment recorded as missed.,Site retraining,synthetic
+PD-0027,P-0060,S005,V-00297,2026-05-22,Visit Window,Minor,Week 4 recorded as late.,Monitor follow-up,synthetic
+PD-0028,P-0087,S002,V-00439,2026-01-30,Visit Window,Minor,Screening recorded as early.,Monitor follow-up,synthetic
+PD-0029,P-0001,S005,,2026-04-05,Eligibility,Major,Eligibility evidence required clarification before enrolment decision.,Eligibility checklist review,synthetic
+PD-0030,P-0050,S002,,2026-03-20,Eligibility,Major,Eligibility evidence required clarification before enrolment decision.,Eligibility checklist review,synthetic
+PD-0031,P-0094,S006,,2026-04-11,Eligibility,Major,Eligibility evidence required clarification before enrolment decision.,Eligibility checklist review,synthetic
+PD-0032,P-0016,S001,,2026-02-28,Eligibility,Critical,Eligibility evidence required clarification before enrolment decision.,Eligibility checklist review,synthetic
+PD-0033,P-0064,S005,,2026-02-14,Eligibility,Major,Eligibility evidence required clarification before enrolment decision.,Eligibility checklist review,synthetic
+PD-0034,P-0108,S004,,2026-03-11,Eligibility,Major,Eligibility evidence required clarification before enrolment decision.,Eligibility checklist review,synthetic

@@ -1,0 +1,73 @@
+query_id,site_id,participant_id,table_name,field_name,record_id,query_text,opened_date,closed_date,status,age_days,severity,source
+Q-0001,S004,P-0055,visits,actual_date,V-00267,Confirm Week 4 timing and protocol-window rationale.,2026-03-19,,Open,103,Low,synthetic
+Q-0002,S003,P-0029,adverse_events,follow_up_status,AE-0020,Confirm AE follow-up and reconciliation status.,2026-06-03,,Answered,27,Medium,synthetic
+Q-0003,S002,P-0081,labs,result_value,L-01047,Review Creatinine result entry.,2026-04-23,,Open,68,Low,synthetic
+Q-0004,S003,P-0012,visits,actual_date,V-00062,Confirm Screening timing and protocol-window rationale.,2026-02-01,,Open,149,Medium,synthetic
+Q-0005,S003,P-0090,visits,actual_date,V-00457,Confirm Screening timing and protocol-window rationale.,2026-03-12,2026-03-21,Closed,9,Medium,synthetic
+Q-0006,S001,P-0080,visits,actual_date,V-00397,Confirm Screening timing and protocol-window rationale.,2026-03-19,2026-03-21,Closed,2,Medium,synthetic
+Q-0007,S002,P-0096,adverse_events,follow_up_status,AE-0064,Confirm AE follow-up and reconciliation status.,2026-04-02,2026-04-15,Closed,13,Medium,synthetic
+Q-0008,S004,P-0033,visits,actual_date,V-00161,Confirm Screening timing and protocol-window rationale.,2026-04-24,,Answered,67,Low,synthetic
+Q-0009,S005,P-0038,visits,actual_date,V-00193,Confirm Week 12 / End of Treatment timing and protocol-window rationale.,2026-05-29,,Open,32,Low,synthetic
+Q-0010,S004,P-0071,visits,actual_date,V-00355,Confirm Week 12 / End of Treatment timing and protocol-window rationale.,2026-06-18,2026-06-21,Closed,3,Low,synthetic
+Q-0011,S001,P-0016,labs,result_value,L-00208,Review HbA1c result entry.,2026-03-01,2026-03-11,Closed,10,Medium,synthetic
+Q-0012,S001,P-0026,labs,result_value,L-00341,Review ALT result entry.,2026-02-25,,Open,125,High,synthetic
+Q-0013,S004,P-0043,visits,actual_date,V-00216,Confirm Screening timing and protocol-window rationale.,2026-03-20,,Open,102,High,synthetic
+Q-0014,S006,P-0017,labs,result_value,L-00212,Review ALT result entry.,2026-03-17,,Answered,105,High,synthetic
+Q-0015,S005,P-0008,labs,result_value,L-00101,Review ALT result entry.,2026-05-31,,Open,30,Low,synthetic
+Q-0016,S001,P-0053,labs,result_value,L-00666,Review Creatinine result entry.,2026-03-29,2026-04-02,Closed,4,High,synthetic
+Q-0017,S001,P-0098,labs,result_value,L-01266,Review Creatinine result entry.,2026-02-06,2026-02-13,Closed,7,High,synthetic
+Q-0018,S004,P-0055,labs,result_value,L-00696,Review Creatinine result entry.,2026-04-13,,Answered,78,Low,synthetic
+Q-0019,S003,P-0089,visits,actual_date,V-00453,Confirm Week 4 timing and protocol-window rationale.,2026-04-28,2026-05-09,Closed,11,Low,synthetic
+Q-0020,S006,P-0017,visits,actual_date,V-00085,Confirm Week 4 timing and protocol-window rationale.,2026-05-24,2026-06-03,Closed,10,Medium,synthetic
+Q-0021,S004,P-0011,visits,actual_date,V-00056,Confirm Screening timing and protocol-window rationale.,2026-03-27,2026-04-01,Closed,5,Medium,synthetic
+Q-0022,S005,P-0111,visits,actual_date,V-00538,Confirm Week 4 timing and protocol-window rationale.,2026-05-02,,Answered,59,High,synthetic
+Q-0023,S005,P-0088,labs,result_value,L-01145,Review ALT result entry.,2026-05-28,,Open,33,Low,synthetic
+Q-0024,S001,P-0014,labs,result_value,L-00188,Review ALT result entry.,2026-02-27,2026-03-12,Closed,13,Medium,synthetic
+Q-0025,S004,P-0013,visits,actual_date,V-00068,Confirm Screening timing and protocol-window rationale.,2026-02-18,,Answered,132,Medium,synthetic
+Q-0026,S001,P-0095,visits,actual_date,V-00480,Confirm Week 8 timing and protocol-window rationale.,2026-05-15,,Answered,46,Medium,synthetic
+Q-0027,S003,P-0084,labs,result_value,L-01083,Review Creatinine result entry.,2026-03-30,2026-04-06,Closed,7,Medium,synthetic
+Q-0028,S003,P-0018,labs,result_value,L-00227,Review ALT result entry.,2026-05-13,2026-05-14,Closed,1,High,synthetic
+Q-0029,S001,P-0107,visits,actual_date,V-00525,Confirm Screening timing and protocol-window rationale.,2026-02-06,,Open,144,Medium,synthetic
+Q-0030,S002,P-0027,visits,actual_date,V-00138,Confirm Week 4 timing and protocol-window rationale.,2026-05-10,2026-05-20,Closed,10,Medium,synthetic
+Q-0031,S005,P-0061,adverse_events,follow_up_status,AE-0039,Confirm AE follow-up and reconciliation status.,2026-05-05,2026-05-09,Closed,4,Medium,synthetic
+Q-0032,S003,P-0078,visits,actual_date,V-00388,Confirm Screening timing and protocol-window rationale.,2026-03-13,,Answered,109,Medium,synthetic
+Q-0033,S001,P-0010,adverse_events,follow_up_status,AE-0007,Confirm AE follow-up and reconciliation status.,2026-06-16,2026-06-20,Closed,4,Medium,synthetic
+Q-0034,S001,P-0126,visits,actual_date,V-00621,Confirm Screening timing and protocol-window rationale.,2026-03-07,2026-03-08,Closed,1,Low,synthetic
+Q-0035,S004,P-0004,adverse_events,follow_up_status,AE-0003,Confirm AE follow-up and reconciliation status.,2026-06-18,,Open,12,Medium,synthetic
+Q-0036,S006,P-0022,labs,result_value,L-00288,Review Creatinine result entry.,2026-04-16,,Answered,75,Low,synthetic
+Q-0037,S005,P-0058,visits,actual_date,V-00285,Confirm Week 4 timing and protocol-window rationale.,2026-06-11,,Open,19,High,synthetic
+Q-0038,S005,P-0058,adverse_events,follow_up_status,AE-0036,Confirm AE follow-up and reconciliation status.,2026-06-15,,Open,15,Low,synthetic
+Q-0039,S001,P-0116,visits,actual_date,V-00571,Confirm 30-Day Safety Follow-up timing and protocol-window rationale.,2026-06-22,,Open,8,Medium,synthetic
+Q-0040,S001,P-0107,adverse_events,follow_up_status,AE-0067,Confirm AE follow-up and reconciliation status.,2026-03-06,,Open,116,Low,synthetic
+Q-0041,S004,P-0023,visits,actual_date,V-00114,Confirm Screening timing and protocol-window rationale.,2026-03-22,,Open,100,Low,synthetic
+Q-0042,S004,P-0077,adverse_events,follow_up_status,AE-0049,Confirm AE follow-up and reconciliation status.,2026-06-11,,Open,19,Low,synthetic
+Q-0043,S005,P-0117,labs,result_value,L-01471,Review HbA1c result entry.,2026-04-25,,Open,66,High,synthetic
+Q-0044,S004,P-0077,visits,actual_date,V-00384,Confirm Week 4 timing and protocol-window rationale.,2026-03-17,2026-03-18,Closed,1,Medium,synthetic
+Q-0045,S005,P-0111,adverse_events,follow_up_status,AE-0069,Confirm AE follow-up and reconciliation status.,2026-05-31,,Open,30,Medium,synthetic
+Q-0046,S005,P-0117,labs,result_value,L-01469,Review ALT result entry.,2026-04-07,,Open,84,High,synthetic
+Q-0047,S005,P-0117,labs,result_value,L-01473,Review Creatinine result entry.,2026-04-30,,Open,61,Low,synthetic
+Q-0048,S002,P-0096,labs,result_value,L-01242,Review Creatinine result entry.,2026-04-28,,Open,63,Medium,synthetic
+Q-0049,S003,P-0084,labs,result_value,L-01081,Review HbA1c result entry.,2026-03-28,2026-04-03,Closed,6,Low,synthetic
+Q-0050,S003,P-0074,adverse_events,follow_up_status,AE-0048,Confirm AE follow-up and reconciliation status.,2026-06-19,,Open,11,Low,synthetic
+Q-0051,S004,P-0036,adverse_events,follow_up_status,AE-0026,Confirm AE follow-up and reconciliation status.,2026-06-23,,Answered,7,Low,synthetic
+Q-0052,S003,P-0020,visits,actual_date,V-00100,Confirm Week 4 timing and protocol-window rationale.,2026-04-28,,Open,63,High,synthetic
+Q-0053,S003,P-0029,labs,result_value,L-00369,Review Creatinine result entry.,2026-03-31,2026-04-10,Closed,10,Low,synthetic
+Q-0054,S001,P-0041,visits,actual_date,V-00204,Confirm Screening timing and protocol-window rationale.,2026-01-28,,Answered,153,Medium,synthetic
+Q-0055,S001,P-0021,labs,result_value,L-00279,Review Creatinine result entry.,2026-04-27,2026-05-05,Closed,8,Medium,synthetic
+Q-0056,S004,P-0077,visits,actual_date,V-00385,Confirm Week 8 timing and protocol-window rationale.,2026-05-19,2026-05-21,Closed,2,Medium,synthetic
+Q-0057,S005,P-0002,visits,actual_date,V-00002,Confirm Screening timing and protocol-window rationale.,2026-04-11,,Open,80,Medium,synthetic
+Q-0058,S004,P-0004,visits,actual_date,V-00018,Confirm Week 12 / End of Treatment timing and protocol-window rationale.,2026-06-19,2026-06-30,Closed,11,Low,synthetic
+Q-0059,S002,P-0123,adverse_events,follow_up_status,AE-0073,Confirm AE follow-up and reconciliation status.,2026-06-29,,Answered,1,Low,synthetic
+Q-0060,S003,P-0039,visits,actual_date,V-00199,Confirm Week 12 / End of Treatment timing and protocol-window rationale.,2026-06-24,,Answered,6,High,synthetic
+Q-0061,S003,P-0089,labs,result_value,L-01156,Review HbA1c result entry.,2026-04-17,2026-04-21,Closed,4,Low,synthetic
+Q-0062,S005,P-0060,visits,actual_date,V-00297,Confirm Week 4 timing and protocol-window rationale.,2026-05-23,2026-06-02,Closed,10,Low,synthetic
+Q-0063,S004,P-0070,visits,actual_date,V-00349,Confirm Week 12 / End of Treatment timing and protocol-window rationale.,2026-06-18,,Open,12,High,synthetic
+Q-0064,S001,P-0044,labs,result_value,L-00573,Review Creatinine result entry.,2026-02-18,,Open,132,Medium,synthetic
+Q-0065,S004,P-0023,labs,result_value,L-00299,Review ALT result entry.,2026-05-19,,Open,42,High,synthetic
+Q-0066,S006,P-0017,labs,result_value,L-00215,Review ALT result entry.,2026-03-30,2026-04-02,Closed,3,Low,synthetic
+Q-0067,S003,P-0062,labs,result_value,L-00795,Review Creatinine result entry.,2026-04-15,,Open,76,High,synthetic
+Q-0068,S002,P-0030,adverse_events,follow_up_status,AE-0022,Confirm AE follow-up and reconciliation status.,2026-05-07,2026-05-20,Closed,13,Low,synthetic
+Q-0069,S003,P-0062,adverse_events,follow_up_status,AE-0041,Confirm AE follow-up and reconciliation status.,2026-05-08,,Open,53,Low,synthetic
+Q-0070,S003,P-0029,labs,result_value,L-00373,Review HbA1c result entry.,2026-05-15,,Open,46,Low,synthetic
+Q-0071,S006,P-0017,adverse_events,follow_up_status,AE-0013,Confirm AE follow-up and reconciliation status.,2026-06-16,,Open,14,Low,synthetic
+Q-0072,S004,P-0004,visits,actual_date,V-00017,Confirm Week 8 timing and protocol-window rationale.,2026-06-12,,Open,18,Low,synthetic

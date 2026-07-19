@@ -1,0 +1,37 @@
+site_id,visit_name,scheduled_n,completed_n,missed_n,pending_n,outside_window_n,completion_rate,window_miss_rate
+S001,30-Day Safety Follow-up,21,10,0,11,1,0.476,0.1
+S001,Baseline / Randomisation,23,23,0,0,0,1.0,0.0
+S001,Screening,27,27,0,0,8,1.0,0.296
+S001,Week 12 / End of Treatment,21,19,0,2,0,0.905,0.0
+S001,Week 4,23,23,0,0,6,1.0,0.261
+S001,Week 8,23,22,1,0,5,0.957,0.227
+S002,30-Day Safety Follow-up,15,10,0,5,2,0.667,0.2
+S002,Baseline / Randomisation,18,18,0,0,0,1.0,0.0
+S002,Screening,21,21,0,0,7,1.0,0.333
+S002,Week 12 / End of Treatment,15,13,0,2,0,0.867,0.0
+S002,Week 4,18,17,1,0,1,0.944,0.059
+S002,Week 8,17,15,2,0,4,0.882,0.267
+S003,30-Day Safety Follow-up,16,3,0,13,1,0.188,0.333
+S003,Baseline / Randomisation,18,18,0,0,0,1.0,0.0
+S003,Screening,20,20,0,0,8,1.0,0.4
+S003,Week 12 / End of Treatment,17,7,2,8,1,0.412,0.143
+S003,Week 4,18,18,0,0,5,1.0,0.278
+S003,Week 8,17,15,2,0,2,0.882,0.133
+S004,30-Day Safety Follow-up,20,3,0,17,0,0.15,0.0
+S004,Baseline / Randomisation,23,23,0,0,0,1.0,0.0
+S004,Screening,28,28,0,0,6,1.0,0.214
+S004,Week 12 / End of Treatment,20,16,0,4,3,0.8,0.188
+S004,Week 4,23,21,2,0,6,0.913,0.286
+S004,Week 8,23,21,1,1,7,0.913,0.333
+S005,30-Day Safety Follow-up,15,0,0,15,0,0.0,0.0
+S005,Baseline / Randomisation,17,17,0,0,0,1.0,0.0
+S005,Screening,21,21,0,0,4,1.0,0.19
+S005,Week 12 / End of Treatment,15,5,0,10,1,0.333,0.2
+S005,Week 4,17,17,0,0,10,1.0,0.588
+S005,Week 8,15,14,1,0,1,0.933,0.071
+S006,30-Day Safety Follow-up,5,0,0,5,0,0.0,0.0
+S006,Baseline / Randomisation,8,8,0,0,0,1.0,0.0
+S006,Screening,9,9,0,0,1,1.0,0.111
+S006,Week 12 / End of Treatment,5,4,0,1,2,0.8,0.5
+S006,Week 4,8,7,1,0,2,0.875,0.286
+S006,Week 8,6,6,0,0,2,1.0,0.333

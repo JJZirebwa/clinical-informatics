@@ -1,0 +1,217 @@
+check_id,severity,table_name,record_id,site_id,participant_id,message
+required_hba1c_availability,High,participants,P-0032,S006,P-0032,No populated HbA1c result is available at screening or baseline.
+visit_window_adherence,High,visits,V-00002,S005,P-0002,Screening is 1 day outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00004,S005,P-0002,Week 4 is 2 days outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00010,S004,P-0003,Week 4 is 7 days outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00016,S004,P-0004,Week 4 is 4 days outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00017,S004,P-0004,Week 8 is 6 days outside the protocol visit window.
+visit_window_adherence,High,visits,V-00018,S004,P-0004,Week 12 / End of Treatment is 1 day outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00035,S002,P-0007,Week 8 is 16 days outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00040,S005,P-0008,Week 4 is 4 days outside the protocol visit window.
+visit_window_adherence,High,visits,V-00056,S004,P-0011,Screening is 1 day outside the protocol visit window.
+visit_window_adherence,High,visits,V-00062,S003,P-0012,Screening is 1 day outside the protocol visit window.
+visit_window_adherence,High,visits,V-00066,S003,P-0012,Week 12 / End of Treatment is 9 days outside the protocol visit window.
+visit_window_adherence,High,visits,V-00068,S004,P-0013,Screening is 3 days outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00078,S004,P-0015,Week 4 is 7 days outside the protocol visit window.
+visit_window_adherence,High,visits,V-00083,S006,P-0017,Screening is 1 day outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00085,S006,P-0017,Week 4 is 17 days outside the protocol visit window.
+visit_window_adherence,High,visits,V-00086,S003,P-0018,Screening is 1 day outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00100,S003,P-0020,Week 4 is 3 days outside the protocol visit window.
+visit_window_adherence,High,visits,V-00104,S001,P-0021,Screening is 2 days outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00112,S006,P-0022,Week 4 is 5 days outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00113,S006,P-0022,Week 8 is 10 days outside the protocol visit window.
+visit_window_adherence,High,visits,V-00114,S004,P-0023,Screening is 3 days outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00116,S004,P-0023,Week 4 is 5 days outside the protocol visit window.
+visit_window_adherence,High,visits,V-00120,S005,P-0024,Screening is 2 days outside the protocol visit window.
+visit_window_adherence,High,visits,V-00126,S002,P-0025,Screening is 3 days outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00138,S002,P-0027,Week 4 is 3 days outside the protocol visit window.
+visit_window_adherence,High,visits,V-00148,S002,P-0030,Screening is 3 days outside the protocol visit window.
+visit_window_adherence,High,visits,V-00161,S004,P-0033,Screening is 2 days outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00191,S005,P-0038,Week 4 is 11 days outside the protocol visit window.
+visit_window_adherence,High,visits,V-00193,S005,P-0038,Week 12 / End of Treatment is 2 days outside the protocol visit window.
+visit_window_adherence,High,visits,V-00201,S002,P-0040,Screening is 1 day outside the protocol visit window.
+visit_window_adherence,High,visits,V-00204,S001,P-0041,Screening is 2 days outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00206,S001,P-0041,Week 4 is 4 days outside the protocol visit window.
+visit_window_adherence,High,visits,V-00216,S004,P-0043,Screening is 1 day outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00225,S001,P-0044,Week 8 is 3 days outside the protocol visit window.
+visit_window_adherence,High,visits,V-00228,S001,P-0045,Screening is 2 days outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00237,S005,P-0047,Week 4 is 8 days outside the protocol visit window.
+visit_window_adherence,High,visits,V-00249,S002,P-0049,30-Day Safety Follow-up is 11 days outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00257,S001,P-0053,Week 4 is 5 days outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00267,S004,P-0055,Week 4 is 5 days outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00268,S004,P-0055,Week 8 is 9 days outside the protocol visit window.
+visit_window_adherence,High,visits,V-00283,S005,P-0058,Screening is 1 day outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00285,S005,P-0058,Week 4 is 4 days outside the protocol visit window.
+visit_window_adherence,High,visits,V-00293,S006,P-0059,Week 12 / End of Treatment is 3 days outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00297,S005,P-0060,Week 4 is 3 days outside the protocol visit window.
+visit_window_adherence,High,visits,V-00307,S003,P-0062,Screening is 3 days outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00310,S003,P-0062,Week 8 is 9 days outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00317,S005,P-0065,Week 4 is 20 days outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00324,S006,P-0066,Week 8 is 2 days outside the protocol visit window.
+visit_window_adherence,High,visits,V-00325,S006,P-0066,Week 12 / End of Treatment is 4 days outside the protocol visit window.
+visit_window_adherence,High,visits,V-00327,S002,P-0067,Screening is 1 day outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00330,S002,P-0067,Week 8 is 3 days outside the protocol visit window.
+visit_window_adherence,High,visits,V-00332,S002,P-0067,30-Day Safety Follow-up is 1 day outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00336,S004,P-0068,Week 8 is 3 days outside the protocol visit window.
+visit_window_adherence,High,visits,V-00339,S004,P-0069,Screening is 1 day outside the protocol visit window.
+visit_window_adherence,High,visits,V-00349,S004,P-0070,Week 12 / End of Treatment is 2 days outside the protocol visit window.
+visit_window_adherence,High,visits,V-00355,S004,P-0071,Week 12 / End of Treatment is 1 day outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00360,S005,P-0072,Week 8 is 2 days outside the protocol visit window.
+visit_window_adherence,High,visits,V-00364,S003,P-0074,Screening is 3 days outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00379,S002,P-0076,Week 8 is 3 days outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00384,S004,P-0077,Week 4 is 14 days outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00385,S004,P-0077,Week 8 is 8 days outside the protocol visit window.
+visit_window_adherence,High,visits,V-00388,S003,P-0078,Screening is 3 days outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00390,S003,P-0078,Week 4 is 1 day outside the protocol visit window.
+visit_window_adherence,High,visits,V-00397,S001,P-0080,Screening is 1 day outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00412,S004,P-0082,Week 8 is 10 days outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00435,S003,P-0086,Week 4 is 1 day outside the protocol visit window.
+visit_window_adherence,High,visits,V-00439,S002,P-0087,Screening is 3 days outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00442,S002,P-0087,Week 8 is 4 days outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00447,S005,P-0088,Week 4 is 15 days outside the protocol visit window.
+visit_window_adherence,High,visits,V-00451,S003,P-0089,Screening is 3 days outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00453,S003,P-0089,Week 4 is 9 days outside the protocol visit window.
+visit_window_adherence,High,visits,V-00457,S003,P-0090,Screening is 2 days outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00479,S001,P-0095,Week 4 is 4 days outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00480,S001,P-0095,Week 8 is 10 days outside the protocol visit window.
+visit_window_adherence,High,visits,V-00487,S003,P-0097,Screening is 3 days outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00489,S003,P-0097,Week 4 is 8 days outside the protocol visit window.
+visit_window_adherence,High,visits,V-00492,S003,P-0097,30-Day Safety Follow-up is 4 days outside the protocol visit window.
+visit_window_adherence,High,visits,V-00525,S001,P-0107,Screening is 2 days outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00538,S005,P-0111,Week 4 is 10 days outside the protocol visit window.
+visit_window_adherence,High,visits,V-00548,S001,P-0113,Screening is 3 days outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00550,S001,P-0113,Week 4 is 1 day outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00557,S003,P-0114,Week 8 is 1 day outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00563,S004,P-0115,Week 8 is 9 days outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00568,S001,P-0116,Week 4 is 5 days outside the protocol visit window.
+visit_window_adherence,High,visits,V-00571,S001,P-0116,30-Day Safety Follow-up is 3 days outside the protocol visit window.
+visit_window_adherence,High,visits,V-00572,S005,P-0117,Screening is 1 day outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00574,S005,P-0117,Week 4 is 2 days outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00581,S004,P-0118,Week 8 is 12 days outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00587,S001,P-0119,Week 8 is 6 days outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00593,S001,P-0120,Week 8 is 8 days outside the protocol visit window.
+visit_window_adherence,High,visits,V-00596,S001,P-0121,Screening is 1 day outside the protocol visit window.
+visit_window_adherence,High,visits,V-00602,S002,P-0122,Screening is 3 days outside the protocol visit window.
+visit_window_adherence,High,visits,V-00608,S002,P-0123,Screening is 1 day outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00617,S001,P-0124,Week 8 is 7 days outside the protocol visit window.
+visit_window_adherence,High,visits,V-00621,S001,P-0126,Screening is 1 day outside the protocol visit window.
+visit_window_adherence,Medium,visits,V-00623,S001,P-0126,Week 4 is 10 days outside the protocol visit window.
+lab_result_plausibility,High,labs,L-00062,S002,P-0005,ALT result is outside the broad synthetic plausibility range.
+lab_result_completeness,High,labs,L-00080,S002,P-0007,ALT result is missing for a performed visit.
+lab_result_completeness,High,labs,L-00095,S005,P-0008,ALT result is missing for a performed visit.
+lab_result_completeness,Medium,labs,L-00101,S005,P-0008,ALT result is missing for a performed visit.
+lab_result_completeness,Medium,labs,L-00178,S004,P-0013,HbA1c result is missing for a performed visit.
+lab_result_completeness,Medium,labs,L-00188,S001,P-0014,ALT result is missing for a performed visit.
+lab_result_completeness,High,labs,L-00208,S001,P-0016,HbA1c result is missing for a performed visit.
+lab_result_completeness,High,labs,L-00212,S006,P-0017,ALT result is missing for a performed visit.
+lab_result_completeness,High,labs,L-00215,S006,P-0017,ALT result is missing for a performed visit.
+lab_result_completeness,Medium,labs,L-00227,S003,P-0018,ALT result is missing for a performed visit.
+lab_result_completeness,High,labs,L-00237,S004,P-0019,Creatinine result is missing for a performed visit.
+lab_result_plausibility,High,labs,L-00241,S004,P-0019,HbA1c result is outside the broad synthetic plausibility range.
+lab_result_completeness,High,labs,L-00248,S004,P-0019,ALT result is missing for a performed visit.
+lab_result_plausibility,High,labs,L-00279,S001,P-0021,Creatinine result is outside the broad synthetic plausibility range.
+lab_result_completeness,Medium,labs,L-00288,S006,P-0022,Creatinine result is missing for a performed visit.
+lab_result_completeness,Medium,labs,L-00299,S004,P-0023,ALT result is missing for a performed visit.
+lab_result_completeness,High,labs,L-00322,S002,P-0025,HbA1c result is missing for a performed visit.
+lab_result_completeness,Medium,labs,L-00330,S002,P-0025,Creatinine result is missing for a performed visit.
+lab_result_completeness,Medium,labs,L-00341,S001,P-0026,ALT result is missing for a performed visit.
+lab_result_completeness,High,labs,L-00369,S003,P-0029,Creatinine result is missing for a performed visit.
+lab_result_completeness,Medium,labs,L-00373,S003,P-0029,HbA1c result is missing for a performed visit.
+lab_result_plausibility,High,labs,L-00394,S002,P-0030,HbA1c result is outside the broad synthetic plausibility range.
+lab_result_completeness,High,labs,L-00400,S006,P-0032,HbA1c result is missing for a performed visit.
+lab_result_completeness,High,labs,L-00403,S006,P-0032,HbA1c result is missing for a performed visit.
+lab_result_plausibility,High,labs,L-00443,S004,P-0034,ALT result is outside the broad synthetic plausibility range.
+lab_result_completeness,Medium,labs,L-00511,S003,P-0039,HbA1c result is missing for a performed visit.
+lab_result_completeness,High,labs,L-00573,S001,P-0044,Creatinine result is missing for a performed visit.
+lab_result_plausibility,High,labs,L-00599,S001,P-0045,ALT result is outside the broad synthetic plausibility range.
+lab_result_completeness,Medium,labs,L-00666,S001,P-0053,Creatinine result is missing for a performed visit.
+lab_result_plausibility,High,labs,L-00696,S004,P-0055,Creatinine result is outside the broad synthetic plausibility range.
+lab_result_completeness,Medium,labs,L-00708,S005,P-0056,Creatinine result is missing for a performed visit.
+lab_result_completeness,High,labs,L-00795,S003,P-0062,Creatinine result is missing for a performed visit.
+lab_result_completeness,High,labs,L-00889,S004,P-0070,HbA1c result is missing for a performed visit.
+lab_result_plausibility,High,labs,L-00890,S004,P-0070,ALT result is outside the broad synthetic plausibility range.
+lab_result_completeness,High,labs,L-00914,S004,P-0071,ALT result is missing for a performed visit.
+lab_result_completeness,Medium,labs,L-00958,S004,P-0075,HbA1c result is missing for a performed visit.
+lab_result_completeness,Medium,labs,L-01000,S003,P-0078,HbA1c result is missing for a performed visit.
+lab_result_completeness,High,labs,L-01019,S001,P-0080,ALT result is missing for a performed visit.
+lab_result_completeness,High,labs,L-01047,S002,P-0081,Creatinine result is missing for a performed visit.
+lab_result_completeness,High,labs,L-01081,S003,P-0084,HbA1c result is missing for a performed visit.
+lab_result_completeness,High,labs,L-01083,S003,P-0084,Creatinine result is missing for a performed visit.
+lab_result_completeness,High,labs,L-01094,S005,P-0085,ALT result is missing for a performed visit.
+lab_result_plausibility,High,labs,L-01127,S002,P-0087,ALT result is outside the broad synthetic plausibility range.
+lab_result_completeness,Medium,labs,L-01145,S005,P-0088,ALT result is missing for a performed visit.
+lab_result_plausibility,High,labs,L-01156,S003,P-0089,HbA1c result is outside the broad synthetic plausibility range.
+lab_result_completeness,Medium,labs,L-01190,S003,P-0091,ALT result is missing for a performed visit.
+lab_result_completeness,Medium,labs,L-01229,S001,P-0095,ALT result is missing for a performed visit.
+lab_result_completeness,Medium,labs,L-01242,S002,P-0096,Creatinine result is missing for a performed visit.
+lab_result_plausibility,High,labs,L-01266,S001,P-0098,Creatinine result is outside the broad synthetic plausibility range.
+lab_result_completeness,Medium,labs,L-01339,S006,P-0106,HbA1c result is missing for a performed visit.
+lab_result_completeness,High,labs,L-01367,S006,P-0109,ALT result is missing for a performed visit.
+lab_result_completeness,Medium,labs,L-01369,S006,P-0109,HbA1c result is missing for a performed visit.
+lab_result_plausibility,High,labs,L-01469,S005,P-0117,ALT result is outside the broad synthetic plausibility range.
+lab_result_completeness,Medium,labs,L-01471,S005,P-0117,HbA1c result is missing for a performed visit.
+lab_result_completeness,Medium,labs,L-01472,S005,P-0117,ALT result is missing for a performed visit.
+lab_result_completeness,Medium,labs,L-01473,S005,P-0117,Creatinine result is missing for a performed visit.
+lab_result_completeness,Medium,labs,L-01501,S001,P-0119,HbA1c result is missing for a performed visit.
+lab_result_plausibility,High,labs,L-01519,S001,P-0120,HbA1c result is outside the broad synthetic plausibility range.
+lab_result_completeness,High,labs,L-01523,S001,P-0120,ALT result is missing for a performed visit.
+lab_result_plausibility,High,labs,L-01578,S001,P-0124,Creatinine result is outside the broad synthetic plausibility range.
+query_ageing,Medium,queries,Q-0001,S004,P-0055,"Open query has been unresolved for 103 days, above the 14-day threshold."
+query_ageing,Medium,queries,Q-0002,S003,P-0029,"Answered query has been unresolved for 27 days, above the 14-day threshold."
+query_ageing,Medium,queries,Q-0003,S002,P-0081,"Open query has been unresolved for 68 days, above the 14-day threshold."
+query_ageing,Medium,queries,Q-0004,S003,P-0012,"Open query has been unresolved for 149 days, above the 14-day threshold."
+query_ageing,Medium,queries,Q-0008,S004,P-0033,"Answered query has been unresolved for 67 days, above the 14-day threshold."
+query_ageing,Medium,queries,Q-0009,S005,P-0038,"Open query has been unresolved for 32 days, above the 14-day threshold."
+query_ageing,High,queries,Q-0012,S001,P-0026,"Open query has been unresolved for 125 days, above the 14-day threshold."
+query_ageing,High,queries,Q-0013,S004,P-0043,"Open query has been unresolved for 102 days, above the 14-day threshold."
+query_ageing,High,queries,Q-0014,S006,P-0017,"Answered query has been unresolved for 105 days, above the 14-day threshold."
+query_ageing,Medium,queries,Q-0015,S005,P-0008,"Open query has been unresolved for 30 days, above the 14-day threshold."
+query_ageing,Medium,queries,Q-0018,S004,P-0055,"Answered query has been unresolved for 78 days, above the 14-day threshold."
+query_ageing,High,queries,Q-0022,S005,P-0111,"Answered query has been unresolved for 59 days, above the 14-day threshold."
+query_ageing,Medium,queries,Q-0023,S005,P-0088,"Open query has been unresolved for 33 days, above the 14-day threshold."
+query_ageing,Medium,queries,Q-0025,S004,P-0013,"Answered query has been unresolved for 132 days, above the 14-day threshold."
+query_ageing,Medium,queries,Q-0026,S001,P-0095,"Answered query has been unresolved for 46 days, above the 14-day threshold."
+query_ageing,Medium,queries,Q-0029,S001,P-0107,"Open query has been unresolved for 144 days, above the 14-day threshold."
+query_ageing,Medium,queries,Q-0032,S003,P-0078,"Answered query has been unresolved for 109 days, above the 14-day threshold."
+query_ageing,Medium,queries,Q-0036,S006,P-0022,"Answered query has been unresolved for 75 days, above the 14-day threshold."
+query_ageing,High,queries,Q-0037,S005,P-0058,"Open query has been unresolved for 19 days, above the 14-day threshold."
+query_ageing,Medium,queries,Q-0038,S005,P-0058,"Open query has been unresolved for 15 days, above the 14-day threshold."
+query_ageing,Medium,queries,Q-0040,S001,P-0107,"Open query has been unresolved for 116 days, above the 14-day threshold."
+query_ageing,Medium,queries,Q-0041,S004,P-0023,"Open query has been unresolved for 100 days, above the 14-day threshold."
+query_ageing,Medium,queries,Q-0042,S004,P-0077,"Open query has been unresolved for 19 days, above the 14-day threshold."
+query_ageing,High,queries,Q-0043,S005,P-0117,"Open query has been unresolved for 66 days, above the 14-day threshold."
+query_ageing,Medium,queries,Q-0045,S005,P-0111,"Open query has been unresolved for 30 days, above the 14-day threshold."
+query_ageing,High,queries,Q-0046,S005,P-0117,"Open query has been unresolved for 84 days, above the 14-day threshold."
+query_ageing,Medium,queries,Q-0047,S005,P-0117,"Open query has been unresolved for 61 days, above the 14-day threshold."
+query_ageing,Medium,queries,Q-0048,S002,P-0096,"Open query has been unresolved for 63 days, above the 14-day threshold."
+query_ageing,High,queries,Q-0052,S003,P-0020,"Open query has been unresolved for 63 days, above the 14-day threshold."
+query_ageing,Medium,queries,Q-0054,S001,P-0041,"Answered query has been unresolved for 153 days, above the 14-day threshold."
+query_ageing,Medium,queries,Q-0057,S005,P-0002,"Open query has been unresolved for 80 days, above the 14-day threshold."
+query_ageing,Medium,queries,Q-0064,S001,P-0044,"Open query has been unresolved for 132 days, above the 14-day threshold."
+query_ageing,High,queries,Q-0065,S004,P-0023,"Open query has been unresolved for 42 days, above the 14-day threshold."
+query_ageing,High,queries,Q-0067,S003,P-0062,"Open query has been unresolved for 76 days, above the 14-day threshold."
+query_ageing,Medium,queries,Q-0069,S003,P-0062,"Open query has been unresolved for 53 days, above the 14-day threshold."
+query_ageing,Medium,queries,Q-0070,S003,P-0029,"Open query has been unresolved for 46 days, above the 14-day threshold."
+query_ageing,Medium,queries,Q-0072,S004,P-0004,"Open query has been unresolved for 18 days, above the 14-day threshold."
+ae_follow_up,Medium,adverse_events,AE-0005,S001,P-0010,Ongoing adverse event requires active follow-up and cannot be treated as complete.
+ae_follow_up,Medium,adverse_events,AE-0007,S001,P-0010,Ongoing adverse event requires active follow-up and cannot be treated as complete.
+ae_follow_up,Medium,adverse_events,AE-0013,S006,P-0017,Ongoing adverse event requires active follow-up and cannot be treated as complete.
+ae_follow_up,High,adverse_events,AE-0014,S003,P-0018,Serious adverse-event follow-up is not complete.
+ae_follow_up,Medium,adverse_events,AE-0019,S002,P-0027,Ongoing adverse event requires active follow-up and cannot be treated as complete.
+ae_follow_up,Medium,adverse_events,AE-0020,S003,P-0029,Ongoing adverse event requires active follow-up and cannot be treated as complete.
+ae_follow_up,Medium,adverse_events,AE-0021,S002,P-0030,Ongoing adverse event requires active follow-up and cannot be treated as complete.
+ae_follow_up,Medium,adverse_events,AE-0026,S004,P-0036,Ongoing adverse event requires active follow-up and cannot be treated as complete.
+ae_follow_up,Medium,adverse_events,AE-0028,S005,P-0038,Ongoing adverse event requires active follow-up and cannot be treated as complete.
+ae_follow_up,High,adverse_events,AE-0036,S005,P-0058,Ongoing adverse event requires active follow-up and cannot be treated as complete.
+ae_follow_up,Medium,adverse_events,AE-0039,S005,P-0061,Ongoing adverse event requires active follow-up and cannot be treated as complete.
+ae_follow_up,Medium,adverse_events,AE-0041,S003,P-0062,Ongoing adverse event requires active follow-up and cannot be treated as complete.
+ae_follow_up,Medium,adverse_events,AE-0048,S003,P-0074,Ongoing adverse event requires active follow-up and cannot be treated as complete.
+ae_follow_up,Medium,adverse_events,AE-0049,S004,P-0077,Ongoing adverse event requires active follow-up and cannot be treated as complete.
+ae_follow_up,High,adverse_events,AE-0050,S003,P-0078,Ongoing adverse event requires active follow-up and cannot be treated as complete.
+ae_follow_up,Medium,adverse_events,AE-0054,S004,P-0082,Ongoing adverse event requires active follow-up and cannot be treated as complete.
+ae_follow_up,Medium,adverse_events,AE-0057,S005,P-0085,Ongoing adverse event requires active follow-up and cannot be treated as complete.
+ae_follow_up,Medium,adverse_events,AE-0061,S003,P-0091,Ongoing adverse event requires active follow-up and cannot be treated as complete.
+ae_follow_up,Medium,adverse_events,AE-0064,S002,P-0096,Ongoing adverse event requires active follow-up and cannot be treated as complete.
+ae_follow_up,Medium,adverse_events,AE-0073,S002,P-0123,Ongoing adverse event requires active follow-up and cannot be treated as complete.
+milestone_timeliness,Medium,milestones,M-0003,S001,,Enrolment Target milestone is more than 7 days after plan.
+milestone_timeliness,Medium,milestones,M-0007,S002,,Enrolment Target milestone is more than 7 days after plan.

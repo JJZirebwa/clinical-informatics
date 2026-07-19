@@ -1,0 +1,17 @@
+site_id,severity,open_query_n,median_open_query_age_days,max_open_query_age_days
+S001,High,1,125.0,125
+S001,Low,1,116.0,116
+S001,Medium,5,132.0,153
+S002,Low,2,34.5,68
+S002,Medium,1,63.0,63
+S003,High,3,63.0,76
+S003,Low,3,46.0,53
+S003,Medium,3,109.0,149
+S004,High,3,42.0,102
+S004,Low,7,67.0,103
+S004,Medium,2,72.0,132
+S005,High,4,62.5,84
+S005,Low,5,32.0,61
+S005,Medium,2,55.0,80
+S006,High,1,105.0,105
+S006,Low,2,44.5,75

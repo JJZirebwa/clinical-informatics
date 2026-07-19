@@ -1,0 +1,14 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+htmlcov/
+*.egg-info/
+.venv/
+venv/
+.streamlit/secrets.toml
+outputs/*.log
+LIMITATIONS_AND_GOVERNANCE.md

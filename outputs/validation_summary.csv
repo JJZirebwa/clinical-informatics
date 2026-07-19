@@ -1,0 +1,39 @@
+check_id,description,severity,issue_count,status
+primary_key_uniqueness,Primary identifiers are unique within every table.,None,0,Pass
+participant_visit_uniqueness,Each participant has at most one record for each scheduled visit.,None,0,Pass
+participant_site_integrity,Every participant references an existing site.,None,0,Pass
+visit_participant_integrity,Every visit references an existing participant.,None,0,Pass
+visit_site_integrity,Every visit references an existing site.,None,0,Pass
+visit_participant_site_consistency,Each visit uses the same site as its participant.,None,0,Pass
+lab_visit_integrity,Every lab references an existing visit.,None,0,Pass
+lab_participant_integrity,Every lab references an existing participant.,None,0,Pass
+lab_site_integrity,Every lab references an existing site.,None,0,Pass
+lab_visit_participant_consistency,Each lab uses the same participant as its visit.,None,0,Pass
+lab_visit_site_consistency,Each lab uses the same site as its visit.,None,0,Pass
+lab_participant_site_consistency,Each lab uses the same site as its participant.,None,0,Pass
+ae_participant_integrity,Every adverse event references an existing participant.,None,0,Pass
+ae_site_integrity,Every adverse event references an existing site.,None,0,Pass
+ae_participant_site_consistency,Each adverse event uses the same site as its participant.,None,0,Pass
+query_participant_integrity,Every query references an existing participant.,None,0,Pass
+query_site_integrity,Every query references an existing site.,None,0,Pass
+query_participant_site_consistency,Each query uses the same site as its participant.,None,0,Pass
+deviation_participant_integrity,Every protocol deviation references an existing participant.,None,0,Pass
+deviation_site_integrity,Every protocol deviation references an existing site.,None,0,Pass
+deviation_visit_integrity,A supplied related visit references an existing visit.,None,0,Pass
+deviation_participant_site_consistency,Each deviation uses the same site as its participant.,None,0,Pass
+deviation_visit_participant_consistency,Each deviation uses the same participant as its related visit.,None,0,Pass
+deviation_visit_site_consistency,Each deviation uses the same site as its related visit.,None,0,Pass
+milestone_site_integrity,Every milestone references an existing site.,None,0,Pass
+screening_after_site_activation,Screening occurs on or after site activation.,None,0,Pass
+age_eligibility,Participant age is within the synthetic protocol range.,None,0,Pass
+consent_before_screening,Consent occurs on or before screening.,None,0,Pass
+randomization_timing,Randomisation is present when required and does not precede screening.,None,0,Pass
+required_hba1c_availability,Randomised participants have a screening or baseline HbA1c result.,High,1,Review
+critical_field_completeness,Critical identifiers and operational fields are populated.,None,0,Pass
+visit_status_date_consistency,Visit status and actual-date population are consistent.,None,0,Pass
+visit_window_adherence,Performed visit dates are inside the protocol visit window.,High; Medium,96,Review
+lab_result_completeness,Expected lab results are present for performed visits.,High; Medium,46,Review
+lab_result_plausibility,Populated lab results are inside broad plausible limits.,High,14,Review
+query_ageing,Unresolved queries older than the operational threshold are visible.,High; Medium,37,Review
+ae_follow_up,Serious and ongoing adverse-event follow-up is operationally coherent.,High; Medium,20,Review
+milestone_timeliness,Site milestones use the documented delay tolerance.,Medium,2,Review

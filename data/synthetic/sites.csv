@@ -1,0 +1,7 @@
+site_id,site_name,region,activation_date,target_enrollment,site_status
+S001,Northgate Research Centre,North England,2026-01-08,22,Active
+S002,Fenland Metabolic Unit,East England,2026-01-15,18,Active
+S003,Severn Clinical Studies,West England,2026-01-29,20,Active
+S004,Southbank Trials Clinic,London,2026-02-05,24,Active
+S005,Clyde Health Research,Scotland,2026-02-11,16,Active
+S006,Vale Primary Care Research,Wales,2026-02-20,14,Activation Hold

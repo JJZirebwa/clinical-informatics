@@ -1,0 +1,16 @@
+visit_name,test_name,result_missing_n,expected_lab_n,missing_rate
+Baseline / Randomisation,ALT,2,107,0.018691588785046728
+Baseline / Randomisation,Creatinine,2,107,0.018691588785046728
+Baseline / Randomisation,HbA1c,3,107,0.028037383177570093
+Screening,ALT,5,126,0.03968253968253968
+Screening,Creatinine,3,126,0.023809523809523808
+Screening,HbA1c,3,126,0.023809523809523808
+Week 12 / End of Treatment,ALT,3,64,0.046875
+Week 12 / End of Treatment,Creatinine,1,64,0.015625
+Week 12 / End of Treatment,HbA1c,0,64,0.0
+Week 4,ALT,8,103,0.07766990291262135
+Week 4,Creatinine,6,103,0.05825242718446602
+Week 4,HbA1c,5,103,0.04854368932038835
+Week 8,ALT,1,93,0.010752688172043012
+Week 8,Creatinine,0,93,0.0
+Week 8,HbA1c,4,93,0.043010752688172046
