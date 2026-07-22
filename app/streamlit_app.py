@@ -128,7 +128,7 @@ def render_chart(fig_data: pd.DataFrame, chart: object, empty_message: str) -> N
 def main() -> None:
     st.set_page_config(page_title="Clinical Informatics Demo", layout="wide")
     st.title("Clinical Informatics Trial Operations Demo")
-    st.caption("Synthetic protocol-to-data mapping, validation checks, operational metrics, and dashboard views.")
+    st.caption("Synthetic protocol-to-data mapping, validation checks, operational metrics and dashboard views.")
 
     data = load_data()
     site_options = sorted(data["sites"]["site_id"].unique())
@@ -170,7 +170,7 @@ def main() -> None:
         with right:
             st.subheader("Operational notes")
             st.info(
-                "Read enrolment, performed-visit window misses, unresolved-query ageing and validation flags together. No single measure is a site-performance judgement."
+                "Read enrolment, performed-visit window misses, unresolved-query ageing and validation flags together."
             )
             st.dataframe(filtered["site_metrics"], width="stretch", hide_index=True)
 
@@ -245,9 +245,6 @@ def main() -> None:
 
     with tabs[5]:
         st.subheader("Validation and missingness")
-        st.warning(
-            "Validation flags support analyst review. They are not medical adjudications or sponsor SOP decisions."
-        )
         st.dataframe(filtered["validation_flags"], width="stretch", hide_index=True)
         high_missing = filtered["missingness"].sort_values("missing_pct", ascending=False).head(25)
         fig = px.bar(high_missing, x="missing_pct", y="column_name", color="table_name", orientation="h")
