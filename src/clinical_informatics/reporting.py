@@ -21,7 +21,7 @@ def write_data_dictionary(path: Path, tables: dict[str, pd.DataFrame]) -> None:
     lines = [
         "# Data dictionary",
         "",
-        "All datasets in this repository are synthetic and created for demonstration. They do not contain real patient, site, sponsor, or EDC data.",
+        "All datasets in this repository are synthetic, generated with a fixed seed. They contain no real patient, site, sponsor or EDC data.",
         "",
     ]
     for table_name in TABLE_NAMES:
@@ -29,7 +29,7 @@ def write_data_dictionary(path: Path, tables: dict[str, pd.DataFrame]) -> None:
         lines.extend([f"## {table_name}.csv", "", "| Field | Type | Meaning / notes |", "|---|---|---|"])
         for column in frame.columns:
             dtype = str(frame[column].dtype)
-            meaning = DATA_DICTIONARY.get(table_name, {}).get(column, "Synthetic demonstration field.")
+            meaning = DATA_DICTIONARY.get(table_name, {}).get(column, "Synthetic field.")
             lines.append(f"| `{column}` | `{dtype}` | {meaning} |")
         lines.append("")
     path.write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
@@ -41,7 +41,7 @@ def write_validation_report(path: Path, validation: dict[str, pd.DataFrame]) -> 
     lines = [
         "# Validation report",
         "",
-        "This report demonstrates awareness-level clinical data validation checks on synthetic data. It is not a validated clinical data-management system and is not suitable for regulated operational use.",
+        "This report lists the record-level validation checks run on the synthetic snapshot and the issues each one found.",
         "",
         "## Summary",
         "",
@@ -73,9 +73,9 @@ def write_validation_report(path: Path, validation: dict[str, pd.DataFrame]) -> 
             "- Serious adverse events require complete follow-up; ongoing events remain visible until resolved.",
             "- Validation output is issue-oriented so a dashboard user can move from metric to record-level review.",
             "",
-            "## ALCOA+ awareness note",
+            "## ALCOA+ note",
             "",
-            "The checks make each issue attributable to a table and record identifier, readable in tabular form and time-aware through explicit dates. CSV and Markdown outputs support completeness, consistency and availability for review. This is an awareness-level design choice, not a claim of regulatory compliance.",
+            "The checks make each issue attributable to a table and record identifier, readable in tabular form and time-aware through explicit dates. CSV and Markdown outputs support completeness, consistency and availability for review.",
         ]
     )
     path.write_text("\n".join(lines) + "\n", encoding="utf-8")
@@ -108,7 +108,7 @@ def write_method_manifest(path: Path, seed: int, tables: dict[str, pd.DataFrame]
         "",
         f"- Synthetic generation seed: `{seed}`",
         f"- Data cut date: `{DATA_CUT_DATE.date().isoformat()}`",
-        "- Scenario: multicentre Phase II metabolic outcomes trial-operations demonstration",
+        "- Scenario: multicentre Phase II metabolic outcomes trial-operations scenario",
         "",
         "## Generated tables",
         "",

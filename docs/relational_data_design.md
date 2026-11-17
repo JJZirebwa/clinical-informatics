@@ -51,13 +51,13 @@ Each failure produces its own check identifier and message.
 
 ## Deliberate non-relational reference
 
-`queries.record_id` can refer to a visit, lab or adverse event depending on `queries.table_name`. A conventional foreign key cannot target several parent tables. The current project keeps this as an inspectable cross-table reference and does not claim database enforcement.
+`queries.record_id` can refer to a visit, lab or adverse event depending on `queries.table_name`. A conventional foreign key cannot target several parent tables. The project keeps it as a cross-table reference that the validation layer checks; the database itself does not enforce it.
 
-A production design could replace it with table-specific nullable keys, a common record registry or application-enforced polymorphic constraints. That extension is outside this CSV-based demonstration.
+A production design could replace it with table-specific nullable keys, a common record registry or application-enforced polymorphic constraints. In this CSV-based version the check lives in Python.
 
 ## Relational practice outputs
 
-`notebooks/relational_data_practice.py` demonstrates:
+`notebooks/relational_data_practice.py` covers:
 
 - participants joined to sites for enrolment progress;
 - visits joined to participant status for adherence;

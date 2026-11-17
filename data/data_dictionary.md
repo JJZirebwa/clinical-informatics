@@ -1,6 +1,6 @@
 # Data dictionary
 
-All datasets in this repository are synthetic and created for demonstration. They do not contain real patient, site, sponsor, or EDC data.
+All datasets in this repository are synthetic, generated with a fixed seed. They contain no real patient, site, sponsor or EDC data.
 
 ## sites.csv
 
@@ -78,7 +78,7 @@ All datasets in this repository are synthetic and created for demonstration. The
 | `reported_date` | `object` | Synthetic date the event was reported. |
 | `seriousness` | `object` | Non-serious or Serious. |
 | `severity` | `object` | Mild, Moderate, or Severe. |
-| `relationship` | `object` | Investigator-style causality category for demonstration. |
+| `relationship` | `object` | Investigator-style causality category. |
 | `action_taken` | `object` | Illustrative action following the event. |
 | `outcome` | `object` | Resolved, Recovering, Ongoing, or Unknown. |
 | `follow_up_required` | `bool` | Whether follow-up is operationally required. |

@@ -1,4 +1,4 @@
-"""Relational-data practice script for the synthetic clinical informatics project.
+"""Joins and grouped calculations across the synthetic study tables.
 
 Run after `python -m clinical_informatics.build_project`.
 """
@@ -108,9 +108,9 @@ def main() -> None:
     interpretation = [
         "# Relational data practice interpretation",
         "",
-        "This script demonstrates joins and aggregations across synthetic study tables.",
+        "This script runs joins and aggregations across the synthetic study tables.",
         "",
-        "## Checks demonstrated",
+        "## Checks",
         "",
         "- Site enrolment uses `participants` joined to `sites`.",
         "- Visit adherence uses `visits` joined to participant status.",

@@ -1,10 +1,10 @@
-# Clinical data management awareness
+# Clinical data management concepts
 
 ## Purpose
 
-This page identifies the clinical data-management ideas used to shape the synthetic workflow. It records context, not certification, compliance or production experience.
+The clinical data-management ideas that shaped the workflow, where each one shows up, and what a fuller system would add.
 
-| Concept | How it appears here | Boundary |
+| Concept | How it appears here | Not modelled yet |
 |---|---|---|
 | Protocol-driven collection | The schedule defines expected visits, labs and review questions. | The scenario is invented and much smaller than a real protocol. |
 | Record traceability | Issues include a table, record, site and participant where applicable. | There is no source document or source-data verification. |
@@ -12,7 +12,7 @@ This page identifies the clinical data-management ideas used to shape the synthe
 | Data review | Checks cover completeness, relationships, dates, plausibility and follow-up. | Rules are illustrative and do not reproduce sponsor procedures. |
 | Risk-focused review | Critical visits, unresolved queries and AE follow-up are visible. | Dashboard measures are not monitoring decisions or site judgements. |
 | Data integrity | Stable identifiers, explicit dates and reproducible outputs support inspection. | Files do not provide access control, electronic signatures or validated audit trails. |
-| CDASH and SDTM awareness | The standards inform vocabulary and the separation of collection from submission structures. | No CDASH conformance or SDTM transformation is implemented. |
+| CDASH and SDTM | The standards inform vocabulary and the separation of collection from submission structures. | No CDASH conformance or SDTM transformation is implemented. |
 
 ## Questions the workflow can answer
 
@@ -37,4 +37,4 @@ This page identifies the clinical data-management ideas used to shape the synthe
 - [CDISC CDASH](https://www.cdisc.org/standards/foundational/cdash)
 - [CDISC SDTM](https://www.cdisc.org/standards/foundational/sdtm)
 
-These references are used as public context for terminology and design questions. They are not a conformance checklist for this repository.
+I used these for terminology and design questions.

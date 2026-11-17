@@ -1,8 +1,8 @@
-# Clinical informatics trial-operations demonstration
+# Clinical trial operations data model
 
 This project follows a small study-style protocol from requirements to reviewable operational outputs. It turns the protocol into linked tables, generates a deterministic synthetic snapshot, runs record-level checks, calculates site and study metrics and presents the results in reports and a Streamlit dashboard.
 
-All people, sites, events and results are synthetic. The repository is a learning and demonstration project.
+All people, sites, events and results are synthetic.
 
 [Hosted dashboard](https://clinical-informatics.streamlit.app)
 
@@ -17,7 +17,7 @@ Clinical Operations decisions depend on data that can be traced back to the stud
 - where protocol deviations and data-quality issues are concentrated; and
 - how each summary measure connects to a record-level issue.
 
-The aim is to demonstrate the reasoning between a protocol, a relational data model and an operational review view.
+I wanted to follow the reasoning from a protocol to a relational data model to an operational review view, and keep every summary number traceable to the records behind it.
 
 ## End-to-end workflow
 
@@ -61,7 +61,7 @@ The validation layer checks every relationship shown above, including agreement 
 - [`src/clinical_informatics/validation.py`](src/clinical_informatics/validation.py) produces record-level issues and a check summary.
 - [`src/clinical_informatics/metrics.py`](src/clinical_informatics/metrics.py) derives operational measures from the same filtered records.
 - [`src/clinical_informatics/reporting.py`](src/clinical_informatics/reporting.py) writes the data dictionary, reports, CSV outputs and figures.
-- [`notebooks/relational_data_practice.py`](notebooks/relational_data_practice.py) demonstrates joins and grouped calculations as a plain Python script.
+- [`notebooks/relational_data_practice.py`](notebooks/relational_data_practice.py) runs joins and grouped calculations as a plain Python script.
 - [`app/streamlit_app.py`](app/streamlit_app.py) provides the interactive review views.
 - [`METHODOLOGY.md`](METHODOLOGY.md) gives the calculation rules and implementation method.
 
@@ -91,9 +91,3 @@ Two definitions when reading the figures:
 - the visit-window miss rate uses performed visits (`Completed`, `Late` or `Early`) as its denominator. `Missed` and `Pending` visits are reported separately.
 
 See [`METHODOLOGY.md`](METHODOLOGY.md) for the complete metric and threshold definitions.
-
-## Scope and authorship
-
-I built this as a First Class Biomedical Science graduate with experience working with governed hospital data and Python health-data workflows. I wanted a public, synthetic project I could take apart and explain properly.
-
-I used AI-assisted coding tools during parts of the exploration, debugging and review. I remained responsible for the problem definition, retained implementation, tests, documentation, interpretation and final decisions. The repository is structured so those decisions can be inspected.

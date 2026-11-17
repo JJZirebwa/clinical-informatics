@@ -2,7 +2,7 @@
 
 - Synthetic generation seed: `42`
 - Data cut date: `2026-06-30`
-- Scenario: multicentre Phase II metabolic outcomes trial-operations demonstration
+- Scenario: multicentre Phase II metabolic outcomes trial-operations scenario
 
 ## Generated tables
 

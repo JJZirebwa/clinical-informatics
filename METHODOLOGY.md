@@ -4,7 +4,7 @@
 
 The project uses an invented multicentre Phase II metabolic study in adults aged 35 to 75 with type 2 diabetes and elevated HbA1c despite background metformin therapy. It is a protocol-shaped scenario. The fixed data cut is 30 June 2026.
 
-The demonstration covers screening, baseline/randomisation, Week 4, Week 8, Week 12/end of treatment and a 30-day safety follow-up. The study question provides enough structure to practise operational data design.
+The schedule covers screening, baseline/randomisation, Week 4, Week 8, Week 12/end of treatment and a 30-day safety follow-up. That gives enough structure to design the operational data around.
 
 ## Protocol to data
 
@@ -95,4 +95,4 @@ Clearing a selector produces an empty affected subset. The app displays a notice
 
 `python -m clinical_informatics.build_project --seed 42` is the build. It regenerates the raw tables, data dictionary, issue tables, summaries and static figures. `python notebooks/relational_data_practice.py` regenerates the join and aggregation examples.
 
-GitHub Actions uses Python 3.12, installs the package and development dependencies, runs Ruff, enforces at least 80% test coverage, regenerates the project and confirms that the committed outputs match the code. No dependency lock is committed because Streamlit Community Cloud installs from `requirements.txt`; bounded dependency ranges and CI provide a lighter compatibility record for this demonstration.
+GitHub Actions uses Python 3.12, installs the package and development dependencies, runs Ruff, enforces at least 80% test coverage, regenerates the project and confirms that the committed outputs match the code. No dependency lock is committed because Streamlit Community Cloud installs from `requirements.txt`. The version ranges in `pyproject.toml` and the CI run cover compatibility instead.

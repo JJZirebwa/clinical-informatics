@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "clinical-informatics-demo"
 version = "0.1.0"
-description = "Synthetic clinical informatics protocol-to-dashboard demonstration project."
+description = "Synthetic clinical trial operations data model, validation checks and dashboard."
 requires-python = ">=3.11,<3.14"
 dependencies = [
   "pandas>=2.2,<3",

@@ -1,6 +1,6 @@
 # Validation report
 
-This report demonstrates awareness-level clinical data validation checks on synthetic data. It is not a validated clinical data-management system and is not suitable for regulated operational use.
+This report lists the record-level validation checks run on the synthetic snapshot and the issues each one found.
 
 ## Summary
 
@@ -80,6 +80,6 @@ This report demonstrates awareness-level clinical data validation checks on synt
 - Serious adverse events require complete follow-up; ongoing events remain visible until resolved.
 - Validation output is issue-oriented so a dashboard user can move from metric to record-level review.
 
-## ALCOA+ awareness note
+## ALCOA+ note
 
-The checks make each issue attributable to a table and record identifier, readable in tabular form and time-aware through explicit dates. CSV and Markdown outputs support completeness, consistency and availability for review. This is an awareness-level design choice, not a claim of regulatory compliance.
+The checks make each issue attributable to a table and record identifier, readable in tabular form and time-aware through explicit dates. CSV and Markdown outputs support completeness, consistency and availability for review.

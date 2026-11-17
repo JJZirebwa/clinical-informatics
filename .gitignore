@@ -11,4 +11,3 @@ htmlcov/
 venv/
 .streamlit/secrets.toml
 outputs/*.log
-LIMITATIONS_AND_GOVERNANCE.md

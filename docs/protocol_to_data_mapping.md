@@ -4,11 +4,11 @@
 
 The scenario asks how a clinical operations team might monitor a multicentre Phase II study of an investigational metabolic therapy over 12 weeks in adults with type 2 diabetes and elevated HbA1c despite background metformin therapy.
 
-It is an invented protocol-shaped exercise. The dashboard uses clinical measurements for completeness and follow-up review, not for efficacy inference.
+The protocol is invented. The dashboard uses clinical measurements for completeness and follow-up review, not for efficacy inference.
 
 ## Population and eligibility
 
-| Requirement | Demonstration field or concept | Implementation status | Validation question |
+| Requirement | Field or concept | Implementation status | Validation question |
 |---|---|---|---|
 | Age 35 to 75 years | `participants.age_years` | Implemented | Is age within the inclusive protocol range? |
 | Consent before study procedures | `participants.consent_date`, `screening_date` | Implemented | Is consent on or before screening? |
@@ -21,7 +21,7 @@ The last two requirements remain visible because they matter to protocol interpr
 
 ## Exclusion and safety concepts
 
-| Concept | Demonstration field | Implemented review |
+| Concept | Field | Implemented review |
 |---|---|---|
 | Broad hepatic plausibility | `labs.test_name == "ALT"` | Missing and implausible results are separated; reference flags remain synthetic |
 | Broad renal plausibility | `labs.test_name == "Creatinine"` | Missing and implausible results are separated; no clinical exclusion decision is made |
@@ -72,4 +72,4 @@ The generator records Screening against the pre-randomisation window and fixes B
 - [ClinicalTrials.gov glossary and protocol definitions](https://clinicaltrials.gov/policy/protocol-definitions)
 - [NIMH clinical research toolbox](https://www.nimh.nih.gov/funding/clinical-research/clinical-research-toolbox/nimh-clinical-research-toolbox)
 
-These sources informed the shape and vocabulary of the exercise. The synthetic scenario is not derived from a registered study.
+These sources informed the shape and vocabulary of the scenario. The synthetic scenario is not derived from a registered study.

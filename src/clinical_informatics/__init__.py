@@ -1,4 +1,4 @@
-"""Synthetic clinical informatics demonstration package."""
+"""Synthetic clinical trial operations data model."""
 
 __all__ = ["__version__"]
 

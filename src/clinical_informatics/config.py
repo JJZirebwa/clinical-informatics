@@ -157,7 +157,7 @@ DATA_DICTIONARY = {
         "reported_date": "Synthetic date the event was reported.",
         "seriousness": "Non-serious or Serious.",
         "severity": "Mild, Moderate, or Severe.",
-        "relationship": "Investigator-style causality category for demonstration.",
+        "relationship": "Investigator-style causality category.",
         "action_taken": "Illustrative action following the event.",
         "outcome": "Resolved, Recovering, Ongoing, or Unknown.",
         "follow_up_required": "Whether follow-up is operationally required.",

@@ -141,7 +141,7 @@ def main() -> None:
         statuses = st.multiselect("Participant status", status_options, default=status_options)
         selected_visits = st.multiselect("Visit", visit_options, default=visit_options)
         st.divider()
-        st.caption("All records are synthetic. This dashboard is a portfolio demonstration.")
+        st.caption("All records are synthetic.")
 
     filtered = derive_dashboard_tables(apply_filters(data, selected_sites, statuses, selected_visits))
     if not selected_sites or not statuses or not selected_visits:
